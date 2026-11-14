@@ -566,5 +566,37 @@
       "Drizzle with honey and dust lightly with cinnamon.",
       "Roast or grill until caramelized and charred."
     ]
+  },
+  {
+    "id": "amis-loaded-breakfast-hash-browns",
+    "title": "Ami's Loaded Breakfast Hash Browns",
+    "collection": "Tavern Staples",
+    "emoji": "🥔",
+    "description": "Ami's favorite surprise breakfast: crispy hash brown patties dressed like loaded baked potatoes with melty cheddar, chipotle aioli, crumbled bacon, sour cream and a final sprinkle of cheese.",
+    "yield": "2 servings (4 patties)",
+    "time": "20–30 minutes",
+    "keyIngredients": [
+      "hash brown patties",
+      "bacon",
+      "cheddar",
+      "sour cream",
+      "chipotle aioli"
+    ],
+    "ingredients": [
+      "4 frozen hash brown patties",
+      "4–6 slices bacon",
+      "1 cup shredded cheddar or cheese blend, divided",
+      "½ cup sour cream, or to taste",
+      "¼ cup chipotle aioli, or to taste",
+      "Optional: black pepper or chopped chives",
+      "Optional quick aioli: ½ cup mayonnaise, 1–2 tbsp Guy Fieri's Kickin' Chipotle sauce, 1 tsp lemon juice, pinch garlic powder"
+    ],
+    "steps": [
+      "Cook bacon until crisp, drain and crumble.",
+      "Cook hash brown patties until deep golden and crispy according to package instructions; air fryer works well.",
+      "During the final 1–2 minutes, add shredded cheddar to the patties and let it melt.",
+      "Plate the patties. Drizzle with chipotle aioli, scatter over crumbled bacon, and add dollops of sour cream.",
+      "Finish with another sprinkle of shredded cheese, just like a loaded baked potato. Serve immediately while the patties are crispy."
+    ]
   }
 ]
