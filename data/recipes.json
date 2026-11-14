@@ -278,5 +278,293 @@
       "Taste and adjust sweetness or heat.",
       "Serve immediately or chill until needed."
     ]
+  },
+  {
+    "id": "bayou-travelers-loaf",
+    "title": "Bayou Traveler's Loaf",
+    "collection": "Dockside Feasts",
+    "emoji": "🌽",
+    "description": "Cajun cheddar-jalapeño cousin of the Traveler's Loaf.",
+    "yield": "1 loaf",
+    "time": "35–45 minutes",
+    "keyIngredients": [
+      "flour",
+      "cornmeal",
+      "cheddar",
+      "Greek yogurt",
+      "jalapeño"
+    ],
+    "ingredients": [
+      "1 cup flour",
+      "1 cup yellow cornmeal",
+      "1 tablespoon baking powder",
+      "1 teaspoon salt",
+      "1 teaspoon garlic powder",
+      "1 teaspoon smoked paprika",
+      "1 teaspoon Cajun seasoning",
+      "1 tablespoon chopped rosemary",
+      "1 small jalapeño, diced",
+      "1 cup shredded cheddar",
+      "1 cup plain Greek yogurt",
+      "2–4 tablespoons water, if needed",
+      "2 tablespoons melted butter",
+      "Topping: melted butter, flaky salt, light Cajun seasoning dusting, optional chopped jalapeños"
+    ],
+    "steps": [
+      "Heat oven to 375°F.",
+      "Mix flour, cornmeal, baking powder, salt, garlic powder, smoked paprika, Cajun seasoning, and rosemary.",
+      "Add cheddar and diced jalapeño.",
+      "Stir in Greek yogurt; add water in small splashes only if dough is dry.",
+      "Shape into a rustic loaf and score shallow cuts on top.",
+      "Brush with melted butter; add flaky salt, a little Cajun seasoning, and optional jalapeños.",
+      "Bake 25–30 minutes."
+    ]
+  },
+  {
+    "id": "rotisserie-chicken-broth",
+    "title": "Homemade Rotisserie Chicken Broth",
+    "collection": "Tavern Staples",
+    "emoji": "🍗",
+    "description": "Rich broth made from saved Sam's Club rotisserie chicken carcasses, the foundation of tavern ramen.",
+    "yield": "A pot of broth",
+    "time": "4–6 hours",
+    "keyIngredients": [
+      "rotisserie chicken",
+      "celery",
+      "onion",
+      "carrot"
+    ],
+    "ingredients": [
+      "2 Sam's Club rotisserie chicken carcasses (bones, skin, bits)",
+      "2–3 celery stalks, chopped",
+      "1 large onion, quartered",
+      "2–3 carrots, chopped",
+      "4–6 garlic cloves (optional)",
+      "Water to cover by several inches",
+      "Salt and black pepper",
+      "Optional bay leaf, peppercorns, tiny rosemary sprig"
+    ],
+    "steps": [
+      "Pull off any remaining meat for other meals; place bones, skin, and remaining bits in a large stockpot or slow cooker.",
+      "Add celery, onion, carrots, garlic, and any optional seasonings.",
+      "Cover everything with water by several inches.",
+      "Bring to a boil, then reduce to a low simmer; cook 4–6 hours, uncovered or partially covered.",
+      "Strain through a fine-mesh strainer, removing all solids.",
+      "Cool and refrigerate up to 4 days or freeze in containers or bags."
+    ]
+  },
+  {
+    "id": "bad-ass-tavern-ramen",
+    "title": "Bad Ass Tavern Ramen",
+    "collection": "Dockside Feasts",
+    "emoji": "🍜",
+    "description": "Beef, Napa cabbage, fresh ramen noodles, and jammy eggs in homemade rotisserie broth.",
+    "yield": "2–3 servings",
+    "time": "About 30 minutes with prepared broth",
+    "keyIngredients": [
+      "beef",
+      "Napa cabbage",
+      "ramen noodles",
+      "eggs",
+      "chicken broth"
+    ],
+    "ingredients": [
+      "1 lb stir-fry beef strips",
+      "3–4 cups chopped Napa cabbage",
+      "2–3 sliced green onions",
+      "2–3 portions fresh ramen noodles",
+      "2–4 soft-boiled jammy eggs",
+      "6–8 cups homemade rotisserie broth",
+      "Salt, pepper, and garlic for beef",
+      "Optional crispy garlic, chili oil, chili crisp, sesame seeds"
+    ],
+    "steps": [
+      "Slice beef, chop Napa cabbage, slice green onions, and prepare jammy eggs.",
+      "Sear beef strips in a hot pan with a little oil, salt, pepper, and garlic; set aside.",
+      "Bring homemade broth to a simmer in a large pot.",
+      "Add Napa cabbage and simmer 2–3 minutes until just tender.",
+      "Add ramen noodles and cook according to package, usually 2–4 minutes, or cook separately.",
+      "Divide noodles and broth among bowls; top with beef, eggs, green onions, and optional garnishes."
+    ]
+  },
+  {
+    "id": "breakfast-burrito-slab",
+    "title": "High-Protein Breakfast Burrito Slab",
+    "collection": "Marine Comeback Meal Prep",
+    "emoji": "🌯",
+    "description": "Sheet-pan chicken, vegetables, eggs and cheese cut into 16 freezer-friendly burrito fillings.",
+    "yield": "16 burritos",
+    "time": "About 45 minutes",
+    "keyIngredients": [
+      "ground chicken",
+      "eggs",
+      "broccoli",
+      "bell peppers",
+      "spinach",
+      "tortillas"
+    ],
+    "ingredients": [
+      "1 lb ground chicken",
+      "12 large eggs",
+      "1 bag frozen broccoli",
+      "1 bag frozen bell peppers",
+      "Large handful spinach",
+      "2–3 cups shredded cheese blend",
+      "16 large tortillas",
+      "1 tablespoon garlic powder",
+      "1 tablespoon onion powder",
+      "2 teaspoons smoked paprika",
+      "1 teaspoon salt",
+      "1 teaspoon black pepper",
+      "Optional tiny pinch cumin"
+    ],
+    "steps": [
+      "Heat oven to 375°F.",
+      "In a large skillet, cook ground chicken, broccoli, and bell peppers with garlic powder, onion powder, paprika, salt, pepper, and optional cumin until chicken is cooked and most moisture has evaporated.",
+      "Add spinach last; cook 30–60 seconds until wilted.",
+      "Line a large sheet pan with parchment and lightly oil; spread filling evenly.",
+      "Sprinkle a light layer of cheese over filling. Whisk 12 eggs and pour evenly over tray; top with remaining cheese.",
+      "Bake 18–22 minutes until eggs are set and lightly browned.",
+      "Cool slightly and cut into 16 equal rectangles.",
+      "Place one rectangle on each tortilla, add optional cheese, fold sides, and roll tightly.",
+      "Refrigerate 3–4 days or wrap individually and freeze. Reheat in microwave or air fryer/oven."
+    ]
+  },
+  {
+    "id": "hunter-smokewood-sausage",
+    "title": "Hunter's Table — Smokewood Sausage",
+    "collection": "Hunter's Table",
+    "emoji": "🔥",
+    "description": "Garlic, smoked paprika and pepper seasoned sausage skewers.",
+    "yield": "As needed",
+    "time": "Marinate, then grill or broil",
+    "keyIngredients": [
+      "smoked sausage",
+      "olive oil",
+      "smoked paprika"
+    ],
+    "ingredients": [
+      "Smoked sausage chunks",
+      "Olive oil",
+      "Garlic powder",
+      "Smoked paprika",
+      "Black pepper",
+      "Tiny pinch salt"
+    ],
+    "steps": [
+      "Toss smoked sausage chunks with olive oil and seasonings.",
+      "Marinate separately from other skewer flavors.",
+      "Thread onto metal skewers.",
+      "Roast or grill at high heat, turning halfway, until lightly charred."
+    ]
+  },
+  {
+    "id": "hunter-honeyfire-sausage",
+    "title": "Hunter's Table — Honeyfire Sausage",
+    "collection": "Hunter's Table",
+    "emoji": "🍯",
+    "description": "Sweet and smoky sausage with honey and a hint of cayenne.",
+    "yield": "As needed",
+    "time": "Marinate, then grill or broil",
+    "keyIngredients": [
+      "smoked sausage",
+      "honey",
+      "smoked paprika"
+    ],
+    "ingredients": [
+      "Smoked sausage chunks",
+      "Honey",
+      "Smoked paprika",
+      "Tiny cayenne",
+      "Black pepper",
+      "Small splash olive oil"
+    ],
+    "steps": [
+      "Toss sausage with honey, smoked paprika, cayenne, black pepper, and olive oil.",
+      "Marinate separately and thread onto metal skewers.",
+      "Roast or grill at high heat, rotating halfway, until lightly charred."
+    ]
+  },
+  {
+    "id": "hunter-ranger-herb-chicken",
+    "title": "Hunter's Table — Ranger Herb Chicken",
+    "collection": "Hunter's Table",
+    "emoji": "🌿",
+    "description": "Rosemary, garlic, thyme and lemon chicken thigh skewers.",
+    "yield": "As needed",
+    "time": "Marinate, then grill or broil",
+    "keyIngredients": [
+      "chicken thigh",
+      "rosemary",
+      "garlic",
+      "thyme"
+    ],
+    "ingredients": [
+      "Chicken thigh cubes",
+      "Olive oil",
+      "Rosemary",
+      "Garlic",
+      "Thyme",
+      "Black pepper",
+      "Tiny squeeze lemon"
+    ],
+    "steps": [
+      "Toss chicken thigh cubes with oil, herbs, garlic, black pepper, and lemon.",
+      "Marinate separately and thread onto metal skewers.",
+      "Roast or grill at high heat, rotating halfway, until chicken is fully cooked and lightly charred."
+    ]
+  },
+  {
+    "id": "hunter-ember-spice-chicken",
+    "title": "Hunter's Table — Ember Spice Chicken",
+    "collection": "Hunter's Table",
+    "emoji": "🌶️",
+    "description": "Cajun and smoked-paprika chicken thigh skewers.",
+    "yield": "As needed",
+    "time": "Marinate, then grill or broil",
+    "keyIngredients": [
+      "chicken thigh",
+      "Cajun seasoning",
+      "smoked paprika"
+    ],
+    "ingredients": [
+      "Chicken thigh cubes",
+      "Olive oil",
+      "Cajun seasoning",
+      "Smoked paprika",
+      "Garlic powder",
+      "Black pepper"
+    ],
+    "steps": [
+      "Toss chicken thigh cubes with oil and seasonings.",
+      "Marinate separately and thread onto metal skewers.",
+      "Roast or grill at high heat, rotating halfway, until chicken is fully cooked and lightly charred."
+    ]
+  },
+  {
+    "id": "hunter-fire-roasted-pineapple",
+    "title": "Hunter's Table — Fire-Roasted Pineapple",
+    "collection": "Hunter's Table",
+    "emoji": "🍍",
+    "description": "Honey-cinnamon pineapple roasted until caramelized and charred.",
+    "yield": "As needed",
+    "time": "Until caramelized",
+    "keyIngredients": [
+      "pineapple",
+      "butter",
+      "honey",
+      "cinnamon"
+    ],
+    "ingredients": [
+      "Fresh pineapple chunks or spears",
+      "Melted butter",
+      "Honey",
+      "Cinnamon"
+    ],
+    "steps": [
+      "Brush pineapple with melted butter.",
+      "Drizzle with honey and dust lightly with cinnamon.",
+      "Roast or grill until caramelized and charred."
+    ]
   }
 ]
