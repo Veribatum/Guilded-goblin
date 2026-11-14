@@ -1,0 +1,282 @@
+[
+  {
+    "id": "hobbit-stew",
+    "title": "Hobbit Tavern Beef & Mushroom Stew",
+    "collection": "Middle-earth Feasts",
+    "emoji": "🍲",
+    "description": "A slow-simmered, hearty beef stew with three kinds of mushrooms.",
+    "yield": "6 servings",
+    "time": "About 2 hours",
+    "keyIngredients": [
+      "beef",
+      "mushroom",
+      "potato",
+      "carrot",
+      "beef broth"
+    ],
+    "ingredients": [
+      "1½–2 lb stew beef or cubed chuck roast",
+      "1 onion, diced",
+      "2–3 carrots, sliced",
+      "2 celery stalks, diced",
+      "4 garlic cloves, minced",
+      "3–4 potatoes, cubed",
+      "Shiitake, baby bella, and white mushrooms (or mixed gourmet mushrooms)",
+      "4–6 cups beef broth",
+      "Rosemary, thyme, salt, and black pepper",
+      "Optional: Worcestershire sauce; a little butter or cream to finish"
+    ],
+    "steps": [
+      "Season beef with salt and pepper; brown in batches in a large pot and remove.",
+      "Sauté onion, carrots, celery, and mushrooms until softened.",
+      "Add garlic and cook 30–60 seconds.",
+      "Return beef to pot. Add potatoes, broth, rosemary, thyme, and optional Worcestershire.",
+      "Cover and simmer gently for 1½–2 hours, until beef is tender and potatoes are cooked.",
+      "Adjust seasoning and optionally finish with a little butter or cream."
+    ]
+  },
+  {
+    "id": "travelers-loaf",
+    "title": "The Traveler's Loaf",
+    "collection": "Middle-earth Feasts",
+    "emoji": "🍞",
+    "description": "Rustic rosemary, thyme, and mozzarella quick bread for soaking up stew.",
+    "yield": "1 loaf",
+    "time": "40–50 minutes",
+    "keyIngredients": [
+      "flour",
+      "Greek yogurt",
+      "mozzarella"
+    ],
+    "ingredients": [
+      "2 cups all-purpose flour",
+      "1 tablespoon baking powder",
+      "1 teaspoon salt",
+      "1 teaspoon garlic powder",
+      "1 tablespoon chopped rosemary",
+      "1 teaspoon thyme",
+      "1 cup plain Greek yogurt",
+      "2–4 tablespoons water, as needed",
+      "1 cup shredded mozzarella",
+      "2 tablespoons melted butter",
+      "Optional: Parmesan for topping"
+    ],
+    "steps": [
+      "Preheat oven to 375°F.",
+      "Mix flour, baking powder, salt, garlic powder, rosemary, and thyme.",
+      "Stir in mozzarella and Greek yogurt; add water a tablespoon at a time until a soft dough forms.",
+      "Shape a rustic loaf and score the top lightly.",
+      "Brush with melted butter and add optional Parmesan, salt, or rosemary.",
+      "Bake 25–30 minutes until golden and cooked through; rest 5–10 minutes before slicing."
+    ]
+  },
+  {
+    "id": "garlic-cheddar-loaf",
+    "title": "Garlic Cheddar Traveler's Loaf",
+    "collection": "Middle-earth Feasts",
+    "emoji": "🧀",
+    "description": "A cheddar variation with the family's jarred diced garlic.",
+    "yield": "1 loaf",
+    "time": "40–50 minutes",
+    "keyIngredients": [
+      "flour",
+      "Greek yogurt",
+      "cheddar"
+    ],
+    "ingredients": [
+      "2 cups flour",
+      "1 tablespoon baking powder",
+      "1 teaspoon salt",
+      "1 cup plain Greek yogurt",
+      "1 cup shredded cheddar",
+      "1–2 teaspoons jarred diced garlic, drained",
+      "1 teaspoon garlic powder",
+      "2–4 tablespoons water as needed",
+      "2 tablespoons melted butter"
+    ],
+    "steps": [
+      "Preheat oven to 375°F.",
+      "Mix dry ingredients, then stir in cheddar and jarred diced garlic.",
+      "Add yogurt and enough water to form a soft dough.",
+      "Shape, score, and brush with melted butter.",
+      "Bake 25–30 minutes; rest before slicing."
+    ]
+  },
+  {
+    "id": "house-butterbeer",
+    "title": "The House Butterbeer",
+    "collection": "Tavern Drinks",
+    "emoji": "🍺",
+    "description": "The established warm A&W cream soda butterbeer with salted caramel flan and silky cold foam.",
+    "yield": "4 small mugs",
+    "time": "10–15 minutes",
+    "keyIngredients": [
+      "cream soda",
+      "heavy whipping cream",
+      "salted caramel"
+    ],
+    "ingredients": [
+      "WARM BASE: 2 cans A&W Cream Soda",
+      "2 tablespoons salted caramel flan syrup",
+      "A small splash of vanilla syrup or extract",
+      "½ teaspoon butter",
+      "COLD FOAM: 1 cup heavy whipping cream",
+      "2–3 tablespoons salted caramel flan syrup",
+      "Tiny splash of vanilla syrup",
+      "Optional tiny pinch of salt"
+    ],
+    "steps": [
+      "Warm cream soda, caramel syrup, vanilla, and butter over low heat for 5–7 minutes without boiling.",
+      "Whip heavy cream, caramel syrup, and vanilla just until silky and pourable, not stiff.",
+      "Pour warm butterbeer into four small mugs.",
+      "Spoon cold foam over each mug and serve."
+    ]
+  },
+  {
+    "id": "frozen-butterbeer",
+    "title": "Frozen Butterbeer",
+    "collection": "Tavern Drinks",
+    "emoji": "🧊",
+    "description": "A slushy variation inspired by Ami's favorite frozen butterbeer, using the house flavor profile.",
+    "yield": "4 small drinks",
+    "time": "10 minutes plus optional freezing",
+    "keyIngredients": [
+      "cream soda",
+      "heavy whipping cream",
+      "salted caramel"
+    ],
+    "ingredients": [
+      "2 cans chilled A&W Cream Soda",
+      "2 tablespoons salted caramel flan syrup",
+      "Small splash vanilla syrup or extract",
+      "3–4 cups ice (or cream-soda ice cubes for a less diluted slush)",
+      "FOAM: 1 cup heavy whipping cream",
+      "2–3 tablespoons salted caramel flan syrup",
+      "Tiny splash vanilla syrup"
+    ],
+    "steps": [
+      "Blend chilled cream soda, caramel syrup, vanilla, and ice in short bursts until thick and slushy.",
+      "Whip cream, caramel syrup, and vanilla to a silky pourable foam.",
+      "Divide slush among four glasses and top with cold foam.",
+      "For a richer slush, freeze cream soda into cubes ahead of time and use instead of plain ice."
+    ]
+  },
+  {
+    "id": "hogwarts-letters",
+    "title": "Hogwarts Acceptance Letters",
+    "collection": "Wizarding Feasts",
+    "emoji": "✉️",
+    "description": "Nutella-filled pastry envelopes finished with red candy wax seals, based on Ami's shared recipe.",
+    "yield": "4–6 pastries",
+    "time": "30–40 minutes",
+    "keyIngredients": [
+      "pie crust",
+      "Nutella",
+      "egg"
+    ],
+    "ingredients": [
+      "1 refrigerated pie crust (or puff pastry)",
+      "3–4 tablespoons Nutella",
+      "1 egg, beaten, for egg wash",
+      "Red candy melts for wax seals"
+    ],
+    "steps": [
+      "Preheat oven to 375°F. Line a baking sheet with parchment paper.",
+      "Unroll pie crust and cut into 4–6 rectangles, roughly 4 by 3 inches.",
+      "Put 1–2 teaspoons Nutella in the center of each, leaving edges clear.",
+      "Fold dough into envelopes: bottom up, sides in, and top into a flap; use dough scraps for triangular flaps if needed.",
+      "Press edges with a fork to seal, and brush pastry with beaten egg.",
+      "Bake 15–20 minutes until golden brown.",
+      "Cool completely; melt red candy melts and pipe a small wax-seal circle onto each envelope. Let set."
+    ]
+  },
+  {
+    "id": "buffalo-wraps",
+    "title": "Rotisserie Buffalo Chicken Wraps",
+    "collection": "Middle-earth Feasts",
+    "emoji": "🌯",
+    "description": "Easy meal-prep wraps with buffalo garlic chicken, cheese, and crisp greens.",
+    "yield": "6–8 wraps",
+    "time": "15 minutes",
+    "keyIngredients": [
+      "chicken",
+      "tortilla",
+      "buffalo"
+    ],
+    "ingredients": [
+      "Shredded cooked rotisserie chicken (up to 2 chickens)",
+      "About 1 cup Moore's Buffalo Garlic Wing Sauce, to taste",
+      "1–2 cups shredded cheddar or Mexican cheese",
+      "2–3 cups romaine or spinach",
+      "6–8 large tortillas",
+      "1 teaspoon garlic powder",
+      "1 teaspoon onion powder",
+      "½ teaspoon black pepper",
+      "Optional drizzle: ½ cup Greek yogurt and ¼ cup buffalo sauce"
+    ],
+    "steps": [
+      "Toss shredded chicken with buffalo garlic sauce, garlic powder, onion powder, and pepper.",
+      "Mix optional Greek yogurt drizzle separately.",
+      "Fill tortillas with buffalo chicken, shredded cheese, and greens.",
+      "Add drizzle or ranch if desired; roll tightly.",
+      "For meal prep, keep greens and sauce separate until serving."
+    ]
+  },
+  {
+    "id": "elven-butter",
+    "title": "Elven Garlic Butter",
+    "collection": "Middle-earth Feasts",
+    "emoji": "🧈",
+    "description": "Savory garlic and green onion compound butter; no parsley.",
+    "yield": "About 1 cup",
+    "time": "15 minutes plus cooling",
+    "keyIngredients": [
+      "butter",
+      "garlic",
+      "green onion"
+    ],
+    "ingredients": [
+      "1¾ sticks softened unsalted butter",
+      "4–5 cloves minced garlic",
+      "2–3 green onions, finely chopped",
+      "½ teaspoon flaky salt",
+      "¼ teaspoon black pepper",
+      "Optional rosemary, Parmesan, or paprika"
+    ],
+    "steps": [
+      "Gently sauté garlic and green onions over medium-low heat for 5–7 minutes.",
+      "Let mixture cool completely.",
+      "Mix into softened butter with salt, pepper, and optional seasonings.",
+      "Chill or serve softened with warm bread."
+    ]
+  },
+  {
+    "id": "cajun-honey-butter",
+    "title": "Cajun Honey Hearth Butter",
+    "collection": "Middle-earth Feasts",
+    "emoji": "🍯",
+    "description": "Sweet-smoky Cajun compound butter.",
+    "yield": "½ cup",
+    "time": "5 minutes",
+    "keyIngredients": [
+      "butter",
+      "honey",
+      "cajun"
+    ],
+    "ingredients": [
+      "1 stick softened butter",
+      "1 teaspoon honey",
+      "1 teaspoon Cajun seasoning",
+      "½ teaspoon smoked paprika",
+      "½ teaspoon garlic powder",
+      "Pinch of cayenne",
+      "Black pepper and a tiny pinch of salt",
+      "Optional hot sauce or lemon"
+    ],
+    "steps": [
+      "Mix all ingredients into softened butter.",
+      "Taste and adjust sweetness or heat.",
+      "Serve immediately or chill until needed."
+    ]
+  }
+]
