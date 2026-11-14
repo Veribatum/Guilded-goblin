@@ -1,0 +1,9 @@
+{
+  "name": "The Gilded Goblin Tavern & Inn",
+  "short_name": "Gilded Goblin",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#101b16",
+  "theme_color": "#101b16",
+  "icons": []
+}
