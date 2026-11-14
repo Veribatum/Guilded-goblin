@@ -1,0 +1,114 @@
+[
+  {
+    "item": "Coca-Cola Original",
+    "amount": "35 cans, purchased Nov 14",
+    "storage": "Pantry",
+    "priority": "Normal",
+    "notes": "Sam's Club"
+  },
+  {
+    "item": "Croissants",
+    "amount": "1 new package, purchased Nov 14",
+    "storage": "Kitchen",
+    "priority": "Use soon",
+    "notes": "Old package discarded"
+  },
+  {
+    "item": "Chicken salad",
+    "amount": "New package, purchased Nov 14",
+    "storage": "Refrigerator",
+    "priority": "Use soon",
+    "notes": "Old package discarded"
+  },
+  {
+    "item": "Nature Valley Crispy Creamy Wafer Bars",
+    "amount": "28 bars, strawberry and blueberry",
+    "storage": "Pantry",
+    "priority": "Normal",
+    "notes": "Sam's Club"
+  },
+  {
+    "item": "Archer Original Beef Minis",
+    "amount": "24 sticks",
+    "storage": "Pantry",
+    "priority": "Normal",
+    "notes": "Sam's Club"
+  },
+  {
+    "item": "Frozen meatballs",
+    "amount": "About half a bag remaining",
+    "storage": "Freezer",
+    "priority": "Normal",
+    "notes": "Half bag used for pizza rolls; extra cooked meatballs discarded"
+  },
+  {
+    "item": "Shredded rotisserie chicken",
+    "amount": "Container, exact amount unconfirmed",
+    "storage": "Refrigerator",
+    "priority": "Use soon",
+    "notes": "For salad kits and buffalo chicken wraps"
+  },
+  {
+    "item": "Chopped salad kits",
+    "amount": "2 kits",
+    "storage": "Refrigerator",
+    "priority": "Use soon",
+    "notes": "For Amy's lunches"
+  },
+  {
+    "item": "Flour",
+    "amount": "Enough for Traveler's Loaf",
+    "storage": "Pantry",
+    "priority": "Normal",
+    "notes": ""
+  },
+  {
+    "item": "Moore's Buffalo Garlic Wing Sauce",
+    "amount": "On hand",
+    "storage": "Pantry",
+    "priority": "Normal",
+    "notes": "For wraps"
+  },
+  {
+    "item": "Salted caramel flan syrup",
+    "amount": "On hand, bottle shown Nov 14",
+    "storage": "Pantry",
+    "priority": "Normal",
+    "notes": "Sugar-free Cantina Gourmet; butterbeer"
+  },
+  {
+    "item": "Vanilla syrup / extract",
+    "amount": "On hand, bottle shown Nov 14",
+    "storage": "Pantry",
+    "priority": "Normal",
+    "notes": "Butterbeer"
+  },
+  {
+    "item": "Butter",
+    "amount": "On hand",
+    "storage": "Refrigerator",
+    "priority": "Normal",
+    "notes": "Butterbeer and cooking"
+  },
+  {
+    "item": "A&W Cream Soda",
+    "amount": "Out — buy for butterbeer",
+    "storage": "Pantry",
+    "priority": "Buy",
+    "notes": ""
+  },
+  {
+    "item": "Heavy whipping cream",
+    "amount": "Out — buy for butterbeer",
+    "storage": "Refrigerator",
+    "priority": "Buy",
+    "notes": ""
+  },
+  {
+    "item": "OSMO Roasted Garlic Sea Salt",
+    "amount": "On hand",
+    "storage": "Spice cabinet",
+    "priority": "Normal",
+    "notes": "6.5 oz jar shown Nov 14"
+  }
+]
