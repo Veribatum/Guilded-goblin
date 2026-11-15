@@ -612,5 +612,36 @@
       "Plate the patties. Drizzle with chipotle aioli, scatter over crumbled bacon, and add dollops of sour cream.",
       "Finish with another sprinkle of shredded cheese, just like a loaded baked potato. Serve immediately while the patties are crispy."
     ]
+  },
+  {
+    "id": "rose-honey-hearth-butter",
+    "title": "Rose & Honey Hearth Butter",
+    "collection": "Tavern Staples",
+    "emoji": "🌹",
+    "description": "The original no-cook Gilded Goblin compound butter: honey, fresh rosemary, garlic, and edible rose petals mashed into softened butter. Approximate amounts—season by feel.",
+    "yield": "About ½ cup",
+    "time": "5 minutes",
+    "keyIngredients": [
+      "butter",
+      "honey",
+      "rosemary",
+      "garlic",
+      "rose petals"
+    ],
+    "ingredients": [
+      "1 stick (½ cup) softened butter",
+      "1 healthy squirt of honey (to taste)",
+      "About ½ tablespoon minced garlic",
+      "About 1 teaspoon finely chopped fresh rosemary",
+      "About 1 teaspoon food-grade edible rose petals, lightly sprinkled in"
+    ],
+    "steps": [
+      "Place softened butter in a bowl. Do not melt or heat it.",
+      "Add honey, minced garlic, finely chopped fresh rosemary, and edible rose petals.",
+      "Mash everything together with a fork until evenly combined and creamy.",
+      "Taste and adjust the honey, garlic, rosemary, or rose petals by feel.",
+      "Serve softened with warm Traveler's Loaf; refrigerate leftovers promptly."
+    ],
+    "notes": "No green onions. No cooking or sautéing. Measurements are estimates from the family's original by-feel preparation."
   }
 ]
