@@ -3138,5 +3138,35 @@
     "category": "Prepared meals",
     "location": "Unconfirmed",
     "staple": false
+  },
+  {
+    "item": "Hash browns",
+    "amount": "Purchased Nov 14; package quantity unconfirmed",
+    "storage": "Freezer (verify package)",
+    "priority": "Normal",
+    "notes": "For Ami's Sunday breakfast hash brown dish; not yet used",
+    "category": "Freezer",
+    "location": "Unconfirmed",
+    "staple": false
+  },
+  {
+    "item": "Bacon",
+    "amount": "Purchased Nov 14; package quantity unconfirmed",
+    "storage": "Refrigerator (verify package)",
+    "priority": "Normal",
+    "notes": "For Ami's Sunday breakfast; not yet used",
+    "category": "Fridge",
+    "location": "Unconfirmed",
+    "staple": false
+  },
+  {
+    "item": "Chipotle aioli",
+    "amount": "Purchased Nov 14; container quantity unconfirmed",
+    "storage": "Unconfirmed (check label)",
+    "priority": "Normal",
+    "notes": "For Ami's Sunday hash brown breakfast; not yet used",
+    "category": "Condiments",
+    "location": "Unconfirmed",
+    "staple": false
   }
 ]
