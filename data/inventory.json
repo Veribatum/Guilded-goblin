@@ -1161,10 +1161,10 @@
   },
   {
     "item": "Homemade chicken broth bags",
-    "amount": "6 cups used Nov 14; remaining bags unconfirmed",
+    "amount": "4 frozen bags used for Nov 14 stew (6 cups total); remaining stock unknown",
     "storage": "Freezer",
     "priority": "Check stock",
-    "notes": "Homemade broth used for bad-ass ramen; update exact bags after freezer check | Used 6 cups homemade stock in Hobbit stew.",
+    "notes": "User confirmed four bags of frozen homemade chicken stock used in Hobbit stew Nov 14; check remaining stock before planning meals.",
     "category": "Freezer",
     "location": "Bottom shelf",
     "staple": true
@@ -3116,6 +3116,26 @@
     "priority": "Normal",
     "notes": "Hobbit stew Nov 14",
     "category": "Pantry",
+    "location": "Unconfirmed",
+    "staple": false
+  },
+  {
+    "item": "Fresh onions",
+    "amount": "Out (confirmed Nov 14)",
+    "storage": "Produce",
+    "priority": "Buy",
+    "notes": "Needed for next homemade stock batch; onion powder is separate",
+    "category": "Produce",
+    "location": "",
+    "staple": true
+  },
+  {
+    "item": "Homemade Hobbit beef-and-mushroom stew",
+    "amount": "Large batch of leftovers; servings uncounted",
+    "storage": "Unconfirmed",
+    "priority": "Use soon",
+    "notes": "Cooked Nov 14; verify refrigeration/freezing portions",
+    "category": "Prepared meals",
     "location": "Unconfirmed",
     "staple": false
   }
