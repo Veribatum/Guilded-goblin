@@ -3131,10 +3131,10 @@
   },
   {
     "item": "Homemade Hobbit beef-and-mushroom stew",
-    "amount": "Large batch of leftovers; servings uncounted",
-    "storage": "Unconfirmed",
+    "amount": "Large batch remaining; freezer portions not yet separated or counted",
+    "storage": "Refrigerator (verify portions)",
     "priority": "Use soon",
-    "notes": "Cooked Nov 14; verify refrigeration/freezing portions",
+    "notes": "Cooked Nov 14. Chef intends to freeze some portions; not yet confirmed frozen. Portion promptly and refrigerate/freeze safely.",
     "category": "Prepared meals",
     "location": "Unconfirmed",
     "staple": false
@@ -3197,6 +3197,26 @@
     "notes": "Unused portion from bulk Sam's Club sausage bought for prior Hunter's Table; verify quantity and package designation when checking freezer.",
     "category": "Freezer",
     "location": "Unconfirmed",
+    "staple": false
+  },
+  {
+    "item": "Prepared loaded hash browns (Ami's breakfast)",
+    "amount": "2 fully assembled patties left over for Nov 16 breakfast",
+    "storage": "Refrigerator",
+    "priority": "Use first",
+    "notes": "Made Nov 15 from 4 frozen patties; Ami ate one and two prepared patties were put in a container. Do not deduct additional raw hash browns. Reheat until hot throughout; exact status of fourth cooked patty not specified.",
+    "category": "Fridge",
+    "location": "Container",
+    "staple": false
+  },
+  {
+    "item": "Cooked bacon bits (breakfast leftovers)",
+    "amount": "Extra cooked bacon bits; quantity unmeasured",
+    "storage": "Refrigerator",
+    "priority": "Use first",
+    "notes": "From 8 bacon slices already deducted as cooked Nov 15; intended as topping for leftover hash browns Nov 16. Do not deduct extra bacon.",
+    "category": "Fridge",
+    "location": "Container (verify)",
     "staple": false
   }
 ]
