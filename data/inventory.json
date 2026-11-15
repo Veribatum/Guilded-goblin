@@ -3168,5 +3168,15 @@
     "category": "Condiments",
     "location": "Unconfirmed",
     "staple": false
+  },
+  {
+    "item": "Crunchy tostada shells",
+    "amount": "Open package on hand; quantity unconfirmed",
+    "storage": "Pantry",
+    "priority": "Normal",
+    "notes": "Confirmed by chef photo Nov 15; suitable for future Taco Bell-style Mexican pizzas. Check count and freshness before cooking.",
+    "category": "Pantry",
+    "location": "Cabinet (pictured)",
+    "staple": false
   }
 ]
