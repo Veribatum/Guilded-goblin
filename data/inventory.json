@@ -161,10 +161,10 @@
   },
   {
     "item": "Buffalo chicken wraps",
-    "amount": "2-3 wraps made / verify remaining",
+    "amount": "5 newly prepared wraps Nov 15; earlier wrap stock unverified",
     "storage": "Refrigerator",
     "priority": "Use first",
-    "notes": "Made from remaining Rohan chicken with butter + Frank's Buffalo sauce",
+    "notes": "Nov 15 batch: 5 wraps made using shredded cooked chicken, remaining Moore's buffalo sauce, chopped celery and tortillas. NO cheese added. Ranch packed separately. Existing 2–3 wraps entry was stale/unverified; do not add to five. Refrigerate promptly; best within 3–4 days.",
     "category": "Fridge",
     "location": "Middle left shelf",
     "staple": false
@@ -461,10 +461,10 @@
   },
   {
     "item": "Homestyle tortillas",
-    "amount": "Reduced; exact count verify",
+    "amount": "Plenty of tortillas/wraps on hand after Nov 15 prep; specific package counts unconfirmed",
     "storage": "Refrigerator",
     "priority": "Use soon",
-    "notes": "Used for California Heat tacos and/or burritos",
+    "notes": "Chef confirmed ample regular tortillas for wraps despite five used Nov 15. Usually assembles his regular meat-and-cheese wraps fresh in morning to prevent sogginess; don't automatically buy more.",
     "category": "Fridge",
     "location": "Meat/cheese drawer",
     "staple": false
@@ -2981,10 +2981,10 @@
   },
   {
     "item": "Shredded rotisserie chicken",
-    "amount": "Container on hand; remaining quantity unconfirmed",
+    "amount": "Used in four salad lunches and five buffalo wraps Nov 15; any remaining quantity unconfirmed",
     "storage": "Refrigerator",
-    "priority": "Use soon",
-    "notes": "For Ami's buffalo wraps and two salad kits",
+    "priority": "Check stock",
+    "notes": "Cooked shredded rotisserie chicken used for Nov 15 lunch prep; whether container emptied unconfirmed. Verify before planning further meals.",
     "category": "Fridge",
     "location": "Location unconfirmed",
     "staple": false
@@ -3011,10 +3011,10 @@
   },
   {
     "item": "Celery",
-    "amount": "About half a bunch remaining before Nov 15 wrap prep; some to be chopped, exact amount pending",
+    "amount": "About 1/3 bunch remaining after Nov 15 prep",
     "storage": "Refrigerator",
     "priority": "Use soon",
-    "notes": "Chef reports roughly half a bunch left Nov 15 before cutting for buffalo wraps. Exact quantity after prep not yet confirmed.",
+    "notes": "Chef confirmed approximately one-third bunch left after chopping celery for five buffalo wraps Nov 15.",
     "category": "Fridge",
     "location": "Location unconfirmed",
     "staple": false
