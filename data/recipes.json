@@ -140,7 +140,7 @@
     "title": "Frozen Butterbeer",
     "collection": "Tavern Drinks",
     "emoji": "🧊",
-    "description": "A slushy variation inspired by Ami's favorite frozen butterbeer, using the house flavor profile.",
+    "description": "Frozen A&W cream soda blended into a thick caramel-vanilla slush, finished with silky, pourable salted-caramel cold foam.",
     "yield": "4 small drinks",
     "time": "10 minutes hands-on, plus 3–6 hours freezing",
     "keyIngredients": [
@@ -149,21 +149,24 @@
       "salted caramel"
     ],
     "ingredients": [
-      "2 cans A&W Cream Soda, frozen in cubes or shallow container",
-      "A little extra chilled A&W Cream Soda, only as needed for blending",
-      "2 tablespoons salted caramel flan syrup",
-      "Small splash vanilla syrup",
-      "FOAM: 1 cup heavy whipping cream",
-      "2–3 tablespoons salted caramel flan syrup",
-      "Tiny splash vanilla syrup"
+      "2 cans A&W Cream Soda, frozen in ice-cube trays (may remain partially slushy)",
+      "About 1 cup regular ice cubes, as needed to thicken",
+      "2 tablespoons salted caramel flan syrup, for the slush",
+      "Small splash vanilla syrup (about ½ teaspoon), for the slush",
+      "COLD FOAM: 1 cup cold heavy whipping cream",
+      "2 tablespoons salted caramel flan syrup, for the foam",
+      "Small splash vanilla syrup (about ½ teaspoon), for the foam"
     ],
     "steps": [
-      "Pour A&W Cream Soda into ice-cube trays or a shallow freezer-safe container, leaving room for expansion; freeze until firm enough to blend (typically 3–6 hours).",
-      "Blend frozen cream-soda cubes with salted caramel flan syrup, vanilla and a small splash of chilled cream soda; pulse until thick and slushy. Add more chilled soda only if needed.",
-      "Whip heavy cream with caramel flan syrup and vanilla until silky and pourable, not stiff.",
-      "Divide frozen butterbeer among glasses and top generously with cold foam."
+      "Freeze A&W Cream Soda in ice-cube trays, leaving room for expansion. Because of its sugar content, it may remain partially slushy rather than freezing into firm cubes.",
+      "Transfer the frozen cream soda, including any slush, to a blender. If it is loose or runny, add about 1 cup of regular ice cubes; adjust gradually to reach a thick frozen-drink texture. Avoid adding extra liquid unless the blender cannot turn.",
+      "Pulse briefly until the slush is fairly even. Add 2 tablespoons salted caramel flan syrup and about ½ teaspoon vanilla syrup. Pulse just 3–5 seconds more to combine without melting the slush.",
+      "In a separate bowl, beat 1 cup cold heavy whipping cream with 2 tablespoons salted caramel flan syrup and a small splash of vanilla syrup. Mix on medium, checking after 30 seconds; typically about 45–90 seconds total, depending on mixer and cream temperature.",
+      "Stop when the foam coats the beaters and falls in a slow, silky ribbon. It must remain pourable; do not whip to stiff peaks.",
+      "Pour the frozen butterbeer into glasses, leaving about an inch at the top. Gently spoon or pour the cold caramel foam over each glass and serve immediately."
     ],
-    "image": "76DCFC94-D608-4F2F-8C27-9E2C7AC06171.png"
+    "image": "76DCFC94-D608-4F2F-8C27-9E2C7AC06171.png",
+    "notes": "Tested kitchen adjustment: frozen cream soda was still slushy; about 1 cup of regular ice helped create a thicker frozen drink. Add ice based on actual consistency, not automatically. For stronger cream-soda flavor next time, freeze longer and minimize added plain ice."
   },
   {
     "id": "hogwarts-letters",
@@ -284,7 +287,8 @@
       "Mix all ingredients into softened butter.",
       "Taste and adjust sweetness or heat.",
       "Serve immediately or chill until needed."
-    ]
+    ],
+    "image": "A490E7E3-5737-4231-B5F5-FE2894D2CBB5.png"
   },
   {
     "id": "bayou-travelers-loaf",
