@@ -232,40 +232,11 @@
     "image": "A46E8D95-EF81-41C2-9A17-F85C6E792D0F.png"
   },
   {
-    "id": "elven-butter",
-    "title": "Elven Garlic Butter",
-    "collection": "Middle-earth Feasts",
-    "emoji": "🧈",
-    "description": "Savory garlic and green onion compound butter; no parsley.",
-    "yield": "About 1 cup",
-    "time": "15 minutes plus cooling",
-    "keyIngredients": [
-      "butter",
-      "garlic",
-      "green onion"
-    ],
-    "ingredients": [
-      "1¾ sticks softened unsalted butter",
-      "4–5 cloves minced garlic",
-      "2–3 green onions, finely chopped",
-      "½ teaspoon flaky salt",
-      "¼ teaspoon black pepper",
-      "Optional rosemary, Parmesan, or paprika"
-    ],
-    "steps": [
-      "Gently sauté garlic and green onions over medium-low heat for 5–7 minutes.",
-      "Let mixture cool completely.",
-      "Mix into softened butter with salt, pepper, and optional seasonings.",
-      "Chill or serve softened with warm bread."
-    ],
-    "image": "89F66160-E343-4676-85FB-8D0E983C4908.png"
-  },
-  {
     "id": "cajun-honey-butter",
     "title": "Cajun Honey Hearth Butter",
     "collection": "Middle-earth Feasts",
     "emoji": "🍯",
-    "description": "Sweet-smoky Cajun compound butter.",
+    "description": "Fork-mashed Cajun variation of the Rose & Honey Hearth Butter method; use softened butter, not melted butter.",
     "yield": "½ cup",
     "time": "5 minutes",
     "keyIngredients": [
@@ -274,19 +245,16 @@
       "cajun"
     ],
     "ingredients": [
-      "1 stick softened butter",
-      "1 teaspoon honey",
-      "1 teaspoon Cajun seasoning",
-      "½ teaspoon smoked paprika",
-      "½ teaspoon garlic powder",
-      "Pinch of cayenne",
-      "Black pepper and a tiny pinch of salt",
-      "Optional hot sauce or lemon"
+      "1 stick softened butter (do NOT melt)",
+      "1 tsp honey or to taste",
+      "1 tsp Cajun seasoning or to taste",
+      "Optional pinch garlic powder, smoked paprika, cayenne"
     ],
     "steps": [
-      "Mix all ingredients into softened butter.",
-      "Taste and adjust sweetness or heat.",
-      "Serve immediately or chill until needed."
+      "Allow one stick of butter to soften at room temperature; do not melt it.",
+      "Place the softened stick in a bowl and mash it with a fork.",
+      "Add honey and Cajun seasoning; mash everything together until creamy and evenly blended.",
+      "Taste and adjust spice or honey. Serve softened, and refrigerate any leftovers."
     ],
     "image": "A490E7E3-5737-4231-B5F5-FE2894D2CBB5.png"
   },
@@ -445,145 +413,38 @@
     "image": "0E3C4B95-4D69-4B16-8A3D-5C271607FC4A.png"
   },
   {
-    "id": "hunter-smokewood-sausage",
-    "title": "Hunter's Table — Smokewood Sausage",
+    "id": "hunters-table",
+    "title": "The Hunter's Table — One-Meal Feast",
     "collection": "Hunter's Table",
-    "emoji": "🔥",
-    "description": "Garlic, smoked paprika and pepper seasoned sausage skewers.",
-    "yield": "As needed",
-    "time": "Marinate, then grill or broil",
+    "emoji": "🍢",
+    "description": "One flexible, family-tested board feast using whatever chicken and smoked sausage are already available, preferably precooked. One coordinated method, with pineapple added near the end; no need to prepare four different meats.",
+    "yield": "Scale to appetite and guests; start small and heat more if needed",
+    "time": "Roughly 20–35 minutes using fully cooked meats; longer for raw meat",
     "keyIngredients": [
-      "smoked sausage",
-      "olive oil",
-      "smoked paprika"
+      "chicken",
+      "sausage",
+      "pineapple"
     ],
     "ingredients": [
-      "Smoked sausage chunks",
-      "Olive oil",
-      "Garlic powder",
-      "Smoked paprika",
-      "Black pepper",
-      "Tiny pinch salt"
+      "Fully cooked chicken pieces from the freezer or refrigerator (verify package and quantity)",
+      "Fully cooked smoked sausage cut into skewer-friendly chunks (verify package)",
+      "Fresh pineapple chunks or well-drained canned pineapple",
+      "Optional small splash olive oil",
+      "Choose one or two flavorings: garlic powder, smoked paprika and black pepper; rosemary/thyme; or Cajun seasoning",
+      "Optional honeyfire glaze: a little honey, smoked paprika and a pinch of cayenne",
+      "For pineapple: a little butter, honey and cinnamon",
+      "Skewers and a large clean wooden serving board"
     ],
     "steps": [
-      "Toss smoked sausage chunks with olive oil and seasonings.",
-      "Marinate separately from other skewer flavors.",
-      "Thread onto metal skewers.",
-      "Roast or grill at high heat, turning halfway, until lightly charred."
+      "Check freezer stock before shopping. Pick only the chicken and/or sausage you will eat; thaw safely in the refrigerator. Confirm from packaging whether chicken and sausage are fully cooked. No requirement to make all four former flavor variants.",
+      "Preheat oven or grill to 400°F. Cut fully cooked meats into skewer-size pieces and prepare pineapple separately.",
+      "In one or two bowls, toss meat lightly in oil and whatever flavor mix sounds good: smoky garlic, herb, Cajun or honeyfire. Thread onto skewers. Don't waste time preparing four distinct marinades.",
+      "Put fully cooked chicken and sausage skewers into the oven or onto the grill. Turn as needed; usually 8–12 minutes for small, refrigerated precooked pieces. Reheat cooked leftovers to 165°F. If using raw chicken instead, keep it separate from ready-to-eat ingredients and cook until it reaches 165°F at the center.",
+      "While meat heats, toss pineapple with a little butter, honey and cinnamon. Add pineapple skewers during the FINAL 6–8 minutes, turning to caramelize without burning.",
+      "If using honey glaze on meat, brush it on for the final 2–3 minutes only to avoid scorching. Confirm all meats have reached their required safe temperature.",
+      "Arrange the hot meat and pineapple skewers together on the large clean wooden board with sauces or Cajun Honey Hearth Butter on the side. Serve, and only heat more meat if you need it."
     ],
-    "image": "BD3BAB60-FDBE-4716-AB92-D9B5EAFDC879.png"
-  },
-  {
-    "id": "hunter-honeyfire-sausage",
-    "title": "Hunter's Table — Honeyfire Sausage",
-    "collection": "Hunter's Table",
-    "emoji": "🍯",
-    "description": "Sweet and smoky sausage with honey and a hint of cayenne.",
-    "yield": "As needed",
-    "time": "Marinate, then grill or broil",
-    "keyIngredients": [
-      "smoked sausage",
-      "honey",
-      "smoked paprika"
-    ],
-    "ingredients": [
-      "Smoked sausage chunks",
-      "Honey",
-      "Smoked paprika",
-      "Tiny cayenne",
-      "Black pepper",
-      "Small splash olive oil"
-    ],
-    "steps": [
-      "Toss sausage with honey, smoked paprika, cayenne, black pepper, and olive oil.",
-      "Marinate separately and thread onto metal skewers.",
-      "Roast or grill at high heat, rotating halfway, until lightly charred."
-    ],
-    "image": "BD3BAB60-FDBE-4716-AB92-D9B5EAFDC879.png"
-  },
-  {
-    "id": "hunter-ranger-herb-chicken",
-    "title": "Hunter's Table — Ranger Herb Chicken",
-    "collection": "Hunter's Table",
-    "emoji": "🌿",
-    "description": "Rosemary, garlic, thyme and lemon chicken thigh skewers.",
-    "yield": "As needed",
-    "time": "Marinate, then grill or broil",
-    "keyIngredients": [
-      "chicken thigh",
-      "rosemary",
-      "garlic",
-      "thyme"
-    ],
-    "ingredients": [
-      "Chicken thigh cubes",
-      "Olive oil",
-      "Rosemary",
-      "Garlic",
-      "Thyme",
-      "Black pepper",
-      "Tiny squeeze lemon"
-    ],
-    "steps": [
-      "Toss chicken thigh cubes with oil, herbs, garlic, black pepper, and lemon.",
-      "Marinate separately and thread onto metal skewers.",
-      "Roast or grill at high heat, rotating halfway, until chicken is fully cooked and lightly charred."
-    ],
-    "image": "BD3BAB60-FDBE-4716-AB92-D9B5EAFDC879.png"
-  },
-  {
-    "id": "hunter-ember-spice-chicken",
-    "title": "Hunter's Table — Ember Spice Chicken",
-    "collection": "Hunter's Table",
-    "emoji": "🌶️",
-    "description": "Cajun and smoked-paprika chicken thigh skewers.",
-    "yield": "As needed",
-    "time": "Marinate, then grill or broil",
-    "keyIngredients": [
-      "chicken thigh",
-      "Cajun seasoning",
-      "smoked paprika"
-    ],
-    "ingredients": [
-      "Chicken thigh cubes",
-      "Olive oil",
-      "Cajun seasoning",
-      "Smoked paprika",
-      "Garlic powder",
-      "Black pepper"
-    ],
-    "steps": [
-      "Toss chicken thigh cubes with oil and seasonings.",
-      "Marinate separately and thread onto metal skewers.",
-      "Roast or grill at high heat, rotating halfway, until chicken is fully cooked and lightly charred."
-    ],
-    "image": "BD3BAB60-FDBE-4716-AB92-D9B5EAFDC879.png"
-  },
-  {
-    "id": "hunter-fire-roasted-pineapple",
-    "title": "Hunter's Table — Fire-Roasted Pineapple",
-    "collection": "Hunter's Table",
-    "emoji": "🍍",
-    "description": "Honey-cinnamon pineapple roasted until caramelized and charred.",
-    "yield": "As needed",
-    "time": "Until caramelized",
-    "keyIngredients": [
-      "pineapple",
-      "butter",
-      "honey",
-      "cinnamon"
-    ],
-    "ingredients": [
-      "Fresh pineapple chunks or spears",
-      "Melted butter",
-      "Honey",
-      "Cinnamon"
-    ],
-    "steps": [
-      "Brush pineapple with melted butter.",
-      "Drizzle with honey and dust lightly with cinnamon.",
-      "Roast or grill until caramelized and charred."
-    ],
+    "notes": "Consolidated the four meat variants plus pineapple into ONE complete meal on Nov 15, 2026. Prioritize leftover freezer meats and pre-cooked sausage/chicken. Cooking times are estimates; check packaging and internal temperatures.",
     "image": "BD3BAB60-FDBE-4716-AB92-D9B5EAFDC879.png"
   },
   {
@@ -621,10 +482,10 @@
   },
   {
     "id": "rose-honey-hearth-butter",
-    "title": "Rose & Honey Hearth Butter",
+    "title": "Rose & Honey Hearth Butter (Elven Butter)",
     "collection": "Tavern Staples",
     "emoji": "🌹",
-    "description": "The original no-cook Gilded Goblin compound butter: honey, fresh rosemary, garlic, and edible rose petals mashed into softened butter. Approximate amounts—season by feel.",
+    "description": "The single Elven / Rose & Honey compound butter: fork-mash softened butter with honey, garlic, rosemary and edible rose petals. Never melt the butter.",
     "yield": "About ½ cup",
     "time": "5 minutes",
     "keyIngredients": [
@@ -642,11 +503,11 @@
       "About 1 teaspoon food-grade edible rose petals, lightly sprinkled in"
     ],
     "steps": [
-      "Place softened butter in a bowl. Do not melt or heat it.",
-      "Add honey, minced garlic, finely chopped fresh rosemary, and edible rose petals.",
-      "Mash everything together with a fork until evenly combined and creamy.",
-      "Taste and adjust the honey, garlic, rosemary, or rose petals by feel.",
-      "Serve softened with warm Traveler's Loaf; refrigerate leftovers promptly."
+      "Let a stick of butter soften at room temperature until easily mashed, but still solid. Do NOT melt it.",
+      "Place the whole softened stick in a bowl and mash with a fork.",
+      "Mash in honey, minced garlic, chopped fresh rosemary and food-grade edible rose petals.",
+      "Fold and mash until creamy and evenly mixed; adjust flavors by taste.",
+      "Serve with warm Traveler's Loaf; promptly refrigerate leftovers."
     ],
     "notes": "No green onions. No cooking or sautéing. Measurements are estimates from the family's original by-feel preparation.",
     "image": "BE8DBD15-332B-4286-877D-2CBC39E3073C.png"
