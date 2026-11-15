@@ -71,17 +71,17 @@
   },
   {
     "item": "Salted caramel flan syrup",
-    "amount": "On hand, bottle shown Nov 14",
+    "amount": "On hand; about 4 tbsp used Nov 14, remainder unmeasured",
     "storage": "Pantry",
     "priority": "Normal",
-    "notes": "Sugar-free Cantina Gourmet; butterbeer"
+    "notes": "Sugar-free Cantina Gourmet; approximately 2 tbsp in slush and 2 tbsp in cold foam."
   },
   {
     "item": "Vanilla syrup / extract",
-    "amount": "On hand, bottle shown Nov 14",
+    "amount": "On hand; approximately 1 tsp used Nov 14, remainder unmeasured",
     "storage": "Pantry",
     "priority": "Normal",
-    "notes": "Butterbeer"
+    "notes": "Small splash in frozen slush and another in cold foam."
   },
   {
     "item": "Butter",
@@ -92,17 +92,17 @@
   },
   {
     "item": "A&W Cream Soda",
-    "amount": "Out — buy for butterbeer",
+    "amount": "Used frozen cream soda for Nov 14 butterbeer; remaining stock unconfirmed",
     "storage": "Pantry",
-    "priority": "Buy",
-    "notes": ""
+    "priority": "Check stock",
+    "notes": "Previously marked out; frozen cream soda was on hand and used for frozen butterbeer. Confirm remaining cans before shopping."
   },
   {
     "item": "Heavy whipping cream",
-    "amount": "Out — buy for butterbeer",
+    "amount": "1 cup used for Nov 14 cold foam; remaining stock unconfirmed",
     "storage": "Refrigerator",
-    "priority": "Buy",
-    "notes": ""
+    "priority": "Check stock",
+    "notes": "Previously marked out; cream was on hand and used. Check carton before shopping."
   },
   {
     "item": "OSMO Roasted Garlic Sea Salt",
