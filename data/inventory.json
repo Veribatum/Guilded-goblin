@@ -391,10 +391,10 @@
   },
   {
     "item": "Green onions",
-    "amount": "Reduced; verify remaining",
+    "amount": "Some used as garnish Nov 15; remaining unconfirmed",
     "storage": "Refrigerator",
     "priority": "Use soon",
-    "notes": "Used for rice bowls, shrimp boats, salads, and toppings",
+    "notes": "Used for rice bowls, shrimp boats, salads, and toppings | Green onions visible atop finished hash browns.",
     "category": "Fridge",
     "location": "Right crisper",
     "staple": true
@@ -491,10 +491,10 @@
   },
   {
     "item": "Fiesta blend shredded cheese",
-    "amount": "Reduced; exact amount verify",
+    "amount": "Used for breakfast Nov 15 (approximately 1/2 cup melted plus extra garnish); remaining quantity unconfirmed",
     "storage": "Refrigerator",
     "priority": "Normal",
-    "notes": "Used for tacos and breakfast burritos",
+    "notes": "Used for tacos and breakfast burritos | Cheese added to four hash browns and sprinkled on top; exact type not confirmed from photo.",
     "category": "Fridge",
     "location": "Meat/cheese drawer",
     "staple": true
@@ -2741,10 +2741,10 @@
   },
   {
     "item": "Daisy sour cream 2-pack",
-    "amount": "Opened; partial remaining",
+    "amount": "Opened, some used on breakfast Nov 15; remaining unconfirmed",
     "storage": "Refrigerator",
     "priority": "Use soon",
-    "notes": "Used for sriracha-lime crema/tacos",
+    "notes": "Used for sriracha-lime crema/tacos | Sour cream dollops visible; source container not confirmed against squeeze sour cream.",
     "category": "Fridge",
     "location": "Dairy area",
     "staple": true
@@ -3141,30 +3141,30 @@
   },
   {
     "item": "Pacific Valley Tater Patties hash brown potato patties",
-    "amount": "10 patties (1 lb / 600 g package), unopened",
+    "amount": "6 patties remaining (4 of 10 used Nov 15)",
     "storage": "Freezer",
     "priority": "Normal",
-    "notes": "Frozen hash brown patties purchased Nov 14 for Ami's loaded breakfast.",
+    "notes": "Frozen hash brown patties purchased Nov 14 for Ami's loaded breakfast. | 4 patties cooked for Ami's loaded breakfast.",
     "category": "Freezer",
     "location": "Unconfirmed",
     "staple": false
   },
   {
     "item": "Oscar Mayer Center Cut Original Bacon",
-    "amount": "2 unopened 12 oz packages (24 oz total), purchased Nov 14 BOGO",
+    "amount": "8 slices cooked Nov 15; remaining slices across 2 original 12 oz packages uncounted",
     "storage": "Refrigerator",
     "priority": "Normal",
-    "notes": "Naturally hardwood smoked; two packages bought on buy-one-get-one sale. Deduct slices/package as used.",
+    "notes": "Naturally hardwood smoked; two packages bought on buy-one-get-one sale. Deduct slices/package as used. | First and second batches of 4 slices each; some crumbled for breakfast, some served whole. Do not mark second package empty.",
     "category": "Fridge",
     "location": "Unconfirmed",
     "staple": false
   },
   {
     "item": "Guy Fieri Flavortown Kickin' Chipotle Sauce",
-    "amount": "1 bottle, 12 oz (340 g), opened status unconfirmed",
+    "amount": "Opened bottle, portion used Nov 15; remainder unmeasured",
     "storage": "Refrigerator (check label)",
     "priority": "Normal",
-    "notes": "Purchased Nov 14; intended as chipotle topping for loaded hash brown breakfast; correct product is Kickin' Chipotle sauce, not generic aioli.",
+    "notes": "Purchased Nov 14; intended as chipotle topping for loaded hash brown breakfast; correct product is Kickin' Chipotle sauce, not generic aioli. | Topped loaded breakfast hash browns.",
     "category": "Condiments",
     "location": "Unconfirmed",
     "staple": false
