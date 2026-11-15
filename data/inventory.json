@@ -127,10 +127,10 @@
   },
   {
     "item": "Potatoes",
-    "amount": "Used in Hobbit beef-and-mushroom stew; remaining unconfirmed",
+    "amount": "Used in Hobbit stew; count and remaining stock unconfirmed",
     "storage": "Pantry",
     "priority": "Check stock",
-    "notes": "Potatoes used in stew; exact number and remaining stock unconfirmed."
+    "notes": "Cubed potatoes used Nov 14; exact number not recorded"
   },
   {
     "item": "Carrots",
@@ -141,10 +141,10 @@
   },
   {
     "item": "Celery",
-    "amount": "Used in Hobbit stew; remaining unconfirmed",
+    "amount": "3 stalks used; remaining amount unconfirmed",
     "storage": "Refrigerator",
     "priority": "Check stock",
-    "notes": "Purchased for tonight's single Hobbit stew; exact stalk count remaining unconfirmed."
+    "notes": "3 stalks used in Hobbit stew Nov 14; purchased quantity not documented"
   },
   {
     "item": "Onion",
@@ -162,24 +162,24 @@
   },
   {
     "item": "Fresh rosemary",
-    "amount": "2 sprigs used for Hobbit stew; fresh plant remains available",
-    "storage": "Garden",
-    "priority": "Normal",
-    "notes": "Fresh rosemary harvested from outdoor plant; no dried rosemary used."
+    "amount": "2 sprigs used; remainder unconfirmed",
+    "storage": "Refrigerator",
+    "priority": "Check stock",
+    "notes": "Hobbit stew Nov 14"
   },
   {
     "item": "Dried thyme",
-    "amount": "1 tsp used for Hobbit stew; remaining unconfirmed",
+    "amount": "1 tsp used; remainder unconfirmed",
     "storage": "Spice cabinet",
     "priority": "Normal",
-    "notes": "1 teaspoon used in tonight's single Hobbit stew."
+    "notes": "Hobbit stew Nov 14"
   },
   {
     "item": "Worcestershire sauce",
-    "amount": "1 tbsp used for Hobbit stew; remaining unconfirmed",
-    "storage": "Pantry",
+    "amount": "1 tbsp used; remainder unconfirmed",
+    "storage": "Refrigerator",
     "priority": "Normal",
-    "notes": "1 tablespoon used in tonight's single Hobbit stew."
+    "notes": "Hobbit stew Nov 14"
   },
   {
     "item": "Salt and black pepper",
@@ -194,5 +194,61 @@
     "storage": "Freezer",
     "priority": "Check stock",
     "notes": "Frozen homemade chicken broth, not Kettle & Fire. One stew cooked tonight; 4 cups initially plus 2 cups later."
+  },
+  {
+    "item": "Stew beef cubes",
+    "amount": "0 lb from 1.51 lb package",
+    "storage": "Refrigerator",
+    "priority": "Out",
+    "notes": "Entire 1.51 lb package used for Hobbit beef-and-mushroom stew Nov 14; other beef stock not verified"
+  },
+  {
+    "item": "Publix gourmet mushroom blend",
+    "amount": "0 of 2 trays remaining from stew purchase",
+    "storage": "Refrigerator",
+    "priority": "Out",
+    "notes": "Both gourmet mushroom trays used in Hobbit stew Nov 14; do not count the 4 oz purchase as still available"
+  },
+  {
+    "item": "Baby carrots",
+    "amount": "2 generous handfuls used; remaining amount unconfirmed",
+    "storage": "Refrigerator",
+    "priority": "Check stock",
+    "notes": "Whole baby carrots added to Hobbit stew Nov 14"
+  },
+  {
+    "item": "Jarred minced garlic",
+    "amount": "1 tbsp used; remainder unconfirmed",
+    "storage": "Refrigerator",
+    "priority": "Normal",
+    "notes": "Hobbit stew Nov 14"
+  },
+  {
+    "item": "Homemade chicken stock",
+    "amount": "6 cups used; remaining stock unconfirmed",
+    "storage": "Freezer",
+    "priority": "Check stock",
+    "notes": "Hobbit stew Nov 14, 4 cups + 2 cups"
+  },
+  {
+    "item": "Cooking oil",
+    "amount": "2 tbsp used; oil type unconfirmed",
+    "storage": "Pantry",
+    "priority": "Normal",
+    "notes": "Browned stew beef Nov 14"
+  },
+  {
+    "item": "Salt",
+    "amount": "3/4 tsp used; remaining unconfirmed",
+    "storage": "Spice cabinet",
+    "priority": "Normal",
+    "notes": "Hobbit stew Nov 14"
+  },
+  {
+    "item": "Black pepper",
+    "amount": "1/2 tsp used; remaining unconfirmed",
+    "storage": "Spice cabinet",
+    "priority": "Normal",
+    "notes": "Hobbit stew Nov 14"
   }
 ]
