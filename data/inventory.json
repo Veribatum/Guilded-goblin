@@ -270,11 +270,11 @@
     "staple": true
   },
   {
-    "item": "Prepared salad lunch",
-    "amount": "Verify remaining",
+    "item": "Prepared chopped salad lunches",
+    "amount": "4 assembled lunches (Nov 15), with dressing portioned/supplemented",
     "storage": "Refrigerator",
     "priority": "Use first",
-    "notes": "Grab-and-go lunch",
+    "notes": "Two chopped salad kits divided into 4 solid lunches for Ami. Dressing pouches insufficient for her preferred amount; used remaining extra dressing supplies. Chicken allocation not yet confirmed.",
     "category": "Fridge",
     "location": "Bottom shelf",
     "staple": false
@@ -2991,10 +2991,10 @@
   },
   {
     "item": "Chopped salad kits",
-    "amount": "2 kits on hand",
+    "amount": "0 kits remaining; both used Nov 15",
     "storage": "Refrigerator",
-    "priority": "Use soon",
-    "notes": "For Ami's lunch prep",
+    "priority": "Out",
+    "notes": "Both remaining salad kits assembled into four lunches Nov 15 (2 lunches per kit). Kit dressing divided; extra existing dressing used to supplement.",
     "category": "Fridge",
     "location": "Produce area",
     "staple": false
@@ -3218,5 +3218,15 @@
     "category": "Fridge",
     "location": "Container (verify)",
     "staple": false
+  },
+  {
+    "item": "Small dressing/condiment portion cups with lids",
+    "amount": "Almost out; need to buy next grocery run",
+    "storage": "Kitchen supplies",
+    "priority": "Buy",
+    "notes": "For Ami's generous salad ranch/dressing servings and veggie dip/hummus sides; buy refill of small leak-resistant disposable cups with lids.",
+    "category": "Shopping / supplies",
+    "location": "Unconfirmed",
+    "staple": true
   }
 ]
