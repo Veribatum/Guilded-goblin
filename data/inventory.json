@@ -112,20 +112,6 @@
     "notes": "6.5 oz jar shown Nov 14"
   },
   {
-    "item": "Kettle & Fire broth",
-    "amount": "2 × 17 oz cartons used for mushroom soup; remaining flavor stock not fully verified",
-    "storage": "Pantry",
-    "priority": "Check stock",
-    "notes": "Two 17 oz cartons consumed in mushroom soup. Possible remaining: 2 × 17 oz coconut curry lime chicken bone broth and 1 × 17 oz Tom Yum; verify before treating as confirmed."
-  },
-  {
-    "item": "Dried shiitake mushrooms",
-    "amount": "Majority of 3 oz bag remains",
-    "storage": "Pantry",
-    "priority": "Normal",
-    "notes": "Loose handful used in mushroom soup."
-  },
-  {
     "item": "Publix gourmet mushroom blend (baby bella, shiitake, oyster)",
     "amount": "4 oz package purchased for Hobbit stew; remaining unconfirmed",
     "storage": "Refrigerator",
@@ -158,7 +144,7 @@
     "amount": "Used in Hobbit stew; remaining unconfirmed",
     "storage": "Refrigerator",
     "priority": "Check stock",
-    "notes": "Purchased for Hobbit stew; exact stalk count remaining unconfirmed."
+    "notes": "Purchased for tonight's single Hobbit stew; exact stalk count remaining unconfirmed."
   },
   {
     "item": "Onion",
@@ -186,14 +172,14 @@
     "amount": "1 tsp used for Hobbit stew; remaining unconfirmed",
     "storage": "Spice cabinet",
     "priority": "Normal",
-    "notes": "1 teaspoon used in Nov 14 stew."
+    "notes": "1 teaspoon used in tonight's single Hobbit stew."
   },
   {
     "item": "Worcestershire sauce",
     "amount": "1 tbsp used for Hobbit stew; remaining unconfirmed",
     "storage": "Pantry",
     "priority": "Normal",
-    "notes": "1 tablespoon used in Nov 14 stew."
+    "notes": "1 tablespoon used in tonight's single Hobbit stew."
   },
   {
     "item": "Salt and black pepper",
@@ -203,10 +189,10 @@
     "notes": "Seasoned during cooking; quantities not measured."
   },
   {
-    "item": "Homemade chicken stock",
-    "amount": "6 cups used in Hobbit stew; remaining unconfirmed",
-    "storage": "Refrigerator / Freezer",
+    "item": "Frozen homemade chicken broth",
+    "amount": "6 cups used in tonight's Hobbit stew; remaining frozen stock unconfirmed",
+    "storage": "Freezer",
     "priority": "Check stock",
-    "notes": "4 cups initially, plus 2 cups later, for 6 cups total."
+    "notes": "Frozen homemade chicken broth, not Kettle & Fire. One stew cooked tonight; 4 cups initially plus 2 cups later."
   }
 ]
