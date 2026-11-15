@@ -1,254 +1,3122 @@
 [
   {
-    "item": "Coca-Cola Original",
-    "amount": "35 cans, purchased Nov 14",
-    "storage": "Pantry",
+    "item": "Pickles",
+    "amount": "~3/4 jar",
+    "storage": "Refrigerator",
     "priority": "Normal",
-    "notes": "Sam's Club"
+    "notes": "Crunch/grazing",
+    "category": "Fridge",
+    "location": "Top right shelf",
+    "staple": true
   },
   {
-    "item": "Croissants",
-    "amount": "1 new package, purchased Nov 14",
-    "storage": "Kitchen",
+    "item": "Granny Smith apples",
+    "amount": "Reduced; verify remaining",
+    "storage": "Refrigerator",
     "priority": "Use soon",
-    "notes": "Old package discarded"
+    "notes": "Used for chicken apple harvest salads",
+    "category": "Fridge",
+    "location": "Top right shelf",
+    "staple": false
+  },
+  {
+    "item": "Ranch",
+    "amount": "1 L bottle, ~1/2 full",
+    "storage": "Refrigerator",
+    "priority": "Normal",
+    "notes": "Wraps, salads, buffalo meals",
+    "category": "Fridge",
+    "location": "Top right shelf",
+    "staple": true
+  },
+  {
+    "item": "Mayonnaise",
+    "amount": "~3/4 full",
+    "storage": "Refrigerator",
+    "priority": "Normal",
+    "notes": "Sandwich/chicken salad base",
+    "category": "Fridge",
+    "location": "Top left shelf",
+    "staple": true
+  },
+  {
+    "item": "Pickle de gallo",
+    "amount": "2 quart container",
+    "storage": "Refrigerator",
+    "priority": "Normal",
+    "notes": "Ami favorite, hard to find",
+    "category": "Fridge",
+    "location": "Top left shelf",
+    "staple": true
+  },
+  {
+    "item": "Fresh medium salsa",
+    "amount": "Partial container remaining",
+    "storage": "Refrigerator",
+    "priority": "Use soon",
+    "notes": "Used as pico substitute for California Heat tacos",
+    "category": "Fridge",
+    "location": "Top left shelf",
+    "staple": true
+  },
+  {
+    "item": "Garden vegetable cream cheese",
+    "amount": "Full",
+    "storage": "Refrigerator",
+    "priority": "Normal",
+    "notes": "Snack/bagel/sandwich spread",
+    "category": "Fridge",
+    "location": "Top left shelf",
+    "staple": false
+  },
+  {
+    "item": "Chive & onion cream cheese",
+    "amount": "~1/4 full",
+    "storage": "Refrigerator",
+    "priority": "Use soon",
+    "notes": "Finish before rebuying",
+    "category": "Fridge",
+    "location": "Top left shelf",
+    "staple": false
+  },
+  {
+    "item": "Premium cocktail cherries",
+    "amount": "1.5 jars",
+    "storage": "Refrigerator",
+    "priority": "Low",
+    "notes": "Cocktails/morale",
+    "category": "Fridge",
+    "location": "Top left shelf",
+    "staple": false
+  },
+  {
+    "item": "Grenadine",
+    "amount": "~1/2 bottle",
+    "storage": "Refrigerator",
+    "priority": "Low",
+    "notes": "Cocktails",
+    "category": "Fridge",
+    "location": "Top left shelf",
+    "staple": false
+  },
+  {
+    "item": "Simple syrup",
+    "amount": "~3/4 bottle",
+    "storage": "Refrigerator",
+    "priority": "Low",
+    "notes": "Cocktails",
+    "category": "Fridge",
+    "location": "Top left shelf",
+    "staple": false
+  },
+  {
+    "item": "Ginger beer",
+    "amount": "3 bottles",
+    "storage": "Refrigerator",
+    "priority": "Low",
+    "notes": "Moscow mules",
+    "category": "Fridge",
+    "location": "Top left shelf",
+    "staple": false
+  },
+  {
+    "item": "Sauerkraut",
+    "amount": "Unopened jar",
+    "storage": "Refrigerator",
+    "priority": "Low",
+    "notes": "Fermented side/hot dogs",
+    "category": "Fridge",
+    "location": "Top left shelf",
+    "staple": false
+  },
+  {
+    "item": "Better Than Bouillon",
+    "amount": "Almost empty jar",
+    "storage": "Refrigerator",
+    "priority": "Use first",
+    "notes": "Only replace if needed; unopened pantry jar exists",
+    "category": "Fridge",
+    "location": "Top left shelf",
+    "staple": false
+  },
+  {
+    "item": "Classico tomato basil sauce",
+    "amount": "~1/2 jar",
+    "storage": "Refrigerator",
+    "priority": "Use soon",
+    "notes": "Pasta/pizza sauce",
+    "category": "Fridge",
+    "location": "Top left shelf",
+    "staple": false
+  },
+  {
+    "item": "Compound/herb butter",
+    "amount": "Small jar/container",
+    "storage": "Refrigerator",
+    "priority": "Use soon",
+    "notes": "Unknown age; likely garlic/herb butter",
+    "category": "Fridge",
+    "location": "Top left shelf",
+    "staple": false
+  },
+  {
+    "item": "Buffalo chicken wraps",
+    "amount": "2-3 wraps made / verify remaining",
+    "storage": "Refrigerator",
+    "priority": "Use first",
+    "notes": "Made from remaining Rohan chicken with butter + Frank's Buffalo sauce",
+    "category": "Fridge",
+    "location": "Middle left shelf",
+    "staple": false
+  },
+  {
+    "item": "Cherry tomatoes",
+    "amount": "~1/4 of original 2 lb container",
+    "storage": "Refrigerator",
+    "priority": "Use soon",
+    "notes": "Salads/tacos/snacks",
+    "category": "Fridge",
+    "location": "Middle left shelf",
+    "staple": false
+  },
+  {
+    "item": "Carrots",
+    "amount": "Used in earlier cooking; current quantity unverified",
+    "storage": "Refrigerator",
+    "priority": "Check stock",
+    "notes": "Some used in soup/broth; plenty remain | Do not double-count against baby carrots.",
+    "category": "Fridge",
+    "location": "Middle left shelf",
+    "staple": false
+  },
+  {
+    "item": "Broth for lunches",
+    "amount": "Container",
+    "storage": "Refrigerator",
+    "priority": "Normal",
+    "notes": "Ramen/lunch broth",
+    "category": "Fridge",
+    "location": "Middle right shelf",
+    "staple": true
+  },
+  {
+    "item": "Jammy eggs",
+    "amount": "Used up / verify if any remain",
+    "storage": "Refrigerator",
+    "priority": "Verify",
+    "notes": "Used in ramen; remove if gone",
+    "category": "Fridge",
+    "location": "Middle right shelf",
+    "staple": true
+  },
+  {
+    "item": "Baked brie leftovers",
+    "amount": "Container",
+    "storage": "Refrigerator",
+    "priority": "Use soon",
+    "notes": "Charcuterie/grazing; check smell/texture",
+    "category": "Fridge",
+    "location": "Middle right shelf",
+    "staple": false
   },
   {
     "item": "Chicken salad",
-    "amount": "New package, purchased Nov 14",
+    "amount": "New container purchased 2026-11-14; old container discarded",
+    "storage": "Refrigerator",
+    "priority": "Normal",
+    "notes": "Replacement chicken salad from Publix; exact amount not stated",
+    "category": "Fridge",
+    "location": "Bottom shelf",
+    "staple": true
+  },
+  {
+    "item": "Sweet pea microgreens",
+    "amount": "Full container",
     "storage": "Refrigerator",
     "priority": "Use soon",
-    "notes": "Old package discarded"
+    "notes": "Salads, garnish",
+    "category": "Fridge",
+    "location": "Bottom shelf",
+    "staple": false
+  },
+  {
+    "item": "Large jar sliced dill pickle chips",
+    "amount": "~2.5 quart jar",
+    "storage": "Refrigerator",
+    "priority": "Normal",
+    "notes": "Snacks, sandwiches",
+    "category": "Fridge",
+    "location": "Bottom shelf",
+    "staple": true
+  },
+  {
+    "item": "Mandarin oranges",
+    "amount": "Bag",
+    "storage": "Refrigerator",
+    "priority": "Normal",
+    "notes": "Stored in fridge due to fruit flies",
+    "category": "Fridge",
+    "location": "Bottom shelf",
+    "staple": false
+  },
+  {
+    "item": "Snack cucumbers",
+    "amount": "3",
+    "storage": "Refrigerator",
+    "priority": "Use soon",
+    "notes": "Ami snack/cucumber salad",
+    "category": "Fridge",
+    "location": "Bottom shelf",
+    "staple": true
+  },
+  {
+    "item": "Prepared salad lunch",
+    "amount": "Verify remaining",
+    "storage": "Refrigerator",
+    "priority": "Use first",
+    "notes": "Grab-and-go lunch",
+    "category": "Fridge",
+    "location": "Bottom shelf",
+    "staple": false
+  },
+  {
+    "item": "Buffalo chicken boat lunch",
+    "amount": "Verify remaining",
+    "storage": "Refrigerator",
+    "priority": "Use first",
+    "notes": "Grab-and-go lunch",
+    "category": "Fridge",
+    "location": "Bottom shelf",
+    "staple": false
+  },
+  {
+    "item": "Dave's Killer Bread",
+    "amount": "1 loaf",
+    "storage": "Refrigerator",
+    "priority": "Normal",
+    "notes": "Sandwiches/toast",
+    "category": "Fridge",
+    "location": "Bottom right",
+    "staple": true
+  },
+  {
+    "item": "Napa cabbage",
+    "amount": "Some remaining",
+    "storage": "Refrigerator",
+    "priority": "Use soon",
+    "notes": "Significant amount used for egg roll bowls/tacos; use remaining soon",
+    "category": "Fridge",
+    "location": "Bottom right",
+    "staple": false
+  },
+  {
+    "item": "Green seedless grapes",
+    "amount": "~1/2 bag",
+    "storage": "Refrigerator",
+    "priority": "Normal",
+    "notes": "Snack/charcuterie",
+    "category": "Fridge",
+    "location": "Bottom right",
+    "staple": false
+  },
+  {
+    "item": "Prepacked hard-boiled eggs",
+    "amount": "1 pack / 2 eggs left",
+    "storage": "Refrigerator",
+    "priority": "Use first",
+    "notes": "Current breakfast; may be replaced by breakfast wraps",
+    "category": "Fridge",
+    "location": "Bottom right",
+    "staple": false
+  },
+  {
+    "item": "Ramen meal prep containers",
+    "amount": "Verify remaining",
+    "storage": "Refrigerator",
+    "priority": "Use first",
+    "notes": "Ramen was cooked/eaten; update if any containers remain",
+    "category": "Fridge",
+    "location": "Bottom right",
+    "staple": false
+  },
+  {
+    "item": "Peppered turkey breast",
+    "amount": "~4 slices / half package",
+    "storage": "Refrigerator",
+    "priority": "Use soon",
+    "notes": "Sandwich fallback",
+    "category": "Fridge",
+    "location": "Left crisper",
+    "staple": false
+  },
+  {
+    "item": "Muenster cheese",
+    "amount": "~4 slices",
+    "storage": "Refrigerator",
+    "priority": "Use soon",
+    "notes": "Sandwich fallback",
+    "category": "Fridge",
+    "location": "Left crisper",
+    "staple": false
+  },
+  {
+    "item": "Shredded chicken",
+    "amount": "~1 serving",
+    "storage": "Refrigerator",
+    "priority": "Use first",
+    "notes": "Salad topping",
+    "category": "Fridge",
+    "location": "Left crisper",
+    "staple": false
+  },
+  {
+    "item": "Cotija Mexican-style grated cheese",
+    "amount": "Big bag, barely used",
+    "storage": "Refrigerator",
+    "priority": "Normal",
+    "notes": "Tacos/California Heat/mexican bowls",
+    "category": "Fridge",
+    "location": "Left crisper",
+    "staple": true
+  },
+  {
+    "item": "Premium hotdogs",
+    "amount": "8 unopened, vacuum sealed",
+    "storage": "Refrigerator",
+    "priority": "Normal",
+    "notes": "Emergency/easy meal",
+    "category": "Fridge",
+    "location": "Left crisper",
+    "staple": false
+  },
+  {
+    "item": "Green onions",
+    "amount": "Reduced; verify remaining",
+    "storage": "Refrigerator",
+    "priority": "Use soon",
+    "notes": "Used for rice bowls, shrimp boats, salads, and toppings",
+    "category": "Fridge",
+    "location": "Right crisper",
+    "staple": true
+  },
+  {
+    "item": "Full cucumber",
+    "amount": "1",
+    "storage": "Refrigerator",
+    "priority": "Use soon",
+    "notes": "Ami snack/cucumber salad",
+    "category": "Fridge",
+    "location": "Right crisper",
+    "staple": true
+  },
+  {
+    "item": "Avocados",
+    "amount": "Reduced; exact count verify",
+    "storage": "Refrigerator",
+    "priority": "Use soon",
+    "notes": "Used for California Heat tacos; check remaining ripeness/count",
+    "category": "Fridge",
+    "location": "Right crisper",
+    "staple": true
+  },
+  {
+    "item": "Romaine hearts",
+    "amount": "Lots/remaining romaine after lunch prep; verify count",
+    "storage": "Refrigerator",
+    "priority": "Use soon",
+    "notes": "Used for shrimp boats and wraps; good for spring roll cucumber salads",
+    "category": "Fridge",
+    "location": "Right crisper",
+    "staple": true
+  },
+  {
+    "item": "Guacamole cups",
+    "amount": "~14 single-serve cups",
+    "storage": "Refrigerator",
+    "priority": "Normal",
+    "notes": "Tacos/snacks/lunches",
+    "category": "Fridge",
+    "location": "Right crisper",
+    "staple": true
+  },
+  {
+    "item": "Lemon",
+    "amount": "1",
+    "storage": "Refrigerator",
+    "priority": "Normal",
+    "notes": "Sauces/acid",
+    "category": "Fridge",
+    "location": "Right crisper",
+    "staple": false
+  },
+  {
+    "item": "Baby carrots",
+    "amount": "2 generous handfuls used; remaining unconfirmed",
+    "storage": "Refrigerator",
+    "priority": "Check stock",
+    "notes": "Snacks/lunch sides | Two handfuls used Nov 14; confirm remainder.",
+    "category": "Fridge",
+    "location": "Right crisper",
+    "staple": true
+  },
+  {
+    "item": "Homestyle tortillas",
+    "amount": "Reduced; exact count verify",
+    "storage": "Refrigerator",
+    "priority": "Use soon",
+    "notes": "Used for California Heat tacos and/or burritos",
+    "category": "Fridge",
+    "location": "Meat/cheese drawer",
+    "staple": false
+  },
+  {
+    "item": "Spinach tortillas",
+    "amount": "3 left",
+    "storage": "Refrigerator",
+    "priority": "Use before carb-counter",
+    "notes": "Wraps",
+    "category": "Fridge",
+    "location": "Meat/cheese drawer",
+    "staple": false
+  },
+  {
+    "item": "Carb counter tortillas",
+    "amount": "Reduced heavily; exact count verify",
+    "storage": "Refrigerator",
+    "priority": "Restock soon",
+    "notes": "16 breakfast burritos assembled plus tacos; verify remaining",
+    "category": "Fridge",
+    "location": "Meat/cheese drawer",
+    "staple": true
+  },
+  {
+    "item": "Fiesta blend shredded cheese",
+    "amount": "Reduced; exact amount verify",
+    "storage": "Refrigerator",
+    "priority": "Normal",
+    "notes": "Used for tacos and breakfast burritos",
+    "category": "Fridge",
+    "location": "Meat/cheese drawer",
+    "staple": true
+  },
+  {
+    "item": "Butter",
+    "amount": "~1.5 sticks remaining (estimate)",
+    "storage": "Refrigerator",
+    "priority": "Restock soon",
+    "notes": "Used for soup, Elven Butter, and Traveler's Loaf batches",
+    "category": "Fridge",
+    "location": "Meat/cheese drawer",
+    "staple": true
+  },
+  {
+    "item": "Shaved Italian blend Parmesan/Romano/Asiago",
+    "amount": "Almost empty / ~1 serving",
+    "storage": "Refrigerator",
+    "priority": "Use first",
+    "notes": "Pasta/salads",
+    "category": "Fridge",
+    "location": "Meat/cheese drawer",
+    "staple": false
+  },
+  {
+    "item": "Soy/Sriracha/hot sauce packets",
+    "amount": "Various packets",
+    "storage": "Refrigerator",
+    "priority": "Low",
+    "notes": "Backup packets",
+    "category": "Fridge",
+    "location": "Meat/cheese drawer",
+    "staple": false
+  },
+  {
+    "item": "Ranch/ketchup packets",
+    "amount": "Various packets",
+    "storage": "Refrigerator",
+    "priority": "Low",
+    "notes": "Backup packets",
+    "category": "Fridge",
+    "location": "Meat/cheese drawer",
+    "staple": false
+  },
+  {
+    "item": "Black fig spread with macadamia/allspice",
+    "amount": "Small jar",
+    "storage": "Refrigerator",
+    "priority": "Normal",
+    "notes": "Charcuterie",
+    "category": "Fridge",
+    "location": "Meat/cheese drawer",
+    "staple": false
+  },
+  {
+    "item": "Salami",
+    "amount": "~6 slices",
+    "storage": "Refrigerator",
+    "priority": "Use soon",
+    "notes": "Charcuterie/snacks",
+    "category": "Fridge",
+    "location": "Meat/cheese drawer",
+    "staple": false
+  },
+  {
+    "item": "Goat cheese",
+    "amount": "~1/2 log",
+    "storage": "Refrigerator",
+    "priority": "Use soon",
+    "notes": "Charcuterie/spreads",
+    "category": "Fridge",
+    "location": "Meat/cheese drawer",
+    "staple": false
+  },
+  {
+    "item": "Merlot cheese",
+    "amount": "~1/2 wedge",
+    "storage": "Refrigerator",
+    "priority": "Use soon",
+    "notes": "Charcuterie",
+    "category": "Fridge",
+    "location": "Meat/cheese drawer",
+    "staple": false
+  },
+  {
+    "item": "Soft white cheese wedge",
+    "amount": "~1/2 wedge",
+    "storage": "Refrigerator",
+    "priority": "Use soon",
+    "notes": "Charcuterie",
+    "category": "Fridge",
+    "location": "Meat/cheese drawer",
+    "staple": false
+  },
+  {
+    "item": "Crumbled feta",
+    "amount": "Partial container remaining",
+    "storage": "Refrigerator",
+    "priority": "Normal",
+    "notes": "Used for California Heat tacos",
+    "category": "Fridge",
+    "location": "Meat/cheese drawer",
+    "staple": true
+  },
+  {
+    "item": "Sliced sharp cheddar",
+    "amount": "~1/2 container",
+    "storage": "Refrigerator",
+    "priority": "Normal",
+    "notes": "Charcuterie/sandwiches",
+    "category": "Fridge",
+    "location": "Meat/cheese drawer",
+    "staple": false
+  },
+  {
+    "item": "Korean BBQ marinade/sauce",
+    "amount": "~1/2 bottle remaining",
+    "storage": "Refrigerator door",
+    "priority": "Normal",
+    "notes": "Used for Korean BBQ beef bowls",
+    "category": "Fridge Door",
+    "location": "Left bottom",
+    "staple": true
+  },
+  {
+    "item": "Sweet Baby Ray's BBQ sauce",
+    "amount": "40 oz unopened",
+    "storage": "Refrigerator door",
+    "priority": "Low",
+    "notes": "BBQ/emergency",
+    "category": "Fridge Door",
+    "location": "Left bottom",
+    "staple": false
+  },
+  {
+    "item": "BBQ sauce",
+    "amount": "28 oz bottle, ~1/4 full",
+    "storage": "Refrigerator door",
+    "priority": "Use before unopened",
+    "notes": "BBQ",
+    "category": "Fridge Door",
+    "location": "Left bottom",
+    "staple": false
+  },
+  {
+    "item": "Whipped cream spray",
+    "amount": "Reduced / likely near empty",
+    "storage": "Refrigerator door",
+    "priority": "Use first",
+    "notes": "Used for butterbeer if this can was used; verify before next butterbeer",
+    "category": "Fridge Door",
+    "location": "Left bottom",
+    "staple": false
+  },
+  {
+    "item": "Soonhari soju",
+    "amount": "Open bottle",
+    "storage": "Refrigerator door",
+    "priority": "Low",
+    "notes": "Korean alcohol",
+    "category": "Fridge Door",
+    "location": "Left bottom",
+    "staple": false
+  },
+  {
+    "item": "Strawberry spread",
+    "amount": "~1/4 jar",
+    "storage": "Refrigerator door",
+    "priority": "Use first",
+    "notes": "Breakfast/sweets",
+    "category": "Fridge Door",
+    "location": "Left middle",
+    "staple": false
+  },
+  {
+    "item": "Apple butter",
+    "amount": "~1/4 jar",
+    "storage": "Refrigerator door",
+    "priority": "Use first",
+    "notes": "Breakfast/sweets",
+    "category": "Fridge Door",
+    "location": "Left middle",
+    "staple": false
+  },
+  {
+    "item": "Grape jelly",
+    "amount": "~1/2 jar",
+    "storage": "Refrigerator door",
+    "priority": "Normal",
+    "notes": "Sandwiches",
+    "category": "Fridge Door",
+    "location": "Left middle",
+    "staple": false
+  },
+  {
+    "item": "Parmesan cheese",
+    "amount": "Reduced; exact amount verify",
+    "storage": "Refrigerator door",
+    "priority": "Normal",
+    "notes": "Used for Traveler's Loaf topping",
+    "category": "Fridge Door",
+    "location": "Left middle",
+    "staple": false
+  },
+  {
+    "item": "Hawaiian Sun coconut syrup",
+    "amount": "Remnant",
+    "storage": "Refrigerator door",
+    "priority": "Low",
+    "notes": "Not staple",
+    "category": "Fridge Door",
+    "location": "Left middle",
+    "staple": false
+  },
+  {
+    "item": "Catalina dressing",
+    "amount": "Unopened",
+    "storage": "Refrigerator door",
+    "priority": "Normal",
+    "notes": "Salads/marinade",
+    "category": "Fridge Door",
+    "location": "Left middle",
+    "staple": false
+  },
+  {
+    "item": "Stuffed garlic green olives",
+    "amount": "~3/4 jar",
+    "storage": "Refrigerator door",
+    "priority": "Normal",
+    "notes": "Grazing/cocktails",
+    "category": "Fridge Door",
+    "location": "Top",
+    "staple": false
+  },
+  {
+    "item": "Teriyaki baste/glaze",
+    "amount": "~1/2 jar",
+    "storage": "Refrigerator door",
+    "priority": "Normal",
+    "notes": "Asian bowls/stir fry",
+    "category": "Fridge Door",
+    "location": "Top",
+    "staple": true
+  },
+  {
+    "item": "Cherry balsamic grilling sauce",
+    "amount": "Almost full",
+    "storage": "Refrigerator door",
+    "priority": "Normal",
+    "notes": "Duplin Winery; grilling",
+    "category": "Fridge Door",
+    "location": "Right side",
+    "staple": false
+  },
+  {
+    "item": "Heinz 57",
+    "amount": "Out",
+    "storage": "Refrigerator door",
+    "priority": "Restock if wanted",
+    "notes": "Missing",
+    "category": "Fridge Door",
+    "location": "Right side",
+    "staple": false
+  },
+  {
+    "item": "Sweet relish",
+    "amount": "Full bottle",
+    "storage": "Refrigerator door",
+    "priority": "Normal",
+    "notes": "Hot dogs/sandwiches",
+    "category": "Fridge Door",
+    "location": "Right side",
+    "staple": true
+  },
+  {
+    "item": "Ketchup",
+    "amount": "~1/4 bottle",
+    "storage": "Refrigerator door",
+    "priority": "Restock soon",
+    "notes": "Staple",
+    "category": "Fridge Door",
+    "location": "Right side",
+    "staple": true
+  },
+  {
+    "item": "Sriracha",
+    "amount": "~1/5 bottle remaining",
+    "storage": "Refrigerator door",
+    "priority": "Restock soon",
+    "notes": "Low after California Heat crema / spicy meal prep",
+    "category": "Fridge Door",
+    "location": "Right side",
+    "staple": true
+  },
+  {
+    "item": "Sesame seed oil",
+    "amount": "~1/2 bottle",
+    "storage": "Refrigerator door",
+    "priority": "Normal",
+    "notes": "Asian cooking",
+    "category": "Fridge Door",
+    "location": "Right side",
+    "staple": true
+  },
+  {
+    "item": "Balsamic reduction",
+    "amount": "~1/4 bottle",
+    "storage": "Refrigerator door",
+    "priority": "Normal",
+    "notes": "Finishing sauce",
+    "category": "Fridge Door",
+    "location": "Right side",
+    "staple": false
+  },
+  {
+    "item": "Lime juice",
+    "amount": "~1/3 bottle",
+    "storage": "Refrigerator door",
+    "priority": "Normal",
+    "notes": "Tacos/sauces",
+    "category": "Fridge Door",
+    "location": "Right side",
+    "staple": true
+  },
+  {
+    "item": "Worcestershire",
+    "amount": "1 tbsp used Nov 14; remaining amount unconfirmed",
+    "storage": "Refrigerator door",
+    "priority": "Normal",
+    "notes": "Meat/sauces | Used in Hobbit stew.",
+    "category": "Fridge Door",
+    "location": "Right side",
+    "staple": true
+  },
+  {
+    "item": "Ots dressing",
+    "amount": "~1/6 bottle",
+    "storage": "Refrigerator door",
+    "priority": "Restock soon",
+    "notes": "Ami favorite",
+    "category": "Fridge Door",
+    "location": "Right side",
+    "staple": true
+  },
+  {
+    "item": "Squeeze sour cream",
+    "amount": "Reduced / use soon",
+    "storage": "Refrigerator door",
+    "priority": "Use soon",
+    "notes": "Some sour cream used for sriracha-lime crema",
+    "category": "Fridge Door",
+    "location": "Right side",
+    "staple": true
+  },
+  {
+    "item": "Peach habanero hot sauce",
+    "amount": "Small sample bottle",
+    "storage": "Refrigerator door",
+    "priority": "Normal",
+    "notes": "Heat",
+    "category": "Fridge Door",
+    "location": "Right side",
+    "staple": false
+  },
+  {
+    "item": "Cajun Magic hot sauce",
+    "amount": "Bottle",
+    "storage": "Refrigerator door",
+    "priority": "Normal",
+    "notes": "Heat",
+    "category": "Fridge Door",
+    "location": "Metal shelf",
+    "staple": false
+  },
+  {
+    "item": "Crybaby hot sauce",
+    "amount": "Full bottle",
+    "storage": "Refrigerator door",
+    "priority": "Normal",
+    "notes": "Daughter favorite",
+    "category": "Fridge Door",
+    "location": "Metal shelf",
+    "staple": true
+  },
+  {
+    "item": "Valentina hot sauce",
+    "amount": "~1/4 bottle",
+    "storage": "Refrigerator door",
+    "priority": "Restock eventually",
+    "notes": "Mexican/tacos",
+    "category": "Fridge Door",
+    "location": "Metal shelf",
+    "staple": true
+  },
+  {
+    "item": "Frank's RedHot Buffalo sauce",
+    "amount": "~1/2 bottle",
+    "storage": "Refrigerator door",
+    "priority": "Normal",
+    "notes": "Buffalo chicken",
+    "category": "Fridge Door",
+    "location": "Metal shelf",
+    "staple": true
+  },
+  {
+    "item": "Wing Master Reaper buffalo sauce",
+    "amount": "Full bottle",
+    "storage": "Refrigerator door",
+    "priority": "Normal",
+    "notes": "Very hot wing/buffalo sauce",
+    "category": "Fridge Door",
+    "location": "Metal shelf",
+    "staple": false
+  },
+  {
+    "item": "Moore's buffalo garlic wing sauce",
+    "amount": "~1/4 bottle",
+    "storage": "Refrigerator door",
+    "priority": "Use first",
+    "notes": "Buffalo sauce",
+    "category": "Fridge Door",
+    "location": "Metal shelf",
+    "staple": false
+  },
+  {
+    "item": "Sweet But Sassy sauce",
+    "amount": "Bottle",
+    "storage": "Refrigerator door",
+    "priority": "Normal",
+    "notes": "Dumplings, fried calamari, fried rice, chicken",
+    "category": "Fridge Door",
+    "location": "Metal shelf",
+    "staple": false
+  },
+  {
+    "item": "Yellow mustard",
+    "amount": "Full container",
+    "storage": "Refrigerator door",
+    "priority": "Normal",
+    "notes": "Major staple; pretzels/popcorn/random",
+    "category": "Fridge Door",
+    "location": "Metal shelf",
+    "staple": true
+  },
+  {
+    "item": "Ginger paste",
+    "amount": "4 oz full squeeze container",
+    "storage": "Refrigerator door",
+    "priority": "Normal",
+    "notes": "Asian/ramen/stir fry",
+    "category": "Fridge Door",
+    "location": "Top right",
+    "staple": true
+  },
+  {
+    "item": "Lemon squeeze",
+    "amount": "~1/4 bottle",
+    "storage": "Refrigerator door",
+    "priority": "Normal",
+    "notes": "Acid",
+    "category": "Fridge Door",
+    "location": "Top right",
+    "staple": false
+  },
+  {
+    "item": "Ginger squeeze",
+    "amount": "Almost full",
+    "storage": "Refrigerator door",
+    "priority": "Normal",
+    "notes": "Asian cooking",
+    "category": "Fridge Door",
+    "location": "Top right",
+    "staple": true
+  },
+  {
+    "item": "Spicy chili crisp",
+    "amount": "~1/3 jar",
+    "storage": "Refrigerator door",
+    "priority": "Restock eventually",
+    "notes": "Ramen/cucumbers/bowls",
+    "category": "Fridge Door",
+    "location": "Top right",
+    "staple": true
+  },
+  {
+    "item": "Minced garlic",
+    "amount": "1 tbsp used Nov 14; remainder unconfirmed",
+    "storage": "Refrigerator door",
+    "priority": "Check stock",
+    "notes": "One container fully used; second jar mostly full | Used in Hobbit stew.",
+    "category": "Fridge Door",
+    "location": "Top right",
+    "staple": true
+  },
+  {
+    "item": "Horseradish",
+    "amount": "Full jar",
+    "storage": "Refrigerator door",
+    "priority": "Normal",
+    "notes": "Sauce/seafood",
+    "category": "Fridge Door",
+    "location": "Top right",
+    "staple": false
+  },
+  {
+    "item": "Chick-fil-A sauce",
+    "amount": "Almost full squeeze container",
+    "storage": "Refrigerator door",
+    "priority": "Normal",
+    "notes": "Dipping/sandwiches",
+    "category": "Fridge Door",
+    "location": "Top right",
+    "staple": false
+  },
+  {
+    "item": "Sweet relish",
+    "amount": "Another jar/bottle, ~2/3 full",
+    "storage": "Refrigerator door",
+    "priority": "Normal",
+    "notes": "Duplicate relish",
+    "category": "Fridge Door",
+    "location": "Top right",
+    "staple": true
+  },
+  {
+    "item": "Savory sprinkles and butter",
+    "amount": "Neighbor-made, older",
+    "storage": "Refrigerator door",
+    "priority": "Use soon",
+    "notes": "Chicken/fish/veggies",
+    "category": "Fridge Door",
+    "location": "Top right",
+    "staple": false
+  },
+  {
+    "item": "Frozen Dave's Killer Bread",
+    "amount": "1 loaf",
+    "storage": "Freezer",
+    "priority": "Normal",
+    "notes": "Backup bread",
+    "category": "Freezer",
+    "location": "Top shelf",
+    "staple": true
+  },
+  {
+    "item": "Water bottles",
+    "amount": "Bunch",
+    "storage": "Freezer",
+    "priority": "Low",
+    "notes": "Cold packs/drinks",
+    "category": "Freezer",
+    "location": "Top shelf",
+    "staple": false
+  },
+  {
+    "item": "Mexican street corn with Parmesan and mild red chili",
+    "amount": "1 microwavable box",
+    "storage": "Freezer",
+    "priority": "Normal",
+    "notes": "Taco side",
+    "category": "Freezer",
+    "location": "Top shelf",
+    "staple": false
+  },
+  {
+    "item": "English muffins",
+    "amount": "6",
+    "storage": "Freezer",
+    "priority": "Normal",
+    "notes": "Breakfast sandwiches",
+    "category": "Freezer",
+    "location": "Top shelf",
+    "staple": false
+  },
+  {
+    "item": "Beef potstickers leftovers",
+    "amount": "~6",
+    "storage": "Freezer",
+    "priority": "Use soon",
+    "notes": "Ami liked gyoza",
+    "category": "Freezer",
+    "location": "Top shelf",
+    "staple": false
+  },
+  {
+    "item": "Chicken potstickers",
+    "amount": "Full bag",
+    "storage": "Freezer",
+    "priority": "Normal",
+    "notes": "Gyoza/dumpling nights",
+    "category": "Freezer",
+    "location": "Bottom shelf",
+    "staple": true
+  },
+  {
+    "item": "Frozen blueberries",
+    "amount": "~1/3 bag",
+    "storage": "Freezer",
+    "priority": "Normal",
+    "notes": "Smoothies/oatmeal",
+    "category": "Freezer",
+    "location": "Bottom shelf",
+    "staple": false
+  },
+  {
+    "item": "Ami's chicken noodle soup",
+    "amount": "Big frozen container",
+    "storage": "Freezer",
+    "priority": "Normal",
+    "notes": "Comfort/emergency",
+    "category": "Freezer",
+    "location": "Bottom shelf",
+    "staple": false
+  },
+  {
+    "item": "Pizza rolls",
+    "amount": "~1/2 bag",
+    "storage": "Freezer",
+    "priority": "Normal",
+    "notes": "Ami guilty pleasure",
+    "category": "Freezer",
+    "location": "Bottom shelf",
+    "staple": false
+  },
+  {
+    "item": "Sherbet cups",
+    "amount": "6",
+    "storage": "Freezer",
+    "priority": "Normal",
+    "notes": "Dessert",
+    "category": "Freezer",
+    "location": "Bottom shelf",
+    "staple": false
+  },
+  {
+    "item": "Banquet turkey pot pie",
+    "amount": "1",
+    "storage": "Freezer",
+    "priority": "Normal",
+    "notes": "Emergency meal",
+    "category": "Freezer",
+    "location": "Bottom shelf",
+    "staple": false
+  },
+  {
+    "item": "Frozen smoothies",
+    "amount": "7",
+    "storage": "Freezer",
+    "priority": "Use soon",
+    "notes": "Breakfast idea nobody wanted; use up",
+    "category": "Freezer",
+    "location": "Bottom shelf",
+    "staple": false
+  },
+  {
+    "item": "Ore-Ida fast food fries",
+    "amount": "~1/4 package",
+    "storage": "Freezer",
+    "priority": "Use soon",
+    "notes": "Side/snack",
+    "category": "Freezer",
+    "location": "Bottom shelf",
+    "staple": false
+  },
+  {
+    "item": "Homemade chicken broth bags",
+    "amount": "6 cups used Nov 14; remaining bags unconfirmed",
+    "storage": "Freezer",
+    "priority": "Check stock",
+    "notes": "Homemade broth used for bad-ass ramen; update exact bags after freezer check | Used 6 cups homemade stock in Hobbit stew.",
+    "category": "Freezer",
+    "location": "Bottom shelf",
+    "staple": true
+  },
+  {
+    "item": "Limoncello",
+    "amount": "~3/4 bottle",
+    "storage": "Freezer",
+    "priority": "Low",
+    "notes": "Drink/dessert",
+    "category": "Freezer",
+    "location": "Bottom shelf",
+    "staple": false
+  },
+  {
+    "item": "Smucker's Uncrustables",
+    "amount": "Handful",
+    "storage": "Freezer",
+    "priority": "Normal",
+    "notes": "Quick lunch/snack",
+    "category": "Freezer",
+    "location": "Bottom shelf",
+    "staple": false
+  },
+  {
+    "item": "Tilapia fillets",
+    "amount": "Nearly full bag, individually wrapped",
+    "storage": "Freezer",
+    "priority": "Normal",
+    "notes": "Use for flavorful tacos, not plain fish",
+    "category": "Freezer",
+    "location": "Bottom shelf",
+    "staple": false
+  },
+  {
+    "item": "Frozen spinach",
+    "amount": "Basically empty bag",
+    "storage": "Freezer",
+    "priority": "Use/clear",
+    "notes": "Tiny amount left",
+    "category": "Freezer",
+    "location": "Bottom shelf",
+    "staple": false
+  },
+  {
+    "item": "Farmer's Dog turkey recipe",
+    "amount": "2 packs",
+    "storage": "Freezer",
+    "priority": "Normal",
+    "notes": "Dog food",
+    "category": "Freezer",
+    "location": "Bottom shelf",
+    "staple": false
+  },
+  {
+    "item": "Standing corn taco shells",
+    "amount": "10 shells",
+    "storage": "Snack/Dry shelf",
+    "priority": "Normal",
+    "notes": "Taco night",
+    "category": "Pantry",
+    "location": "Snack/pasta shelf",
+    "staple": false
+  },
+  {
+    "item": "Chef Woo high-protein ramen cups",
+    "amount": "3-5 cups",
+    "storage": "Snack/Dry shelf",
+    "priority": "Normal",
+    "notes": "Ami ramen lunches",
+    "category": "Pantry",
+    "location": "Snack/pasta shelf",
+    "staple": true
+  },
+  {
+    "item": "HUEL instant noodles",
+    "amount": "6",
+    "storage": "Snack/Dry shelf",
+    "priority": "Normal",
+    "notes": "Emergency/easy noodles",
+    "category": "Pantry",
+    "location": "Snack/pasta shelf",
+    "staple": false
+  },
+  {
+    "item": "Annie's bunnies instant mac & cheese",
+    "amount": "7",
+    "storage": "Snack/Dry shelf",
+    "priority": "Normal",
+    "notes": "Kid/easy meal",
+    "category": "Pantry",
+    "location": "Snack/pasta shelf",
+    "staple": false
+  },
+  {
+    "item": "Leaf and Lemur organic cereal",
+    "amount": "Basically empty box",
+    "storage": "Snack/Dry shelf",
+    "priority": "Use/clear",
+    "notes": "Cereal not normal staple",
+    "category": "Pantry",
+    "location": "Snack/pasta shelf",
+    "staple": false
+  },
+  {
+    "item": "Turtle Splash strawberry chocolate organic cereal",
+    "amount": "Almost full box",
+    "storage": "Snack/Dry shelf",
+    "priority": "Use eventually",
+    "notes": "Cereal not normal staple",
+    "category": "Pantry",
+    "location": "Snack/pasta shelf",
+    "staple": false
+  },
+  {
+    "item": "Long grain rice",
+    "amount": "Reduced after 3 cups cooked for broth rice bowls",
+    "storage": "Snack/Dry shelf",
+    "priority": "Verify",
+    "notes": "Check before more rice bowls/deconstructed spring rolls",
+    "category": "Pantry",
+    "location": "Snack/pasta shelf",
+    "staple": true
+  },
+  {
+    "item": "Brown rice",
+    "amount": "Almost empty bag",
+    "storage": "Snack/Dry shelf",
+    "priority": "Use/clear",
+    "notes": "",
+    "category": "Pantry",
+    "location": "Snack/pasta shelf",
+    "staple": false
+  },
+  {
+    "item": "Flaxseed",
+    "amount": "Big container",
+    "storage": "Snack/Dry shelf",
+    "priority": "Low",
+    "notes": "Smoothies/oatmeal",
+    "category": "Pantry",
+    "location": "Snack/pasta shelf",
+    "staple": false
+  },
+  {
+    "item": "Mushroom crisps",
+    "amount": "~1/2 bag",
+    "storage": "Snack/Dry shelf",
+    "priority": "Normal",
+    "notes": "Ami loves these",
+    "category": "Pantry",
+    "location": "Snack/pasta shelf",
+    "staple": true
+  },
+  {
+    "item": "Freeze dried strawberries",
+    "amount": "Almost full bag",
+    "storage": "Snack/Dry shelf",
+    "priority": "Normal",
+    "notes": "Snacks/oatmeal",
+    "category": "Pantry",
+    "location": "Snack/pasta shelf",
+    "staple": false
+  },
+  {
+    "item": "Linguine",
+    "amount": "Unopened box",
+    "storage": "Snack/Dry shelf",
+    "priority": "Normal",
+    "notes": "Pasta option",
+    "category": "Pantry",
+    "location": "Snack/pasta shelf",
+    "staple": false
+  },
+  {
+    "item": "Lasagna noodle sheets",
+    "amount": "14 sheets",
+    "storage": "Snack/Dry shelf",
+    "priority": "Normal",
+    "notes": "Lasagna/casserole",
+    "category": "Pantry",
+    "location": "Snack/pasta shelf",
+    "staple": false
+  },
+  {
+    "item": "Liquid IV",
+    "amount": "17 packets",
+    "storage": "Snack/Dry shelf",
+    "priority": "Low",
+    "notes": "Sick/dehydrated use",
+    "category": "Pantry",
+    "location": "Snack/pasta shelf",
+    "staple": true
+  },
+  {
+    "item": "Green split peas",
+    "amount": "Container/bag",
+    "storage": "Snack/Dry shelf",
+    "priority": "Low",
+    "notes": "Soup/healthy pantry intention",
+    "category": "Pantry",
+    "location": "Snack/pasta shelf",
+    "staple": false
+  },
+  {
+    "item": "Whole mung beans",
+    "amount": "Container/bag",
+    "storage": "Snack/Dry shelf",
+    "priority": "Low",
+    "notes": "Dry beans",
+    "category": "Pantry",
+    "location": "Snack/pasta shelf",
+    "staple": false
+  },
+  {
+    "item": "Ramen Bae dried shallot beef mix",
+    "amount": "Full bag",
+    "storage": "Snack/Dry shelf",
+    "priority": "Normal",
+    "notes": "Ramen topping",
+    "category": "Pantry",
+    "location": "Snack/pasta shelf",
+    "staple": true
+  },
+  {
+    "item": "Ramen Bae spicy garlic",
+    "amount": "~1/6 bag",
+    "storage": "Snack/Dry shelf",
+    "priority": "Restock eventually",
+    "notes": "Ramen topping",
+    "category": "Pantry",
+    "location": "Snack/pasta shelf",
+    "staple": true
+  },
+  {
+    "item": "Ramen Bae veggie mix",
+    "amount": "~1/2 bag",
+    "storage": "Snack/Dry shelf",
+    "priority": "Normal",
+    "notes": "Ramen topping",
+    "category": "Pantry",
+    "location": "Snack/pasta shelf",
+    "staple": true
+  },
+  {
+    "item": "Ramen Bae instant noodle eggs",
+    "amount": "Almost full bag",
+    "storage": "Snack/Dry shelf",
+    "priority": "Normal",
+    "notes": "Ramen topping",
+    "category": "Pantry",
+    "location": "Snack/pasta shelf",
+    "staple": true
+  },
+  {
+    "item": "Craisins",
+    "amount": "Big bag",
+    "storage": "Snack/Dry shelf",
+    "priority": "Normal",
+    "notes": "Charcuterie/salads/snacks",
+    "category": "Pantry",
+    "location": "Snack/pasta shelf",
+    "staple": false
+  },
+  {
+    "item": "Kodiak oatmeal",
+    "amount": "4 servings",
+    "storage": "Snack/Dry shelf",
+    "priority": "Normal",
+    "notes": "Breakfast",
+    "category": "Pantry",
+    "location": "Snack/pasta shelf",
+    "staple": false
+  },
+  {
+    "item": "Annie's cheddar bunnies snack bags",
+    "amount": "12 snack bags",
+    "storage": "Snack/Dry shelf",
+    "priority": "Normal",
+    "notes": "Staple snack",
+    "category": "Pantry",
+    "location": "Snack/pasta shelf",
+    "staple": true
+  },
+  {
+    "item": "Sam's protein bars",
+    "amount": "5 bars left",
+    "storage": "Snack/Dry shelf",
+    "priority": "Restock eventually",
+    "notes": "Staple grab food",
+    "category": "Pantry",
+    "location": "Snack/pasta shelf",
+    "staple": true
+  },
+  {
+    "item": "Chunky salsa cups",
+    "amount": "4",
+    "storage": "Snack/Dry shelf",
+    "priority": "Normal",
+    "notes": "Nacho/taco snack",
+    "category": "Pantry",
+    "location": "Snack/pasta shelf",
+    "staple": false
+  },
+  {
+    "item": "Nacho cheese cups",
+    "amount": "2",
+    "storage": "Snack/Dry shelf",
+    "priority": "Normal",
+    "notes": "Ami crap nachos",
+    "category": "Pantry",
+    "location": "Snack/pasta shelf",
+    "staple": false
+  },
+  {
+    "item": "Applesauce pouches",
+    "amount": "5 loose + 12 box = 17",
+    "storage": "Snack/Dry shelf",
+    "priority": "Normal",
+    "notes": "Thrive Market snack",
+    "category": "Pantry",
+    "location": "Snack/pasta shelf",
+    "staple": true
+  },
+  {
+    "item": "Cracker Barrel syrup bottles",
+    "amount": "11 small bottles",
+    "storage": "Snack/Dry shelf",
+    "priority": "Low",
+    "notes": "Leftover from work event",
+    "category": "Pantry",
+    "location": "Snack/pasta shelf",
+    "staple": false
+  },
+  {
+    "item": "Popcorn kernels",
+    "amount": "Bag/container",
+    "storage": "Snack/Dry shelf",
+    "priority": "Normal",
+    "notes": "Popcorn infrastructure",
+    "category": "Pantry",
+    "location": "Snack shelf",
+    "staple": true
+  },
+  {
+    "item": "Microwave popcorn / Pop Secret",
+    "amount": "18 count",
+    "storage": "Snack/Dry shelf",
+    "priority": "Normal",
+    "notes": "Snack staple",
+    "category": "Pantry",
+    "location": "Snack shelf",
+    "staple": true
+  },
+  {
+    "item": "Dry roasted peanuts",
+    "amount": "2 containers",
+    "storage": "Snack/Dry shelf",
+    "priority": "Normal",
+    "notes": "Snack",
+    "category": "Pantry",
+    "location": "Snack shelf",
+    "staple": false
+  },
+  {
+    "item": "Harvest Snaps lightly salted",
+    "amount": "Bag",
+    "storage": "Snack/Dry shelf",
+    "priority": "Normal",
+    "notes": "Snack",
+    "category": "Pantry",
+    "location": "Snack shelf",
+    "staple": true
+  },
+  {
+    "item": "Harvest Snaps tomato basil",
+    "amount": "Bag",
+    "storage": "Snack/Dry shelf",
+    "priority": "Normal",
+    "notes": "Snack",
+    "category": "Pantry",
+    "location": "Snack shelf",
+    "staple": true
+  },
+  {
+    "item": "Veggie crisps",
+    "amount": "Bag",
+    "storage": "Snack/Dry shelf",
+    "priority": "Normal",
+    "notes": "Snack",
+    "category": "Pantry",
+    "location": "Snack shelf",
+    "staple": false
+  },
+  {
+    "item": "Moose Munch popcorn",
+    "amount": "2 bags",
+    "storage": "Snack/Dry shelf",
+    "priority": "Normal",
+    "notes": "Snack",
+    "category": "Pantry",
+    "location": "Snack shelf",
+    "staple": false
+  },
+  {
+    "item": "Asian rice crackers",
+    "amount": "Bag",
+    "storage": "Snack/Dry shelf",
+    "priority": "Normal",
+    "notes": "Snack",
+    "category": "Pantry",
+    "location": "Snack shelf",
+    "staple": false
+  },
+  {
+    "item": "Mulberries",
+    "amount": "Bag",
+    "storage": "Snack/Dry shelf",
+    "priority": "Normal",
+    "notes": "Snack",
+    "category": "Pantry",
+    "location": "Snack shelf",
+    "staple": false
+  },
+  {
+    "item": "Movie theater butter salt",
+    "amount": "Container",
+    "storage": "Snack/Dry shelf",
+    "priority": "Normal",
+    "notes": "Popcorn",
+    "category": "Pantry",
+    "location": "Snack shelf",
+    "staple": true
+  },
+  {
+    "item": "Popcorn seasoning salt",
+    "amount": "Container",
+    "storage": "Snack/Dry shelf",
+    "priority": "Normal",
+    "notes": "Popcorn",
+    "category": "Pantry",
+    "location": "Snack shelf",
+    "staple": true
+  },
+  {
+    "item": "Sea salt and vinegar chips",
+    "amount": "Full bag",
+    "storage": "Snack/Dry shelf",
+    "priority": "Normal",
+    "notes": "Snack",
+    "category": "Pantry",
+    "location": "Snack shelf",
+    "staple": false
+  },
+  {
+    "item": "Jalapeño lime chips",
+    "amount": "Half bag",
+    "storage": "Snack/Dry shelf",
+    "priority": "Normal",
+    "notes": "Snack",
+    "category": "Pantry",
+    "location": "Snack shelf",
+    "staple": false
+  },
+  {
+    "item": "Santitas tortilla chips",
+    "amount": "Full bag",
+    "storage": "Snack/Dry shelf",
+    "priority": "Normal",
+    "notes": "Tacos/nachos",
+    "category": "Pantry",
+    "location": "Snack shelf",
+    "staple": true
+  },
+  {
+    "item": "White corn Santitas",
+    "amount": "Half bag",
+    "storage": "Snack/Dry shelf",
+    "priority": "Normal",
+    "notes": "Tacos/nachos",
+    "category": "Pantry",
+    "location": "Snack shelf",
+    "staple": false
+  },
+  {
+    "item": "Dill pickle chips",
+    "amount": "1/4 bag",
+    "storage": "Snack/Dry shelf",
+    "priority": "Use soon",
+    "notes": "With pickle dip Ami likes",
+    "category": "Pantry",
+    "location": "Snack shelf",
+    "staple": false
+  },
+  {
+    "item": "Bagel chips",
+    "amount": "3 bags about 3/4 full",
+    "storage": "Snack/Dry shelf",
+    "priority": "Normal",
+    "notes": "Charcuterie/dips",
+    "category": "Pantry",
+    "location": "Snack shelf",
+    "staple": false
+  },
+  {
+    "item": "Kettle & Fire coconut curry lime chicken bone broth",
+    "amount": "Possibly 2 x 17 oz cartons remaining",
+    "storage": "Soup/Broth shelf",
+    "priority": "Normal",
+    "notes": "Two 17 oz broth cartons used for mushroom soup; flavor count should be verified",
+    "category": "Pantry",
+    "location": "Soup cabinet",
+    "staple": false
+  },
+  {
+    "item": "Kettle & Fire Tom Yum bone broth",
+    "amount": "Possibly 1 x 17 oz carton remaining",
+    "storage": "Soup/Broth shelf",
+    "priority": "Normal",
+    "notes": "Two 17 oz broth cartons used for mushroom soup; flavor count should be verified",
+    "category": "Pantry",
+    "location": "Soup cabinet",
+    "staple": false
+  },
+  {
+    "item": "Dried shiitake mushrooms",
+    "amount": "3 oz bag, majority remaining",
+    "storage": "Soup/Broth shelf",
+    "priority": "Normal",
+    "notes": "Loose handful used in mushroom stew/soup",
+    "category": "Pantry",
+    "location": "Soup cabinet",
+    "staple": true
+  },
+  {
+    "item": "Crème brûlée cheese ball/dessert mix",
+    "amount": "1 mix",
+    "storage": "Soup/Broth shelf",
+    "priority": "Low",
+    "notes": "Dessert/morale",
+    "category": "Pantry",
+    "location": "Soup cabinet",
+    "staple": false
+  },
+  {
+    "item": "Tomato basil creamy soup",
+    "amount": "2 quarts",
+    "storage": "Soup/Broth shelf",
+    "priority": "Normal",
+    "notes": "Easy meal",
+    "category": "Pantry",
+    "location": "Soup cabinet",
+    "staple": false
+  },
+  {
+    "item": "Crispy garlic bits",
+    "amount": "3.5 oz full container",
+    "storage": "Soup/Broth shelf",
+    "priority": "Normal",
+    "notes": "Ramen/toppings",
+    "category": "Pantry",
+    "location": "Soup cabinet",
+    "staple": true
+  },
+  {
+    "item": "Campbell's chicken noodle soup",
+    "amount": "1 can",
+    "storage": "Soup/Broth shelf",
+    "priority": "Normal",
+    "notes": "Easy/sick food",
+    "category": "Pantry",
+    "location": "Soup cabinet",
+    "staple": false
+  },
+  {
+    "item": "Ramen soup base paste",
+    "amount": "Almost full jar",
+    "storage": "Soup/Broth shelf",
+    "priority": "Normal",
+    "notes": "Ramen base",
+    "category": "Pantry",
+    "location": "Soup cabinet",
+    "staple": true
+  },
+  {
+    "item": "Coconut milk",
+    "amount": "2 cans",
+    "storage": "Soup/Broth shelf",
+    "priority": "Normal",
+    "notes": "Thai/curry soups",
+    "category": "Pantry",
+    "location": "Soup cabinet",
+    "staple": false
+  },
+  {
+    "item": "Sipping bone broth packets",
+    "amount": "3 chicken instant bouillon/bone broth sticks",
+    "storage": "Soup/Broth shelf",
+    "priority": "Normal",
+    "notes": "Sipping broth",
+    "category": "Pantry",
+    "location": "Soup cabinet",
+    "staple": false
+  },
+  {
+    "item": "Pace salsa",
+    "amount": "Full jar",
+    "storage": "Soup/Broth shelf",
+    "priority": "Normal",
+    "notes": "Tacos/nachos",
+    "category": "Pantry",
+    "location": "Soup cabinet",
+    "staple": true
+  },
+  {
+    "item": "Butternut squash soup",
+    "amount": "1 quart",
+    "storage": "Soup/Broth shelf",
+    "priority": "Normal",
+    "notes": "Easy meal",
+    "category": "Pantry",
+    "location": "Soup cabinet",
+    "staple": false
+  },
+  {
+    "item": "Annie's shells and white cheddar",
+    "amount": "1 box",
+    "storage": "Soup/Broth shelf",
+    "priority": "Normal",
+    "notes": "Easy meal",
+    "category": "Pantry",
+    "location": "Soup cabinet",
+    "staple": false
+  },
+  {
+    "item": "Oven-ready lasagna noodles",
+    "amount": "1 box",
+    "storage": "Soup/Broth shelf",
+    "priority": "Normal",
+    "notes": "Lasagna",
+    "category": "Pantry",
+    "location": "Soup cabinet",
+    "staple": false
+  },
+  {
+    "item": "Lipton extra noodle soup mix",
+    "amount": "1 box",
+    "storage": "Soup/Broth shelf",
+    "priority": "Normal",
+    "notes": "Ami sick comfort staple",
+    "category": "Pantry",
+    "location": "Soup cabinet",
+    "staple": true
+  },
+  {
+    "item": "Jiffy corn muffin mix",
+    "amount": "1 box",
+    "storage": "Soup/Broth shelf",
+    "priority": "Normal",
+    "notes": "Side",
+    "category": "Pantry",
+    "location": "Soup cabinet",
+    "staple": false
+  },
+  {
+    "item": "Manwich sloppy joe sauce",
+    "amount": "1 can",
+    "storage": "Canned goods",
+    "priority": "Normal",
+    "notes": "Easy meal",
+    "category": "Pantry",
+    "location": "Canned cabinet",
+    "staple": false
+  },
+  {
+    "item": "Kidney beans",
+    "amount": "1 can",
+    "storage": "Canned goods",
+    "priority": "Normal",
+    "notes": "Beans/chili",
+    "category": "Pantry",
+    "location": "Canned cabinet",
+    "staple": false
+  },
+  {
+    "item": "Garbanzo beans",
+    "amount": "1 can",
+    "storage": "Canned goods",
+    "priority": "Normal",
+    "notes": "Mediterranean/salads",
+    "category": "Pantry",
+    "location": "Canned cabinet",
+    "staple": false
+  },
+  {
+    "item": "Better Than Bouillon",
+    "amount": "1 unopened jar",
+    "storage": "Canned goods",
+    "priority": "Backup",
+    "notes": "Backup to almost empty fridge jar",
+    "category": "Pantry",
+    "location": "Canned cabinet",
+    "staple": true
+  },
+  {
+    "item": "Tomato paste",
+    "amount": "Large 18 oz can",
+    "storage": "Canned goods",
+    "priority": "Normal",
+    "notes": "Sauces/stews",
+    "category": "Pantry",
+    "location": "Canned cabinet",
+    "staple": false
+  },
+  {
+    "item": "Homestyle beef gravy",
+    "amount": "12 oz jar",
+    "storage": "Canned goods",
+    "priority": "Normal",
+    "notes": "Comfort meal",
+    "category": "Pantry",
+    "location": "Canned cabinet",
+    "staple": false
+  },
+  {
+    "item": "Dolmas",
+    "amount": "1 can",
+    "storage": "Canned goods",
+    "priority": "Normal",
+    "notes": "Mediterranean/grazing",
+    "category": "Pantry",
+    "location": "Canned cabinet",
+    "staple": false
+  },
+  {
+    "item": "Sweet peas",
+    "amount": "1 can",
+    "storage": "Canned goods",
+    "priority": "Normal",
+    "notes": "Side",
+    "category": "Pantry",
+    "location": "Canned cabinet",
+    "staple": false
+  },
+  {
+    "item": "Carolina recipe pork in sauce",
+    "amount": "1 can",
+    "storage": "Canned goods",
+    "priority": "Normal",
+    "notes": "Emergency/unknown",
+    "category": "Pantry",
+    "location": "Canned cabinet",
+    "staple": false
+  },
+  {
+    "item": "Pink wild caught salmon",
+    "amount": "1 can",
+    "storage": "Canned goods",
+    "priority": "Normal",
+    "notes": "Emergency protein",
+    "category": "Pantry",
+    "location": "Canned cabinet",
+    "staple": false
+  },
+  {
+    "item": "Ready-to-serve beef stew bags",
+    "amount": "3 big bags",
+    "storage": "Emergency",
+    "priority": "Emergency",
+    "notes": "Hurricane food",
+    "category": "Pantry",
+    "location": "Canned/emergency area",
+    "staple": true
+  },
+  {
+    "item": "Couscous",
+    "amount": "26 oz jar, 3/4 full",
+    "storage": "Dry goods",
+    "priority": "Normal",
+    "notes": "Quick carb",
+    "category": "Pantry",
+    "location": "Dry cabinet",
+    "staple": false
+  },
+  {
+    "item": "Instant mashed potatoes",
+    "amount": "1 box",
+    "storage": "Dry goods",
+    "priority": "Normal",
+    "notes": "Comfort side",
+    "category": "Pantry",
+    "location": "Dry cabinet",
+    "staple": false
+  },
+  {
+    "item": "Cheese and garlic croutons",
+    "amount": "Unopened bag",
+    "storage": "Dry goods",
+    "priority": "Normal",
+    "notes": "Ami loves croutons",
+    "category": "Pantry",
+    "location": "Dry cabinet",
+    "staple": true
+  },
+  {
+    "item": "Organic tricolor quinoa",
+    "amount": "17.5 oz unopened",
+    "storage": "Dry goods",
+    "priority": "Normal",
+    "notes": "Grain bowls",
+    "category": "Pantry",
+    "location": "Dry cabinet",
+    "staple": false
+  },
+  {
+    "item": "Julienne sun-dried tomatoes",
+    "amount": "3 oz unopened",
+    "storage": "Dry goods",
+    "priority": "Normal",
+    "notes": "Pasta/salads",
+    "category": "Pantry",
+    "location": "Dry cabinet",
+    "staple": false
+  },
+  {
+    "item": "Rice paper wrappers",
+    "amount": "1 unopened container",
+    "storage": "Dry goods",
+    "priority": "Normal",
+    "notes": "Spring rolls",
+    "category": "Pantry",
+    "location": "Dry cabinet",
+    "staple": false
+  },
+  {
+    "item": "Organic sushi nori",
+    "amount": "1 package",
+    "storage": "Dry goods",
+    "priority": "Normal",
+    "notes": "Sushi/snack wraps",
+    "category": "Pantry",
+    "location": "Dry cabinet",
+    "staple": false
+  },
+  {
+    "item": "Spray olive oil",
+    "amount": "1/4 bottle + 1/2 bottle",
+    "storage": "Oil shelf",
+    "priority": "Normal",
+    "notes": "Cooking spray",
+    "category": "Pantry",
+    "location": "Oil/vinegar area",
+    "staple": true
+  },
+  {
+    "item": "Extra virgin olive oil",
+    "amount": "1/2 bottle",
+    "storage": "Oil shelf",
+    "priority": "Normal",
+    "notes": "Cooking/dressing",
+    "category": "Pantry",
+    "location": "Oil/vinegar area",
+    "staple": true
+  },
+  {
+    "item": "Avocado oil",
+    "amount": "1/2 bottle",
+    "storage": "Oil shelf",
+    "priority": "Normal",
+    "notes": "High heat cooking",
+    "category": "Pantry",
+    "location": "Oil/vinegar area",
+    "staple": true
+  },
+  {
+    "item": "Garlic flavored olive oil",
+    "amount": "8.5 oz bottle, ~3/4 full",
+    "storage": "Oil shelf",
+    "priority": "Normal",
+    "notes": "Finishing/cooking",
+    "category": "Pantry",
+    "location": "Oil/vinegar area",
+    "staple": false
+  },
+  {
+    "item": "Fire Dragon bourbon whiskey infused dark balsamic",
+    "amount": "8.5 oz bottle full",
+    "storage": "Oil shelf",
+    "priority": "Normal",
+    "notes": "Specialty vinegar",
+    "category": "Pantry",
+    "location": "Oil/vinegar area",
+    "staple": false
+  },
+  {
+    "item": "Mango sriracha white balsamic",
+    "amount": "8.5 oz bottle ~1/2 full",
+    "storage": "Oil shelf",
+    "priority": "Normal",
+    "notes": "Specialty vinegar",
+    "category": "Pantry",
+    "location": "Oil/vinegar area",
+    "staple": false
+  },
+  {
+    "item": "Truffle infused extra virgin olive oil",
+    "amount": "17 oz full bottle",
+    "storage": "Oil shelf",
+    "priority": "Normal",
+    "notes": "Finishing oil",
+    "category": "Pantry",
+    "location": "Oil/vinegar area",
+    "staple": false
+  },
+  {
+    "item": "Fig balsamic vinegar",
+    "amount": "12 oz bottle ~1/6 left",
+    "storage": "Oil shelf",
+    "priority": "Use soon",
+    "notes": "Specialty vinegar",
+    "category": "Pantry",
+    "location": "Oil/vinegar area",
+    "staple": false
+  },
+  {
+    "item": "Vegetable oil",
+    "amount": "1/2 container",
+    "storage": "Oil shelf",
+    "priority": "Normal",
+    "notes": "Frying/cooking",
+    "category": "Pantry",
+    "location": "Oil/vinegar area",
+    "staple": true
+  },
+  {
+    "item": "Bagels",
+    "amount": "3",
+    "storage": "Oil shelf",
+    "priority": "Use soon",
+    "notes": "Counter bread",
+    "category": "Pantry",
+    "location": "Oil/vinegar area",
+    "staple": false
+  },
+  {
+    "item": "Banana",
+    "amount": "1",
+    "storage": "Oil shelf",
+    "priority": "Use soon",
+    "notes": "Counter; fruit fly caution",
+    "category": "Pantry",
+    "location": "Oil/vinegar area",
+    "staple": false
+  },
+  {
+    "item": "Pizza/pasta sauces",
+    "amount": "Multiple jars",
+    "storage": "Sauce cabinet",
+    "priority": "Normal",
+    "notes": "Prego/Classico etc",
+    "category": "Pantry",
+    "location": "Sauce cabinet",
+    "staple": false
+  },
+  {
+    "item": "Heinz 57",
+    "amount": "Present in sauce cabinet",
+    "storage": "Sauce cabinet",
+    "priority": "Normal",
+    "notes": "Earlier fridge door noted out; verify actual active bottle",
+    "category": "Pantry",
+    "location": "Sauce cabinet",
+    "staple": false
+  },
+  {
+    "item": "Multiple mustards",
+    "amount": "Several bottles",
+    "storage": "Sauce cabinet",
+    "priority": "Normal",
+    "notes": "Mustard staple",
+    "category": "Pantry",
+    "location": "Sauce cabinet",
+    "staple": true
+  },
+  {
+    "item": "Chili sauce",
+    "amount": "Bottle",
+    "storage": "Sauce cabinet",
+    "priority": "Normal",
+    "notes": "Sauce base",
+    "category": "Pantry",
+    "location": "Sauce cabinet",
+    "staple": false
+  },
+  {
+    "item": "Malt vinegar",
+    "amount": "Bottle",
+    "storage": "Sauce cabinet",
+    "priority": "Normal",
+    "notes": "Fish/fries",
+    "category": "Pantry",
+    "location": "Sauce cabinet",
+    "staple": false
+  },
+  {
+    "item": "Mango chutney / Major Grey chutney",
+    "amount": "Jar",
+    "storage": "Sauce cabinet",
+    "priority": "Normal",
+    "notes": "Indian/cheese/grazing",
+    "category": "Pantry",
+    "location": "Sauce cabinet",
+    "staple": false
+  },
+  {
+    "item": "Pineapple spring roll sauce",
+    "amount": "Bottle",
+    "storage": "Sauce cabinet",
+    "priority": "Normal",
+    "notes": "Spring rolls/egg rolls",
+    "category": "Pantry",
+    "location": "Sauce cabinet",
+    "staple": false
+  },
+  {
+    "item": "Pesto",
+    "amount": "Jar",
+    "storage": "Sauce cabinet",
+    "priority": "Normal",
+    "notes": "Pasta/sandwiches",
+    "category": "Pantry",
+    "location": "Sauce cabinet",
+    "staple": false
+  },
+  {
+    "item": "Truffle hot sauce",
+    "amount": "Bottle",
+    "storage": "Sauce cabinet",
+    "priority": "Normal",
+    "notes": "Specialty heat",
+    "category": "Pantry",
+    "location": "Sauce cabinet",
+    "staple": false
+  },
+  {
+    "item": "Shrubs/specialty cocktail vinegars",
+    "amount": "Multiple bottles",
+    "storage": "Sauce cabinet",
+    "priority": "Low",
+    "notes": "Drinks/specialty",
+    "category": "Pantry",
+    "location": "Sauce cabinet",
+    "staple": false
+  },
+  {
+    "item": "Rice vinegar / Nakano rice vinegar",
+    "amount": "Bottle bought at Publix for $4.19",
+    "storage": "Sauce cabinet",
+    "priority": "Normal",
+    "notes": "Cucumbers, slaw, sauces, ramen brightness",
+    "category": "Pantry",
+    "location": "Sauce cabinet",
+    "staple": true
+  },
+  {
+    "item": "Garlic parmesan seasoning",
+    "amount": "Container",
+    "storage": "Sauce cabinet",
+    "priority": "Normal",
+    "notes": "Seasoning",
+    "category": "Pantry",
+    "location": "Sauce cabinet",
+    "staple": false
+  },
+  {
+    "item": "Balsamic vinegars/oils",
+    "amount": "Multiple bottles",
+    "storage": "Sauce cabinet",
+    "priority": "Normal",
+    "notes": "Specialty flavor",
+    "category": "Pantry",
+    "location": "Sauce cabinet",
+    "staple": false
+  },
+  {
+    "item": "Garlic powder",
+    "amount": "On hand",
+    "storage": "Spice cabinet",
+    "priority": "Normal",
+    "notes": "Seasoning infrastructure",
+    "category": "Spices",
+    "location": "Spice cabinet",
+    "staple": false
+  },
+  {
+    "item": "Onion powder",
+    "amount": "On hand",
+    "storage": "Spice cabinet",
+    "priority": "Normal",
+    "notes": "Seasoning infrastructure",
+    "category": "Spices",
+    "location": "Spice cabinet",
+    "staple": false
+  },
+  {
+    "item": "Black pepper",
+    "amount": "On hand",
+    "storage": "Spice cabinet",
+    "priority": "Normal",
+    "notes": "Seasoning infrastructure",
+    "category": "Spices",
+    "location": "Spice cabinet",
+    "staple": false
+  },
+  {
+    "item": "Chili powder",
+    "amount": "On hand",
+    "storage": "Spice cabinet",
+    "priority": "Normal",
+    "notes": "Seasoning infrastructure",
+    "category": "Spices",
+    "location": "Spice cabinet",
+    "staple": false
+  },
+  {
+    "item": "Paprika",
+    "amount": "On hand",
+    "storage": "Spice cabinet",
+    "priority": "Normal",
+    "notes": "Seasoning infrastructure",
+    "category": "Spices",
+    "location": "Spice cabinet",
+    "staple": false
+  },
+  {
+    "item": "Smoked paprika",
+    "amount": "On hand",
+    "storage": "Spice cabinet",
+    "priority": "Normal",
+    "notes": "Seasoning infrastructure",
+    "category": "Spices",
+    "location": "Spice cabinet",
+    "staple": false
+  },
+  {
+    "item": "Cayenne",
+    "amount": "On hand",
+    "storage": "Spice cabinet",
+    "priority": "Normal",
+    "notes": "Seasoning infrastructure",
+    "category": "Spices",
+    "location": "Spice cabinet",
+    "staple": false
+  },
+  {
+    "item": "Cumin",
+    "amount": "On hand",
+    "storage": "Spice cabinet",
+    "priority": "Normal",
+    "notes": "Seasoning infrastructure",
+    "category": "Spices",
+    "location": "Spice cabinet",
+    "staple": false
+  },
+  {
+    "item": "Curry powder",
+    "amount": "On hand",
+    "storage": "Spice cabinet",
+    "priority": "Normal",
+    "notes": "Seasoning infrastructure",
+    "category": "Spices",
+    "location": "Spice cabinet",
+    "staple": false
+  },
+  {
+    "item": "Japanese curry / Golden Curry",
+    "amount": "On hand",
+    "storage": "Spice cabinet",
+    "priority": "Normal",
+    "notes": "Seasoning infrastructure",
+    "category": "Spices",
+    "location": "Spice cabinet",
+    "staple": false
+  },
+  {
+    "item": "Dill weed",
+    "amount": "On hand",
+    "storage": "Spice cabinet",
+    "priority": "Normal",
+    "notes": "Seasoning infrastructure",
+    "category": "Spices",
+    "location": "Spice cabinet",
+    "staple": false
+  },
+  {
+    "item": "Sesame seeds",
+    "amount": "On hand",
+    "storage": "Spice cabinet",
+    "priority": "Normal",
+    "notes": "Seasoning infrastructure",
+    "category": "Spices",
+    "location": "Spice cabinet",
+    "staple": false
+  },
+  {
+    "item": "Rosemary dipping seasoning",
+    "amount": "On hand",
+    "storage": "Spice cabinet",
+    "priority": "Normal",
+    "notes": "Seasoning infrastructure",
+    "category": "Spices",
+    "location": "Spice cabinet",
+    "staple": false
+  },
+  {
+    "item": "Italian soffritto seasoning",
+    "amount": "On hand",
+    "storage": "Spice cabinet",
+    "priority": "Normal",
+    "notes": "Seasoning infrastructure",
+    "category": "Spices",
+    "location": "Spice cabinet",
+    "staple": false
+  },
+  {
+    "item": "Taco seasoning",
+    "amount": "On hand",
+    "storage": "Spice cabinet",
+    "priority": "Normal",
+    "notes": "Seasoning infrastructure",
+    "category": "Spices",
+    "location": "Spice cabinet",
+    "staple": false
+  },
+  {
+    "item": "Italian seasoning",
+    "amount": "On hand",
+    "storage": "Spice cabinet",
+    "priority": "Normal",
+    "notes": "Seasoning infrastructure",
+    "category": "Spices",
+    "location": "Spice cabinet",
+    "staple": false
+  },
+  {
+    "item": "Basil",
+    "amount": "On hand",
+    "storage": "Spice cabinet",
+    "priority": "Normal",
+    "notes": "Seasoning infrastructure",
+    "category": "Spices",
+    "location": "Spice cabinet",
+    "staple": false
+  },
+  {
+    "item": "Oregano",
+    "amount": "On hand",
+    "storage": "Spice cabinet",
+    "priority": "Normal",
+    "notes": "Seasoning infrastructure",
+    "category": "Spices",
+    "location": "Spice cabinet",
+    "staple": false
+  },
+  {
+    "item": "Bay leaves",
+    "amount": "On hand",
+    "storage": "Spice cabinet",
+    "priority": "Normal",
+    "notes": "Seasoning infrastructure",
+    "category": "Spices",
+    "location": "Spice cabinet",
+    "staple": false
+  },
+  {
+    "item": "Louisiana Crawfish, Shrimp & Crab Boil packet",
+    "amount": "1 x 5 oz packet on hand",
+    "storage": "Spice cabinet",
+    "priority": "Normal",
+    "notes": "Use for Captain's Kraken Feast / Dockside seafood boil; not Cajun loaf seasoning",
+    "category": "Spices",
+    "location": "Spice cabinet",
+    "staple": false
+  },
+  {
+    "item": "Furikake",
+    "amount": "On hand",
+    "storage": "Spice cabinet",
+    "priority": "Normal",
+    "notes": "Seasoning infrastructure",
+    "category": "Spices",
+    "location": "Spice cabinet",
+    "staple": false
+  },
+  {
+    "item": "Wasabi",
+    "amount": "On hand",
+    "storage": "Spice cabinet",
+    "priority": "Normal",
+    "notes": "Seasoning infrastructure",
+    "category": "Spices",
+    "location": "Spice cabinet",
+    "staple": false
+  },
+  {
+    "item": "Parsley",
+    "amount": "On hand",
+    "storage": "Spice cabinet",
+    "priority": "Do not use",
+    "notes": "Family dislikes parsley; exclude from meal planning",
+    "category": "Spices",
+    "location": "Spice cabinet",
+    "staple": false
+  },
+  {
+    "item": "Lemon pepper",
+    "amount": "On hand",
+    "storage": "Spice cabinet",
+    "priority": "Normal",
+    "notes": "Seasoning infrastructure",
+    "category": "Spices",
+    "location": "Spice cabinet",
+    "staple": false
+  },
+  {
+    "item": "Tajin",
+    "amount": "On hand",
+    "storage": "Spice cabinet",
+    "priority": "Normal",
+    "notes": "Seasoning infrastructure",
+    "category": "Spices",
+    "location": "Spice cabinet",
+    "staple": false
+  },
+  {
+    "item": "Crushed red pepper",
+    "amount": "On hand",
+    "storage": "Spice cabinet",
+    "priority": "Normal",
+    "notes": "Seasoning infrastructure",
+    "category": "Spices",
+    "location": "Spice cabinet",
+    "staple": false
+  },
+  {
+    "item": "Cinnamon",
+    "amount": "On hand",
+    "storage": "Spice cabinet",
+    "priority": "Normal",
+    "notes": "Seasoning infrastructure",
+    "category": "Spices",
+    "location": "Spice cabinet",
+    "staple": false
+  },
+  {
+    "item": "Nutmeg",
+    "amount": "On hand",
+    "storage": "Spice cabinet",
+    "priority": "Normal",
+    "notes": "Seasoning infrastructure",
+    "category": "Spices",
+    "location": "Spice cabinet",
+    "staple": false
+  },
+  {
+    "item": "Everything But The Elote",
+    "amount": "On hand",
+    "storage": "Spice cabinet",
+    "priority": "Normal",
+    "notes": "Seasoning infrastructure",
+    "category": "Spices",
+    "location": "Spice cabinet",
+    "staple": false
+  },
+  {
+    "item": "Turkish red meat seasoning",
+    "amount": "On hand",
+    "storage": "Spice cabinet",
+    "priority": "Normal",
+    "notes": "Seasoning infrastructure",
+    "category": "Spices",
+    "location": "Spice cabinet",
+    "staple": false
+  },
+  {
+    "item": "Dried vegetable mix",
+    "amount": "On hand",
+    "storage": "Spice cabinet",
+    "priority": "Normal",
+    "notes": "Seasoning infrastructure",
+    "category": "Spices",
+    "location": "Spice cabinet",
+    "staple": false
+  },
+  {
+    "item": "Jalapeño everything bagel seasoning",
+    "amount": "On hand",
+    "storage": "Spice cabinet",
+    "priority": "Normal",
+    "notes": "Seasoning infrastructure",
+    "category": "Spices",
+    "location": "Spice cabinet",
+    "staple": false
+  },
+  {
+    "item": "Cornstarch",
+    "amount": "On hand",
+    "storage": "Spice cabinet",
+    "priority": "Normal",
+    "notes": "Seasoning infrastructure",
+    "category": "Spices",
+    "location": "Spice cabinet",
+    "staple": false
+  },
+  {
+    "item": "Peanut butter options",
+    "amount": "On hand",
+    "storage": "Spice cabinet",
+    "priority": "Normal",
+    "notes": "Seasoning infrastructure",
+    "category": "Spices",
+    "location": "Spice cabinet",
+    "staple": false
+  },
+  {
+    "item": "El Weirdos nacho-cheese dust",
+    "amount": "On hand",
+    "storage": "Spice cabinet",
+    "priority": "Normal",
+    "notes": "Seasoning infrastructure",
+    "category": "Spices",
+    "location": "Spice cabinet",
+    "staple": false
+  },
+  {
+    "item": "Sheet pan breakfast wraps",
+    "amount": "Planned system",
+    "storage": "Reference",
+    "priority": "Planned",
+    "notes": "Eggs/egg whites, ground turkey/chicken, spinach, salsa, cheese, tortillas",
+    "category": "Meal Framework",
+    "location": "Planning notes",
+    "staple": false
+  },
+  {
+    "item": "Teriyaki chicken noodle bowl",
+    "amount": "Original Ami plan",
+    "storage": "Reference",
+    "priority": "Planned",
+    "notes": "Chicken, broccoli, noodles, light teriyaki, garlic",
+    "category": "Meal Framework",
+    "location": "Planning notes",
+    "staple": false
+  },
+  {
+    "item": "Taco noodle bowl",
+    "amount": "Original Ami plan",
+    "storage": "Reference",
+    "priority": "Planned",
+    "notes": "Ground turkey, zoodles, salsa, taco seasoning, cheese",
+    "category": "Meal Framework",
+    "location": "Planning notes",
+    "staple": false
+  },
+  {
+    "item": "Jammy egg ramen bowl",
+    "amount": "Confirmed winner",
+    "storage": "Reference",
+    "priority": "Recurring",
+    "notes": "Jammy eggs, noodles, spinach/greens, broth, soy",
+    "category": "Meal Framework",
+    "location": "Planning notes",
+    "staple": true
+  },
+  {
+    "item": "Shrimp garlic noodles",
+    "amount": "Original Ami plan",
+    "storage": "Reference",
+    "priority": "Planned",
+    "notes": "Shrimp, zoodles/rice noodles, garlic, lime, soy",
+    "category": "Meal Framework",
+    "location": "Planning notes",
+    "staple": false
+  },
+  {
+    "item": "Asian turkey noodle bowl / eggroll bowl",
+    "amount": "High fit",
+    "storage": "Reference",
+    "priority": "Planned",
+    "notes": "Turkey/chicken, cabbage, noodles, soy, ginger/garlic",
+    "category": "Meal Framework",
+    "location": "Planning notes",
+    "staple": false
+  },
+  {
+    "item": "California Heat-style tacos",
+    "amount": "Future target",
+    "storage": "Reference",
+    "priority": "Planned",
+    "notes": "Replicate Fuzzy's spicy shrimp/fish taco vibe",
+    "category": "Meal Framework",
+    "location": "Planning notes",
+    "staple": false
+  },
+  {
+    "item": "Fuzzy Dust clone",
+    "amount": "Future seasoning blend",
+    "storage": "Reference",
+    "priority": "Planned",
+    "notes": "Chili powder, garlic salt, onion powder, smoked paprika, pepper, cayenne, MSG",
+    "category": "Meal Framework",
+    "location": "Planning notes",
+    "staple": false
+  },
+  {
+    "item": "Organic baby spinach",
+    "amount": "Reduced; verify remaining",
+    "storage": "Refrigerator",
+    "priority": "Use soon",
+    "notes": "Used for chicken apple salads and salad bases",
+    "category": "Fridge",
+    "location": "Produce area",
+    "staple": true
+  },
+  {
+    "item": "Cooked baby bella mushrooms",
+    "amount": "1 bowl cooked mushrooms remaining",
+    "storage": "Refrigerator",
+    "priority": "Use soon",
+    "notes": "Cooked during rice bowl prep; adult use only (daughter dislikes mushrooms)",
+    "category": "Fridge",
+    "location": "Produce area",
+    "staple": true
+  },
+  {
+    "item": "Limes",
+    "amount": "Large amount remaining from 3 lb bag",
+    "storage": "Refrigerator",
+    "priority": "Normal",
+    "notes": "Only a few used; use for tacos/sauces/drinks",
+    "category": "Fridge",
+    "location": "Produce area",
+    "staple": true
+  },
+  {
+    "item": "Jalapeños",
+    "amount": "Partial 0.4 lb remaining",
+    "storage": "Refrigerator",
+    "priority": "Use soon",
+    "notes": "Used for California Heat tacos",
+    "category": "Fridge",
+    "location": "Produce area",
+    "staple": true
+  },
+  {
+    "item": "Shredded mozzarella",
+    "amount": "~1/2 of 5 lb bag remaining",
+    "storage": "Refrigerator",
+    "priority": "Normal",
+    "notes": "Used for Traveler's Loaf",
+    "category": "Fridge",
+    "location": "Meat/cheese drawer",
+    "staple": true
+  },
+  {
+    "item": "Heavy whipping cream",
+    "amount": "Partial 16 oz container remaining",
+    "storage": "Refrigerator",
+    "priority": "Use soon",
+    "notes": "Small amount used in mushroom soup/butterbeer workflow",
+    "category": "Fridge",
+    "location": "Dairy area",
+    "staple": true
+  },
+  {
+    "item": "Daisy sour cream 2-pack",
+    "amount": "Opened; partial remaining",
+    "storage": "Refrigerator",
+    "priority": "Use soon",
+    "notes": "Used for sriracha-lime crema/tacos",
+    "category": "Fridge",
+    "location": "Dairy area",
+    "staple": true
+  },
+  {
+    "item": "Whipped topping",
+    "amount": "Opened; partial remaining",
+    "storage": "Refrigerator",
+    "priority": "Use soon",
+    "notes": "Used for butterbeer",
+    "category": "Fridge",
+    "location": "Dairy area",
+    "staple": true
+  },
+  {
+    "item": "Silk unsweetened almond milk",
+    "amount": "3-pack stocked",
+    "storage": "Refrigerator",
+    "priority": "Normal",
+    "notes": "Amy coffee staple",
+    "category": "Fridge",
+    "location": "Dairy area",
+    "staple": true
+  },
+  {
+    "item": "Soy sauce",
+    "amount": "Full/stocked bottle",
+    "storage": "Sauce cabinet",
+    "priority": "Normal",
+    "notes": "Asian meals and dressings",
+    "category": "Pantry",
+    "location": "Sauce cabinet",
+    "staple": true
+  },
+  {
+    "item": "Brown sugar",
+    "amount": "32 oz, nearly full",
+    "storage": "Baking / pantry",
+    "priority": "Normal",
+    "notes": "Butterbeer, sauces, dressings",
+    "category": "Pantry",
+    "location": "Dry goods",
+    "staple": true
+  },
+  {
+    "item": "Butter extract",
+    "amount": "1 bottle, used tiny amount",
+    "storage": "Flavoring",
+    "priority": "Normal",
+    "notes": "Butterbeer",
+    "category": "Pantry",
+    "location": "Baking/flavor shelf",
+    "staple": true
+  },
+  {
+    "item": "Osmo roasted garlic sea salt",
+    "amount": "1 container, lightly used",
+    "storage": "Seasoning",
+    "priority": "Normal",
+    "notes": "Bread topping, seasoning, pistachios",
+    "category": "Pantry",
+    "location": "Seasoning area",
+    "staple": true
+  },
+  {
+    "item": "Wonderful shelled pistachios",
+    "amount": "24 oz bag, portioned/flavored as needed",
+    "storage": "Snack cabinet",
+    "priority": "Normal",
+    "notes": "DIY snack bags / tavern pistachio flavors",
+    "category": "Snacks",
+    "location": "Snack prep",
+    "staple": true
+  },
+  {
+    "item": "Built Puff protein bars",
+    "amount": "13 ct box",
+    "storage": "Snack cabinet",
+    "priority": "Normal",
+    "notes": "Protein snacks",
+    "category": "Snacks",
+    "location": "Protein snacks",
+    "staple": true
+  },
+  {
+    "item": "Nature Valley Sweet & Salty bars",
+    "amount": "36 ct box",
+    "storage": "Snack cabinet",
+    "priority": "Normal",
+    "notes": "Breakfast/snacks",
+    "category": "Snacks",
+    "location": "Breakfast/snacks",
+    "staple": true
+  },
+  {
+    "item": "Grüns NeuroTops gummies",
+    "amount": "1 package",
+    "storage": "Supplement area",
+    "priority": "Normal",
+    "notes": "Purple package",
+    "category": "Supplements",
+    "location": "Supplement area",
+    "staple": false
+  },
+  {
+    "item": "Breakfast burritos",
+    "amount": "Breakfast burrito batch assembled; exact count verify",
+    "storage": "Freezer",
+    "priority": "Use first",
+    "notes": "Oven eggs; freeze/refrigerate and rotate for breakfast",
+    "category": "Freezer",
+    "location": "Meal prep",
+    "staple": true
+  },
+  {
+    "item": "Chicken rice bowls",
+    "amount": "4 containers",
+    "storage": "Refrigerator",
+    "priority": "Use first",
+    "notes": "Broth rice, Rohan chicken, broccolini, mushrooms in adult bowls, water chestnuts/sauce separate",
+    "category": "Fridge",
+    "location": "Meal prep",
+    "staple": true
+  },
+  {
+    "item": "Chicken apple harvest salads",
+    "amount": "Multiple containers; exact count verify",
+    "storage": "Refrigerator",
+    "priority": "Use first",
+    "notes": "Spinach, chicken, green apples, cranberries/feta; dressing separate",
+    "category": "Fridge",
+    "location": "Meal prep",
+    "staple": true
+  },
+  {
+    "item": "Shrimp lettuce boats",
+    "amount": "Multiple containers; exact count verify",
+    "storage": "Refrigerator",
+    "priority": "Use first",
+    "notes": "Romaine, shrimp, Korean BBQ water chestnuts; sauce separate",
+    "category": "Fridge",
+    "location": "Meal prep",
+    "staple": true
+  },
+  {
+    "item": "Raw EZ Peel Shrimp",
+    "amount": "Used for shrimp boats and Cajun Bullshit; verify remaining",
+    "storage": "Freezer",
+    "priority": "Verify",
+    "notes": "Do not count on this for Kraken Feast until freezer check",
+    "category": "Freezer",
+    "location": "Protein reserve",
+    "staple": true
+  },
+  {
+    "item": "Fish fillets",
+    "amount": "Still available; exact count/type verify",
+    "storage": "Freezer",
+    "priority": "Normal",
+    "notes": "Potential next-week protein",
+    "category": "Freezer",
+    "location": "Protein reserve",
+    "staple": true
+  },
+  {
+    "item": "Coca-Cola Original",
+    "amount": "35 cans purchased 2026-11-14",
+    "storage": "Pantry",
+    "priority": "Normal",
+    "notes": "Sam's Club",
+    "category": "Pantry",
+    "location": "Beverage storage",
+    "staple": true
+  },
+  {
+    "item": "Croissants",
+    "amount": "New package purchased 2026-11-14; old croissants discarded",
+    "storage": "Kitchen",
+    "priority": "Use soon",
+    "notes": "Sam's Club replacement; exact count not confirmed",
+    "category": "Pantry",
+    "location": "Bread storage",
+    "staple": false
   },
   {
     "item": "Nature Valley Crispy Creamy Wafer Bars",
-    "amount": "28 bars, strawberry and blueberry",
+    "amount": "28 bars: 14 strawberry, 14 blueberry",
     "storage": "Pantry",
     "priority": "Normal",
-    "notes": "Sam's Club"
+    "notes": "Sam's Club, purchased 2026-11-14",
+    "category": "Pantry",
+    "location": "Snack storage",
+    "staple": false
   },
   {
     "item": "Archer Original Beef Minis",
     "amount": "24 sticks",
     "storage": "Pantry",
     "priority": "Normal",
-    "notes": "Sam's Club"
+    "notes": "Sam's Club, purchased 2026-11-14",
+    "category": "Pantry",
+    "location": "Snack storage",
+    "staple": false
   },
   {
-    "item": "Frozen meatballs",
-    "amount": "About half a bag remaining",
+    "item": "Frozen beef meatballs",
+    "amount": "~1/2 bag remaining",
     "storage": "Freezer",
     "priority": "Normal",
-    "notes": "Half bag used for pizza rolls; extra cooked meatballs discarded"
+    "notes": "Half bag used in homemade pizza rolls last week",
+    "category": "Freezer",
+    "location": "Location unconfirmed",
+    "staple": false
+  },
+  {
+    "item": "Frozen taco meat / ground beef",
+    "amount": "On hand; quantity unconfirmed",
+    "storage": "Freezer",
+    "priority": "Normal",
+    "notes": "User confirmed freezer stock; do not conflate with meatballs",
+    "category": "Freezer",
+    "location": "Location unconfirmed",
+    "staple": false
+  },
+  {
+    "item": "Bibigo mini chicken & vegetable wontons",
+    "amount": "On hand; quantity unconfirmed",
+    "storage": "Freezer",
+    "priority": "Normal",
+    "notes": "Confirmed freezer stock",
+    "category": "Freezer",
+    "location": "Location unconfirmed",
+    "staple": false
   },
   {
     "item": "Shredded rotisserie chicken",
-    "amount": "Container, exact amount unconfirmed",
+    "amount": "Container on hand; remaining quantity unconfirmed",
     "storage": "Refrigerator",
     "priority": "Use soon",
-    "notes": "For salad kits and buffalo chicken wraps"
+    "notes": "For Ami's buffalo wraps and two salad kits",
+    "category": "Fridge",
+    "location": "Location unconfirmed",
+    "staple": false
   },
   {
     "item": "Chopped salad kits",
-    "amount": "2 kits",
+    "amount": "2 kits on hand",
     "storage": "Refrigerator",
     "priority": "Use soon",
-    "notes": "For Amy's lunches"
+    "notes": "For Ami's lunch prep",
+    "category": "Fridge",
+    "location": "Produce area",
+    "staple": false
   },
   {
-    "item": "Flour",
-    "amount": "Enough for Traveler's Loaf",
-    "storage": "Pantry",
-    "priority": "Normal",
-    "notes": ""
-  },
-  {
-    "item": "Moore's Buffalo Garlic Wing Sauce",
-    "amount": "On hand",
-    "storage": "Pantry",
-    "priority": "Normal",
-    "notes": "For wraps"
-  },
-  {
-    "item": "Salted caramel flan syrup",
-    "amount": "On hand; about 4 tbsp used Nov 14, remainder unmeasured",
-    "storage": "Pantry",
-    "priority": "Normal",
-    "notes": "Sugar-free Cantina Gourmet; approximately 2 tbsp in slush and 2 tbsp in cold foam."
-  },
-  {
-    "item": "Vanilla syrup / extract",
-    "amount": "On hand; approximately 1 tsp used Nov 14, remainder unmeasured",
-    "storage": "Pantry",
-    "priority": "Normal",
-    "notes": "Small splash in frozen slush and another in cold foam."
-  },
-  {
-    "item": "Butter",
-    "amount": "On hand",
+    "item": "Publix gourmet mushroom blend",
+    "amount": "0 trays remaining",
     "storage": "Refrigerator",
-    "priority": "Normal",
-    "notes": "Butterbeer and cooking"
-  },
-  {
-    "item": "A&W Cream Soda",
-    "amount": "2 cans used for frozen butterbeer; 0 cans confirmed remaining",
-    "storage": "Pantry",
-    "priority": "Buy",
-    "notes": "Two cans used Nov 14, per cooking report; earlier stock entry was out."
-  },
-  {
-    "item": "Heavy whipping cream",
-    "amount": "0 — entire carton used for frozen butterbeer",
-    "storage": "Refrigerator",
-    "priority": "Buy",
-    "notes": "Entire carton consumed Nov 14; do not list as partially remaining."
-  },
-  {
-    "item": "OSMO Roasted Garlic Sea Salt",
-    "amount": "On hand",
-    "storage": "Spice cabinet",
-    "priority": "Normal",
-    "notes": "6.5 oz jar shown Nov 14"
-  },
-  {
-    "item": "Publix gourmet mushroom blend (baby bella, shiitake, oyster)",
-    "amount": "4 oz package purchased for Hobbit stew; remaining unconfirmed",
-    "storage": "Refrigerator",
-    "priority": "Check stock",
-    "notes": "Stew used mixed mushrooms; exact amount used not independently confirmed."
-  },
-  {
-    "item": "Beef for Hobbit stew",
-    "amount": "Used in Hobbit beef-and-mushroom stew; remaining unconfirmed",
-    "storage": "Refrigerator / Freezer",
-    "priority": "Check stock",
-    "notes": "Beef stew cooked Nov 14; starting amount and remaining stock not confirmed."
-  },
-  {
-    "item": "Potatoes",
-    "amount": "Used in Hobbit stew; count and remaining stock unconfirmed",
-    "storage": "Pantry",
-    "priority": "Check stock",
-    "notes": "Cubed potatoes used Nov 14; exact number not recorded"
-  },
-  {
-    "item": "Carrots",
-    "amount": "Used in Hobbit stew; remaining unconfirmed",
-    "storage": "Refrigerator",
-    "priority": "Check stock",
-    "notes": "Stew ingredient; exact amount unconfirmed."
+    "priority": "Out",
+    "notes": "Baby bella, shiitake, oyster; for Hobbit beef mushroom stew | Both trays used in Nov 14 Hobbit beef-and-mushroom stew.",
+    "category": "Fridge",
+    "location": "Location unconfirmed",
+    "staple": false
   },
   {
     "item": "Celery",
-    "amount": "3 stalks used; remaining amount unconfirmed",
+    "amount": "3 stalks used; remaining unconfirmed",
     "storage": "Refrigerator",
     "priority": "Check stock",
-    "notes": "3 stalks used in Hobbit stew Nov 14; purchased quantity not documented"
+    "notes": "Hobbit stew | 3 stalks used in Nov 14 Hobbit stew.",
+    "category": "Fridge",
+    "location": "Location unconfirmed",
+    "staple": false
   },
   {
-    "item": "Onion",
-    "amount": "Used in Hobbit stew; remaining unconfirmed",
-    "storage": "Pantry",
-    "priority": "Check stock",
-    "notes": "Exact number used and remaining unconfirmed."
+    "item": "Shredded cheese for Traveler's Loaf",
+    "amount": "Restocked at Publix; quantity unconfirmed",
+    "storage": "Refrigerator",
+    "priority": "Normal",
+    "notes": "Exact cheese package not verified; check against existing mozzarella row",
+    "category": "Fridge",
+    "location": "Location unconfirmed",
+    "staple": false
   },
   {
-    "item": "Garlic",
-    "amount": "Used in Hobbit stew; remaining unconfirmed",
-    "storage": "Refrigerator / Pantry",
-    "priority": "Check stock",
-    "notes": "Added garlic during cooking; exact amount remaining unconfirmed."
+    "item": "Stew beef cubes",
+    "amount": "0 of 1.51 lb package; fully used",
+    "storage": "Refrigerator",
+    "priority": "Out",
+    "notes": "Entire package used in Hobbit stew Nov 14",
+    "category": "",
+    "location": "",
+    "staple": false
   },
   {
     "item": "Fresh rosemary",
     "amount": "2 sprigs used; remainder unconfirmed",
     "storage": "Refrigerator",
     "priority": "Check stock",
-    "notes": "Hobbit stew Nov 14"
+    "notes": "Hobbit stew Nov 14",
+    "category": "",
+    "location": "",
+    "staple": false
+  },
+  {
+    "item": "Potatoes",
+    "amount": "Cubed potatoes used; remaining unconfirmed",
+    "storage": "Pantry",
+    "priority": "Check stock",
+    "notes": "Exact quantity not recorded for Hobbit stew Nov 14",
+    "category": "",
+    "location": "",
+    "staple": false
   },
   {
     "item": "Dried thyme",
     "amount": "1 tsp used; remainder unconfirmed",
     "storage": "Spice cabinet",
     "priority": "Normal",
-    "notes": "Hobbit stew Nov 14"
+    "notes": "Hobbit stew Nov 14",
+    "category": "",
+    "location": "",
+    "staple": false
   },
   {
-    "item": "Worcestershire sauce",
-    "amount": "1 tbsp used; remainder unconfirmed",
-    "storage": "Refrigerator",
-    "priority": "Normal",
-    "notes": "Hobbit stew Nov 14"
-  },
-  {
-    "item": "Salt and black pepper",
-    "amount": "Used to season Hobbit stew; remaining unconfirmed",
-    "storage": "Spice cabinet",
-    "priority": "Normal",
-    "notes": "Seasoned during cooking; quantities not measured."
-  },
-  {
-    "item": "Frozen homemade chicken broth",
-    "amount": "6 cups used in tonight's Hobbit stew; remaining frozen stock unconfirmed",
-    "storage": "Freezer",
-    "priority": "Check stock",
-    "notes": "Frozen homemade chicken broth, not Kettle & Fire. One stew cooked tonight; 4 cups initially plus 2 cups later."
-  },
-  {
-    "item": "Stew beef cubes",
-    "amount": "0 lb from 1.51 lb package",
-    "storage": "Refrigerator",
-    "priority": "Out",
-    "notes": "Entire 1.51 lb package used for Hobbit beef-and-mushroom stew Nov 14; other beef stock not verified"
-  },
-  {
-    "item": "Publix gourmet mushroom blend",
-    "amount": "0 of 2 trays remaining from stew purchase",
-    "storage": "Refrigerator",
-    "priority": "Out",
-    "notes": "Both gourmet mushroom trays used in Hobbit stew Nov 14; do not count the 4 oz purchase as still available"
-  },
-  {
-    "item": "Baby carrots",
-    "amount": "2 generous handfuls used; remaining amount unconfirmed",
-    "storage": "Refrigerator",
-    "priority": "Check stock",
-    "notes": "Whole baby carrots added to Hobbit stew Nov 14"
-  },
-  {
-    "item": "Jarred minced garlic",
-    "amount": "1 tbsp used; remainder unconfirmed",
-    "storage": "Refrigerator",
-    "priority": "Normal",
-    "notes": "Hobbit stew Nov 14"
-  },
-  {
-    "item": "Homemade chicken stock",
-    "amount": "6 cups used; remaining stock unconfirmed",
-    "storage": "Freezer",
-    "priority": "Check stock",
-    "notes": "Hobbit stew Nov 14, 4 cups + 2 cups"
-  },
-  {
-    "item": "Cooking oil",
-    "amount": "2 tbsp used; oil type unconfirmed",
+    "item": "Flour",
+    "amount": "Enough for Traveler's Loaf",
     "storage": "Pantry",
     "priority": "Normal",
-    "notes": "Browned stew beef Nov 14"
+    "notes": "",
+    "category": "Pantry",
+    "location": "Unconfirmed",
+    "staple": false
+  },
+  {
+    "item": "Salted caramel flan syrup",
+    "amount": "On hand; about 4 tbsp used Nov 14, remainder unmeasured",
+    "storage": "Pantry",
+    "priority": "Normal",
+    "notes": "Sugar-free Cantina Gourmet; approximately 2 tbsp in slush and 2 tbsp in cold foam.",
+    "category": "Pantry",
+    "location": "Unconfirmed",
+    "staple": false
+  },
+  {
+    "item": "Vanilla syrup / extract",
+    "amount": "On hand; approximately 1 tsp used Nov 14, remainder unmeasured",
+    "storage": "Pantry",
+    "priority": "Normal",
+    "notes": "Small splash in frozen slush and another in cold foam.",
+    "category": "Pantry",
+    "location": "Unconfirmed",
+    "staple": false
+  },
+  {
+    "item": "A&W Cream Soda",
+    "amount": "2 cans used for frozen butterbeer; 0 cans confirmed remaining",
+    "storage": "Pantry",
+    "priority": "Buy",
+    "notes": "Two cans used Nov 14, per cooking report; earlier stock entry was out.",
+    "category": "Pantry",
+    "location": "Unconfirmed",
+    "staple": false
   },
   {
     "item": "Salt",
     "amount": "3/4 tsp used; remaining unconfirmed",
     "storage": "Spice cabinet",
     "priority": "Normal",
-    "notes": "Hobbit stew Nov 14"
-  },
-  {
-    "item": "Black pepper",
-    "amount": "1/2 tsp used; remaining unconfirmed",
-    "storage": "Spice cabinet",
-    "priority": "Normal",
-    "notes": "Hobbit stew Nov 14"
+    "notes": "Hobbit stew Nov 14",
+    "category": "Pantry",
+    "location": "Unconfirmed",
+    "staple": false
   }
 ]
