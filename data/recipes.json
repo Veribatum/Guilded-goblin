@@ -656,7 +656,7 @@
     "title": "Ami's Taco Bell-Style Mexican Pizzas (Planned)",
     "collection": "Tavern Staples",
     "emoji": "🌮",
-    "description": "Future dinner idea shared by Ami. Adapted from a WhatsMomCookin reel: use the crunchy tostada shells already in our pantry instead of frying flour tortillas. Not yet kitchen-tested.",
+    "description": "Future dinner idea shared by Ami: Taco Bell-style Mexican pizzas with crisp fried flour tortillas, seasoned beef, refried beans, red enchilada sauce and melted cheese. Not yet kitchen-tested.",
     "yield": "6 small pizzas",
     "time": "About 30–40 minutes (estimate)",
     "keyIngredients": [
@@ -667,7 +667,7 @@
       "cheese"
     ],
     "ingredients": [
-      "12 crunchy tostada shells (or 12 small flour tortillas fried crisp, as in the original reel)",
+      "12 taco-sized flour tortillas, fried until crisp",
       "1 lb ground beef",
       "1 diced onion (currently out of stock)",
       "1 packet taco seasoning",
@@ -676,17 +676,18 @@
       "Red enchilada sauce, several spoonfuls per pizza (stock not confirmed)",
       "Shredded cheese, about 1½–2 cups (verify stock)",
       "Chopped tomatoes and green onions, for topping",
-      "Canola oil only if frying flour tortillas; unnecessary for ready-made tostada shells"
+      "Canola oil, enough to shallow-fry the tortillas"
     ],
     "steps": [
-      "When ready to cook, verify the tostada shells, beef, beans, enchilada sauce, cheese and toppings; purchase only missing items.",
+      "When ready to cook, verify small flour tortillas, beef, beans, enchilada sauce, cheese and toppings; purchase only missing items.",
       "Preheat oven to 400°F.",
       "Brown ground beef with diced onion, if using. Drain excess grease. Mix in taco seasoning and ¼ cup water; simmer briefly.",
-      "For each pizza, spread refried beans on one crispy tostada, add seasoned beef and a little cheese, and cover with a second tostada.",
+      "Heat a shallow layer of canola oil in a skillet over medium heat. Fry the 12 small flour tortillas one by one until crisp and lightly golden on both sides; drain on paper towels.",
+      "For each pizza, spread refried beans on one fried tortilla, add seasoned beef and a little cheese, and cover with a second fried tortilla.",
       "Spoon red enchilada sauce over the top shell and add more shredded cheese.",
       "Repeat to make six pizzas. Bake on a parchment-lined baking sheet for 8–10 minutes, until heated through and cheese melts.",
-      "Top with diced tomatoes and green onions. Serve immediately so the tostadas stay crisp."
+      "Top with diced tomatoes and green onions. Serve immediately so the fried tortillas stay crisp."
     ],
-    "notes": "Source: WhatsMomCookin Mexican Pizzas reel shared Nov 15, 2026. Future idea only; no ingredients consumed. Original recipe fries 12 taco-size flour tortillas in canola oil. Chef prefers using already-crispy tostadas for convenience; test before finalizing."
+    "notes": "Source: WhatsMomCookin Mexican Pizzas reel shared Nov 15, 2026. Future idea only; no ingredients consumed. Chef explicitly prefers frying the small flour tortillas Taco Bell-style; existing tostada shells are pantry stock but not the preferred version."
   }
 ]
