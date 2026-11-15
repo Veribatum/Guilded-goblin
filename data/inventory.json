@@ -3178,5 +3178,25 @@
     "category": "Pantry",
     "location": "Cabinet (pictured)",
     "staple": false
+  },
+  {
+    "item": "Frozen Hunter's Table chicken leftovers",
+    "amount": "On hand in freezer; exact weight and raw/cooked state unconfirmed",
+    "storage": "Freezer",
+    "priority": "Check stock",
+    "notes": "Unused portion from bulk Sam's Club chicken bought for prior Hunter's Table; chef cooked roughly half the meat bought. Check original packaging before cooking.",
+    "category": "Freezer",
+    "location": "Unconfirmed",
+    "staple": false
+  },
+  {
+    "item": "Frozen Hunter's Table sausage leftovers",
+    "amount": "On hand in freezer; exact weight and cooked state unconfirmed",
+    "storage": "Freezer",
+    "priority": "Check stock",
+    "notes": "Unused portion from bulk Sam's Club sausage bought for prior Hunter's Table; verify quantity and package designation when checking freezer.",
+    "category": "Freezer",
+    "location": "Unconfirmed",
+    "staple": false
   }
 ]
