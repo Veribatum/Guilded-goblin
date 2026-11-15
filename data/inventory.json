@@ -911,10 +911,10 @@
   },
   {
     "item": "Moore's buffalo garlic wing sauce",
-    "amount": "~1/4 bottle",
+    "amount": "0 remaining — bottle finished Nov 15",
     "storage": "Refrigerator door",
-    "priority": "Use first",
-    "notes": "Buffalo sauce",
+    "priority": "Out",
+    "notes": "Used final remaining sauce to coat shredded chicken for buffalo wraps Nov 15; replace when planning more buffalo wraps.",
     "category": "Fridge Door",
     "location": "Metal shelf",
     "staple": false
@@ -3011,10 +3011,10 @@
   },
   {
     "item": "Celery",
-    "amount": "3 stalks used; remaining unconfirmed",
+    "amount": "About half a bunch remaining before Nov 15 wrap prep; some to be chopped, exact amount pending",
     "storage": "Refrigerator",
-    "priority": "Check stock",
-    "notes": "Hobbit stew | 3 stalks used in Nov 14 Hobbit stew.",
+    "priority": "Use soon",
+    "notes": "Chef reports roughly half a bunch left Nov 15 before cutting for buffalo wraps. Exact quantity after prep not yet confirmed.",
     "category": "Fridge",
     "location": "Location unconfirmed",
     "staple": false
