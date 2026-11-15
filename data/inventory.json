@@ -164,7 +164,7 @@
     "amount": "5 newly prepared wraps Nov 15; earlier wrap stock unverified",
     "storage": "Refrigerator",
     "priority": "Use first",
-    "notes": "Nov 15 batch: 5 wraps made using shredded cooked chicken, remaining Moore's buffalo sauce, chopped celery and tortillas. NO cheese added. Ranch packed separately. Existing 2–3 wraps entry was stale/unverified; do not add to five. Refrigerate promptly; best within 3–4 days.",
+    "notes": "Five smaller buffalo wraps from one entire Publix pre-shredded chicken pack, buffalo sauce, celery and tortillas, no cheese; ranch separately. Made Nov 15; refrigerated and consume/freeze within safe leftover window. Older wrap stock still unverified.",
     "category": "Fridge",
     "location": "Middle left shelf",
     "staple": false
@@ -274,7 +274,7 @@
     "amount": "4 assembled lunches (Nov 15), with dressing portioned/supplemented",
     "storage": "Refrigerator",
     "priority": "Use first",
-    "notes": "Two chopped salad kits divided into 4 solid lunches for Ami. Dressing pouches insufficient for her preferred amount; used remaining extra dressing supplies. Chicken allocation not yet confirmed.",
+    "notes": "Four lunches prepared from two kits Nov 15; additional dressing supplied from existing dressings. Shredded Publix chicken two-pack exhausted across wrap/salad meal prep.",
     "category": "Fridge",
     "location": "Bottom shelf",
     "staple": false
@@ -2981,10 +2981,10 @@
   },
   {
     "item": "Shredded rotisserie chicken",
-    "amount": "Used in four salad lunches and five buffalo wraps Nov 15; any remaining quantity unconfirmed",
+    "amount": "0 of 2 sealed Publix pre-shredded chicken packs remaining; both fully used Nov 15",
     "storage": "Refrigerator",
-    "priority": "Check stock",
-    "notes": "Cooked shredded rotisserie chicken used for Nov 15 lunch prep; whether container emptied unconfirmed. Verify before planning further meals.",
+    "priority": "Out",
+    "notes": "Purchased as a two-pack of sealed pre-shredded cooked chicken, labeled Dec 18 while sealed. One pack made about five smaller buffalo chicken wraps; both packs now used for Nov 15 salad/wrap meal prep. Package date does not extend shelf life after opening or once assembled.",
     "category": "Fridge",
     "location": "Location unconfirmed",
     "staple": false
