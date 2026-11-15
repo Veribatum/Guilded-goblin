@@ -92,17 +92,17 @@
   },
   {
     "item": "A&W Cream Soda",
-    "amount": "Used frozen cream soda for Nov 14 butterbeer; remaining stock unconfirmed",
+    "amount": "2 cans used for frozen butterbeer; 0 cans confirmed remaining",
     "storage": "Pantry",
-    "priority": "Check stock",
-    "notes": "Previously marked out; frozen cream soda was on hand and used for frozen butterbeer. Confirm remaining cans before shopping."
+    "priority": "Buy",
+    "notes": "Two cans used Nov 14, per cooking report; earlier stock entry was out."
   },
   {
     "item": "Heavy whipping cream",
-    "amount": "1 cup used for Nov 14 cold foam; remaining stock unconfirmed",
+    "amount": "0 — entire carton used for frozen butterbeer",
     "storage": "Refrigerator",
-    "priority": "Check stock",
-    "notes": "Previously marked out; cream was on hand and used. Check carton before shopping."
+    "priority": "Buy",
+    "notes": "Entire carton consumed Nov 14; do not list as partially remaining."
   },
   {
     "item": "OSMO Roasted Garlic Sea Salt",
@@ -110,5 +110,103 @@
     "storage": "Spice cabinet",
     "priority": "Normal",
     "notes": "6.5 oz jar shown Nov 14"
+  },
+  {
+    "item": "Kettle & Fire broth",
+    "amount": "2 × 17 oz cartons used for mushroom soup; remaining flavor stock not fully verified",
+    "storage": "Pantry",
+    "priority": "Check stock",
+    "notes": "Two 17 oz cartons consumed in mushroom soup. Possible remaining: 2 × 17 oz coconut curry lime chicken bone broth and 1 × 17 oz Tom Yum; verify before treating as confirmed."
+  },
+  {
+    "item": "Dried shiitake mushrooms",
+    "amount": "Majority of 3 oz bag remains",
+    "storage": "Pantry",
+    "priority": "Normal",
+    "notes": "Loose handful used in mushroom soup."
+  },
+  {
+    "item": "Publix gourmet mushroom blend (baby bella, shiitake, oyster)",
+    "amount": "4 oz package purchased for Hobbit stew; remaining unconfirmed",
+    "storage": "Refrigerator",
+    "priority": "Check stock",
+    "notes": "Stew used mixed mushrooms; exact amount used not independently confirmed."
+  },
+  {
+    "item": "Beef for Hobbit stew",
+    "amount": "Used in Hobbit beef-and-mushroom stew; remaining unconfirmed",
+    "storage": "Refrigerator / Freezer",
+    "priority": "Check stock",
+    "notes": "Beef stew cooked Nov 14; starting amount and remaining stock not confirmed."
+  },
+  {
+    "item": "Potatoes",
+    "amount": "Used in Hobbit beef-and-mushroom stew; remaining unconfirmed",
+    "storage": "Pantry",
+    "priority": "Check stock",
+    "notes": "Potatoes used in stew; exact number and remaining stock unconfirmed."
+  },
+  {
+    "item": "Carrots",
+    "amount": "Used in Hobbit stew; remaining unconfirmed",
+    "storage": "Refrigerator",
+    "priority": "Check stock",
+    "notes": "Stew ingredient; exact amount unconfirmed."
+  },
+  {
+    "item": "Celery",
+    "amount": "Used in Hobbit stew; remaining unconfirmed",
+    "storage": "Refrigerator",
+    "priority": "Check stock",
+    "notes": "Purchased for Hobbit stew; exact stalk count remaining unconfirmed."
+  },
+  {
+    "item": "Onion",
+    "amount": "Used in Hobbit stew; remaining unconfirmed",
+    "storage": "Pantry",
+    "priority": "Check stock",
+    "notes": "Exact number used and remaining unconfirmed."
+  },
+  {
+    "item": "Garlic",
+    "amount": "Used in Hobbit stew; remaining unconfirmed",
+    "storage": "Refrigerator / Pantry",
+    "priority": "Check stock",
+    "notes": "Added garlic during cooking; exact amount remaining unconfirmed."
+  },
+  {
+    "item": "Fresh rosemary",
+    "amount": "2 sprigs used for Hobbit stew; fresh plant remains available",
+    "storage": "Garden",
+    "priority": "Normal",
+    "notes": "Fresh rosemary harvested from outdoor plant; no dried rosemary used."
+  },
+  {
+    "item": "Dried thyme",
+    "amount": "1 tsp used for Hobbit stew; remaining unconfirmed",
+    "storage": "Spice cabinet",
+    "priority": "Normal",
+    "notes": "1 teaspoon used in Nov 14 stew."
+  },
+  {
+    "item": "Worcestershire sauce",
+    "amount": "1 tbsp used for Hobbit stew; remaining unconfirmed",
+    "storage": "Pantry",
+    "priority": "Normal",
+    "notes": "1 tablespoon used in Nov 14 stew."
+  },
+  {
+    "item": "Salt and black pepper",
+    "amount": "Used to season Hobbit stew; remaining unconfirmed",
+    "storage": "Spice cabinet",
+    "priority": "Normal",
+    "notes": "Seasoned during cooking; quantities not measured."
+  },
+  {
+    "item": "Homemade chicken stock",
+    "amount": "6 cups used in Hobbit stew; remaining unconfirmed",
+    "storage": "Refrigerator / Freezer",
+    "priority": "Check stock",
+    "notes": "4 cups initially, plus 2 cups later, for 6 cups total."
   }
 ]
