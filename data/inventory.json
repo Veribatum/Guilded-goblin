@@ -3333,5 +3333,54 @@
     "storage": "Refrigerator",
     "priority": "Use soon",
     "notes": "Small Asian mushroom variety purchased for soups. Could be enoki, shimeji/beech mushrooms, or another species; do not identify without photo or seller label. Keep refrigerated; use only if identified as edible by a reliable source."
+  },
+  {
+    "item": "Baby bok choy",
+    "amount": "Need 3–4 small heads; not yet purchased",
+    "storage": "Shopping list — Asian market",
+    "priority": "Buy",
+    "notes": "For Chinese-style mini wonton soup. Add near end so stems cook but greens remain tender."
+  },
+  {
+    "item": "Fresh lemongrass",
+    "amount": "Check/buy 2 stalks at Asian market",
+    "storage": "Shopping list — Asian market",
+    "priority": "Check/buy",
+    "notes": "For Tom Kha Gai; not confirmed on hand."
+  },
+  {
+    "item": "Fresh galangal",
+    "amount": "Check/buy a small piece at Asian market",
+    "storage": "Shopping list — Asian market",
+    "priority": "Check/buy",
+    "notes": "For authentic Tom Kha Gai; not confirmed on hand."
+  },
+  {
+    "item": "Fish sauce",
+    "amount": "Check stock; buy if needed",
+    "storage": "Shopping list — Asian market",
+    "priority": "Check/buy",
+    "notes": "For Tom Kha Gai; not confirmed on hand."
+  },
+  {
+    "item": "Thai chilies",
+    "amount": "Optional; check/buy",
+    "storage": "Shopping list — Asian market",
+    "priority": "Check/buy",
+    "notes": "For Ami's preferred Thai-hot soup; adjust per bowl."
+  },
+  {
+    "item": "Fresh cilantro",
+    "amount": "Optional; check/buy",
+    "storage": "Shopping list — Asian market",
+    "priority": "Check/buy",
+    "notes": "For Tom Kha Gai garnish."
+  },
+  {
+    "item": "Makrut lime leaves",
+    "amount": "Optional; buy if available",
+    "storage": "Shopping list — Asian market",
+    "priority": "Check/buy",
+    "notes": "Aromatic flavor for Tom Kha Gai; not essential."
   }
 ]
