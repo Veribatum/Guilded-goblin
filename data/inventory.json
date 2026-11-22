@@ -171,10 +171,10 @@
   },
   {
     "item": "Cherry tomatoes",
-    "amount": "Fresh container requested; not yet purchased",
+    "amount": "Covered by new purchase Nov 22",
     "storage": "Refrigerator",
-    "priority": "Buy",
-    "notes": "Salads/tacos/snacks | Ami's avocado salad. Existing older cherry tomatoes quantity ~1/4 container, check freshness.",
+    "priority": "Covered",
+    "notes": "Fresh grape tomatoes purchased Sam's Club Nov 22; no more tomatoes needed for Ami's avocado salad. Older fridge supply unverified.",
     "category": "Fridge",
     "location": "Middle left shelf",
     "staple": false
@@ -2731,10 +2731,10 @@
   },
   {
     "item": "Heavy whipping cream",
-    "amount": "Partial 16 oz container remaining",
+    "amount": "1 new 32 fl oz carton purchased Sam's Club Nov 22 ($3.78), plus old partial quantity unverified",
     "storage": "Refrigerator",
-    "priority": "Check/buy",
-    "notes": "Small amount used in mushroom soup/butterbeer workflow | Screenshot recipe uses 3 cups heavy cream. Add only if crème brûlée planned.",
+    "priority": "Normal",
+    "notes": "Member's Mark heavy whipping cream; new 32 fl oz carton enough for 3-cup crème brûlée recipe.",
     "category": "Fridge",
     "location": "Dairy area",
     "staple": true
@@ -2911,10 +2911,10 @@
   },
   {
     "item": "Coca-Cola Original",
-    "amount": "35 cans purchased 2026-11-14",
+    "amount": "1 new 35-can flat purchased Sam's Club Nov 22 ($18.48), previous cans remaining unknown",
     "storage": "Pantry",
-    "priority": "Restock",
-    "notes": "Previously purchased 35 cans Nov 14; chef requests another flat at Sam's Club Nov 22. Confirm remaining stock before purchase; new flat NOT yet purchased.",
+    "priority": "Normal",
+    "notes": "Sam's Club Nov 22 new Coke 35-can flat; prior Nov 14 purchase separate.",
     "category": "Pantry",
     "location": "Beverage storage",
     "staple": true
@@ -3406,17 +3406,17 @@
   },
   {
     "item": "LaCroix or similar sparkling water",
-    "amount": "Buy 1 variety pack at Sam's Club; not yet purchased",
+    "amount": "Covered by new purchase Nov 22",
     "storage": "Shopping — Sam's Club",
-    "priority": "Buy",
-    "notes": "Flavor unspecified; user requested sparkling water such as LaCroix."
+    "priority": "Covered",
+    "notes": "Purchased Bubly variety pack at Sam's Nov 22; no additional sparkling water needed."
   },
   {
     "item": "Fruit snacks",
-    "amount": "Restock one box/pack; check preferred brand and existing stock",
+    "amount": "Covered by new purchase Nov 22",
     "storage": "Shopping — Sam's Club / Aldi",
-    "priority": "Buy",
-    "notes": "Chef requests restock of prior grab-and-go fruit snacks; not confirmed in current pantry inventory."
+    "priority": "Covered",
+    "notes": "Purchased Member's Mark Organic Fruit Twists Nov 22; no duplicate fruit snacks needed."
   },
   {
     "item": "Cosmic Crisp apples",
@@ -3532,17 +3532,17 @@
   },
   {
     "item": "Apple cider",
-    "amount": "1 container; not yet purchased",
-    "storage": "Shopping — Publix or Sam's",
-    "priority": "Buy",
-    "notes": "Ami requests apple cider."
+    "amount": "1 jug purchased Sam's Club Nov 22 ($5.97)",
+    "storage": "Refrigerator (once opened)",
+    "priority": "Normal",
+    "notes": "Premium apple cider; receipt quantity 1."
   },
   {
     "item": "Apple juice",
-    "amount": "1 bottle or carton; not yet purchased",
-    "storage": "Shopping — Publix or Sam's",
-    "priority": "Buy",
-    "notes": "For Rhiannon, per Ami."
+    "amount": "1 multipack purchased Sam's Club Nov 22 ($7.36)",
+    "storage": "Pantry",
+    "priority": "Normal",
+    "notes": "Mott's 100% apple juice for Rhiannon."
   },
   {
     "item": "Fresh avocados",
@@ -3578,5 +3578,33 @@
     "storage": "Shopping — Publix or Sam's",
     "priority": "Check/buy",
     "notes": "Screenshot recipe uses one vanilla bean; not vanilla extract."
+  },
+  {
+    "item": "Grape tomatoes",
+    "amount": "1 pack purchased Sam's Club Nov 22 ($6.97)",
+    "storage": "Refrigerator",
+    "notes": "Angel Sweet grape tomatoes, use for Ami's avocado salad. No additional cherry tomato purchase needed.",
+    "priority": "Use soon"
+  },
+  {
+    "item": "Member's Mark Organic Fruit Twists",
+    "amount": "1 multipack purchased Sam's Club Nov 22 ($9.98)",
+    "storage": "Pantry",
+    "notes": "Grab-and-go fruit snacks, fulfills restock.",
+    "priority": "Normal"
+  },
+  {
+    "item": "Bubly sparkling water variety pack",
+    "amount": "1 case purchased Sam's Club Nov 22 ($9.48)",
+    "storage": "Pantry",
+    "notes": "Sparkling water replaces LaCroix need.",
+    "priority": "Normal"
+  },
+  {
+    "item": "Hefty 28 oz containers",
+    "amount": "1 pack purchased Sam's Club Nov 22 ($10.68)",
+    "storage": "Kitchen supplies",
+    "notes": "28 oz disposable/storage containers as shown; NOT small dressing condiment cups.",
+    "priority": "Normal"
   }
 ]
