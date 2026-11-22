@@ -1084,7 +1084,7 @@
     "amount": "Full bag",
     "storage": "Freezer",
     "priority": "Normal",
-    "notes": "Gyoza/dumpling nights",
+    "notes": "Gyoza/dumpling nights | Chef reconfirmed Nov 22: full frozen bag on hand. Keep for another meal; do not buy duplicates.",
     "category": "Freezer",
     "location": "Bottom shelf",
     "staple": true
@@ -2961,10 +2961,10 @@
   },
   {
     "item": "Frozen taco meat / ground beef",
-    "amount": "On hand; quantity unconfirmed",
+    "amount": "Approximately 2–3 lb frozen ground beef, chef confirmed Nov 22 (exact package count/weight to verify)",
     "storage": "Freezer",
     "priority": "Normal",
-    "notes": "User confirmed freezer stock; do not conflate with meatballs",
+    "notes": "Already in freezer. Reserve about 1 lb for Mexican pizzas this week; do not buy more ground beef. Confirm whether raw or previously seasoned before preparing.",
     "category": "Freezer",
     "location": "Location unconfirmed",
     "staple": false
@@ -3184,7 +3184,7 @@
     "amount": "On hand in freezer; exact weight and raw/cooked state unconfirmed",
     "storage": "Freezer",
     "priority": "Check stock",
-    "notes": "Unused portion from bulk Sam's Club chicken bought for prior Hunter's Table; chef cooked roughly half the meat bought. Check original packaging before cooking.",
+    "notes": "Unused portion from bulk Sam's Club chicken bought for prior Hunter's Table; chef cooked roughly half the meat bought. Check original packaging before cooking. | Chef reconfirmed frozen chicken on hand Nov 22; package/raw-cooked status and amount not verified.",
     "category": "Freezer",
     "location": "Unconfirmed",
     "staple": false
