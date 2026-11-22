@@ -11,10 +11,10 @@
   },
   {
     "item": "Granny Smith apples",
-    "amount": "Reduced; verify remaining",
+    "amount": "Remaining amount unknown; buy fresh Granny Smith or Cosmic Crisp this week",
     "storage": "Refrigerator",
-    "priority": "Use soon",
-    "notes": "Used for chicken apple harvest salads",
+    "priority": "Restock",
+    "notes": "Chef requested restock Nov 22; Granny Smith preferred, Cosmic Crisp acceptable; existing refrigerator stock not verified.",
     "category": "Fridge",
     "location": "Top right shelf",
     "staple": false
@@ -1161,10 +1161,10 @@
   },
   {
     "item": "Homemade chicken broth bags",
-    "amount": "4 frozen bags used for Nov 14 stew (6 cups total); remaining stock unknown",
+    "amount": "2 frozen bags confirmed Nov 22; each bag volume unknown",
     "storage": "Freezer",
-    "priority": "Check stock",
-    "notes": "User confirmed four bags of frozen homemade chicken stock used in Hobbit stew Nov 14; check remaining stock before planning meals.",
+    "priority": "Normal",
+    "notes": "Chef confirms 2 bags remaining in freezer for soup prep; prior four bags were already used for Nov 14 stew.",
     "category": "Freezer",
     "location": "Bottom shelf",
     "staple": true
@@ -1671,20 +1671,20 @@
   },
   {
     "item": "Kettle & Fire coconut curry lime chicken bone broth",
-    "amount": "Possibly 2 x 17 oz cartons remaining",
+    "amount": "2 cartons, 16.9 fl oz (500 mL) each, confirmed Nov 22",
     "storage": "Soup/Broth shelf",
     "priority": "Normal",
-    "notes": "Two 17 oz broth cartons used for mushroom soup; flavor count should be verified",
+    "notes": "Actual pantry photo confirms two cartons. Flavored broth; suitable to complement Tom Kha but does not replace plain chicken stock for wonton soup.",
     "category": "Pantry",
     "location": "Soup cabinet",
     "staple": false
   },
   {
     "item": "Kettle & Fire Tom Yum bone broth",
-    "amount": "Possibly 1 x 17 oz carton remaining",
+    "amount": "1 carton, size not clearly verified, confirmed Nov 22",
     "storage": "Soup/Broth shelf",
     "priority": "Normal",
-    "notes": "Two 17 oz broth cartons used for mushroom soup; flavor count should be verified",
+    "notes": "Pantry photo confirms one Tom Yum carton. Strongly flavored; could be added to Tom Kha carefully after tasting.",
     "category": "Pantry",
     "location": "Soup cabinet",
     "staple": false
@@ -1751,10 +1751,10 @@
   },
   {
     "item": "Coconut milk",
-    "amount": "2 cans",
+    "amount": "2 unopened Thrive Market organic cans, 13.5 fl oz each, confirmed Nov 22",
     "storage": "Soup/Broth shelf",
     "priority": "Normal",
-    "notes": "Thai/curry soups",
+    "notes": "Confirmed from pantry photo; reserved for Tom Kha Gai.",
     "category": "Pantry",
     "location": "Soup cabinet",
     "staple": false
@@ -2913,8 +2913,8 @@
     "item": "Coca-Cola Original",
     "amount": "35 cans purchased 2026-11-14",
     "storage": "Pantry",
-    "priority": "Normal",
-    "notes": "Sam's Club",
+    "priority": "Restock",
+    "notes": "Previously purchased 35 cans Nov 14; chef requests another flat at Sam's Club Nov 22. Confirm remaining stock before purchase; new flat NOT yet purchased.",
     "category": "Pantry",
     "location": "Beverage storage",
     "staple": true
@@ -3382,5 +3382,47 @@
     "storage": "Shopping list — Asian market",
     "priority": "Check/buy",
     "notes": "Aromatic flavor for Tom Kha Gai; not essential."
+  },
+  {
+    "item": "Coconut oil",
+    "amount": "On hand; quantity unconfirmed",
+    "storage": "Oil shelf",
+    "priority": "Normal",
+    "notes": "Chef confirms coconut oil in pantry Nov 22; do not confuse with coconut milk."
+  },
+  {
+    "item": "Walnuts",
+    "amount": "Buy one Sam's Club package; not yet purchased",
+    "storage": "Shopping — Sam's Club",
+    "priority": "Buy",
+    "notes": "Ami requested walnuts for nut mix; do not imply medical benefit without details."
+  },
+  {
+    "item": "Almonds for Ami's nut mix",
+    "amount": "Buy one Sam's Club package; not yet purchased",
+    "storage": "Shopping — Sam's Club",
+    "priority": "Buy",
+    "notes": "Ami specifically requests almonds and walnuts for nut mix."
+  },
+  {
+    "item": "LaCroix or similar sparkling water",
+    "amount": "Buy 1 variety pack at Sam's Club; not yet purchased",
+    "storage": "Shopping — Sam's Club",
+    "priority": "Buy",
+    "notes": "Flavor unspecified; user requested sparkling water such as LaCroix."
+  },
+  {
+    "item": "Fruit snacks",
+    "amount": "Restock one box/pack; check preferred brand and existing stock",
+    "storage": "Shopping — Sam's Club / Aldi",
+    "priority": "Buy",
+    "notes": "Chef requests restock of prior grab-and-go fruit snacks; not confirmed in current pantry inventory."
+  },
+  {
+    "item": "Cosmic Crisp apples",
+    "amount": "Alternative to Granny Smith for this week's shopping; not yet bought",
+    "storage": "Shopping — Produce",
+    "priority": "Alternative",
+    "notes": "Buy only if Granny Smith quality or availability is poor; avoid counting twice."
   }
 ]
