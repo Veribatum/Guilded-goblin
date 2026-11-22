@@ -2961,10 +2961,10 @@
   },
   {
     "item": "Frozen taco meat / ground beef",
-    "amount": "Approximately 2–3 lb frozen ground beef, chef confirmed Nov 22 (exact package count/weight to verify)",
+    "amount": "Several frozen packs visible; 3 x 1 lb organic beef pack plus a separately labeled 3.16 lb pack and one additional unlabeled block; exact total/overlap unverified",
     "storage": "Freezer",
     "priority": "Normal",
-    "notes": "Already in freezer. Reserve about 1 lb for Mexican pizzas this week; do not buy more ground beef. Confirm whether raw or previously seasoned before preparing.",
+    "notes": "Nov 22 freezer photos show Member's Mark organic ground beef marked 3 single packages (1 lb each), a separate 3.16 lb beef block, and another block; appears considerably more than earlier verbal 2–3 lb estimate. Inspect pack labels/avoid duplicate counting before exact weigh-out. Reserve ~1 lb for Mexican pizzas.",
     "category": "Freezer",
     "location": "Location unconfirmed",
     "staple": false
@@ -3184,7 +3184,7 @@
     "amount": "On hand in freezer; exact weight and raw/cooked state unconfirmed",
     "storage": "Freezer",
     "priority": "Check stock",
-    "notes": "Unused portion from bulk Sam's Club chicken bought for prior Hunter's Table; chef cooked roughly half the meat bought. Check original packaging before cooking. | Chef reconfirmed frozen chicken on hand Nov 22; package/raw-cooked status and amount not verified.",
+    "notes": "Unused portion from bulk Sam's Club chicken bought for prior Hunter's Table; chef cooked roughly half the meat bought. Check original packaging before cooking. | Chef reconfirmed frozen chicken on hand Nov 22; package/raw-cooked status and amount not verified. | Nov 22 photo separately confirms a full raw thighs pack; not necessarily the Hunter's Table leftovers, do not merge automatically.",
     "category": "Freezer",
     "location": "Unconfirmed",
     "staple": false
@@ -3194,7 +3194,7 @@
     "amount": "On hand in freezer; exact weight and cooked state unconfirmed",
     "storage": "Freezer",
     "priority": "Check stock",
-    "notes": "Unused portion from bulk Sam's Club sausage bought for prior Hunter's Table; verify quantity and package designation when checking freezer.",
+    "notes": "Unused portion from bulk Sam's Club sausage bought for prior Hunter's Table; verify quantity and package designation when checking freezer. | Nov 22 freezer also shows smoked sausage pack; possible overlap.",
     "category": "Freezer",
     "location": "Unconfirmed",
     "staple": false
@@ -3228,5 +3228,82 @@
     "category": "Shopping / supplies",
     "location": "Unconfirmed",
     "staple": true
+  },
+  {
+    "item": "Member's Mark boneless skinless chicken thighs",
+    "amount": "One large frozen pack, label approximately 6.59 lb",
+    "storage": "Freezer",
+    "priority": "Normal",
+    "notes": "Nov 22 photo: large Member's Mark raw boneless skinless chicken thighs pack, labeled 6.59 lb; raw protein for bulk meal prep."
+  },
+  {
+    "item": "Member's Mark Italian-style beef meatballs",
+    "amount": "One 6 lb bag visible; amount remaining unknown",
+    "storage": "Freezer",
+    "priority": "Normal",
+    "notes": "Nov 22 photo shows large blue Member's Mark Italian Style Beef Meatballs bag labeled 6 lb original package; possibly previously opened. Don't assume full bag."
+  },
+  {
+    "item": "Birds Eye Deluxe California Blend vegetables",
+    "amount": "One 2 lb frozen bag visible; fullness not verified",
+    "storage": "Freezer",
+    "priority": "Normal",
+    "notes": "Nov 22 photo: frozen broccoli, cauliflower florets and carrots, 2 lb package."
+  },
+  {
+    "item": "Frozen flame-grilled peppers and onions",
+    "amount": "One bag visible; quantity unknown",
+    "storage": "Freezer",
+    "priority": "Normal",
+    "notes": "Nov 22 photos: flame-grilled mixed peppers and onions frozen. Good for rice bowls, chicken and fajitas."
+  },
+  {
+    "item": "Member's Mark tilapia fillet portions",
+    "amount": "One large bag visible, individually wrapped; quantity remaining unknown",
+    "storage": "Freezer",
+    "priority": "Reference",
+    "notes": "Nov 22 photos show Member's Mark boneless skinless tilapia portions; likely duplicate of preexisting Tilapia fillets entry, not additional stock."
+  },
+  {
+    "item": "Frozen curly potato fries",
+    "amount": "One opened 24 oz bag visible; remaining amount unknown",
+    "storage": "Freezer",
+    "priority": "Normal",
+    "notes": "Nov 22 photo: frozen curly-cut fries, package 24 oz."
+  },
+  {
+    "item": "Frozen garlic Texas toast",
+    "amount": "One 8-slice box visible; amount remaining unknown",
+    "storage": "Freezer",
+    "priority": "Normal",
+    "notes": "Nov 22 photo: frozen garlic Texas toast; could pair with meatballs."
+  },
+  {
+    "item": "Frozen pre-cooked smoked sausage",
+    "amount": "At least one package visible; weight/remaining amount unverified",
+    "storage": "Freezer",
+    "priority": "Normal",
+    "notes": "Nov 22 freezer photo: bag of smoked fully-cooked sausage in freezer; exact brand/quantity obscured. May overlap prior Hunter's Table sausage leftovers."
+  },
+  {
+    "item": "Frozen chicken potstickers",
+    "amount": "One frozen bag visible; remaining quantity unverified",
+    "storage": "Freezer",
+    "priority": "Normal",
+    "notes": "Nov 22 freezer photo shows chicken/vegetable filled dumplings/potstickers; may overlap earlier Chicken potstickers and Bibigo mini wontons inventory. Don't double count."
+  },
+  {
+    "item": "Member's Mark mini chicken and vegetable wontons",
+    "amount": "One frozen bag visible, approximately 65 count original package",
+    "storage": "Freezer",
+    "priority": "Normal",
+    "notes": "Nov 22 photos: Member's Mark mini wontons chicken & vegetable, bag marked about 65 count. May overlap older Bibigo mini wontons entry, verify labels before considering additional bag."
+  },
+  {
+    "item": "Frozen boneless chicken thighs",
+    "amount": "See Member's Mark 6.59 lb chicken thighs entry",
+    "storage": "Freezer",
+    "priority": "Reference",
+    "notes": "Alias only; do not count extra chicken from the same photo."
   }
 ]
