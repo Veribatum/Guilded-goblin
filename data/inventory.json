@@ -171,10 +171,10 @@
   },
   {
     "item": "Cherry tomatoes",
-    "amount": "~1/4 of original 2 lb container",
+    "amount": "Fresh container requested; not yet purchased",
     "storage": "Refrigerator",
-    "priority": "Use soon",
-    "notes": "Salads/tacos/snacks",
+    "priority": "Buy",
+    "notes": "Salads/tacos/snacks | Ami's avocado salad. Existing older cherry tomatoes quantity ~1/4 container, check freshness.",
     "category": "Fridge",
     "location": "Middle left shelf",
     "staple": false
@@ -2483,8 +2483,8 @@
     "item": "Lemon pepper",
     "amount": "On hand",
     "storage": "Spice cabinet",
-    "priority": "Normal",
-    "notes": "Seasoning infrastructure",
+    "priority": "Check stock",
+    "notes": "Seasoning infrastructure | Ami requested lemon pepper Nov 22 but inventory already shows on hand; check current jar before purchasing.",
     "category": "Spices",
     "location": "Spice cabinet",
     "staple": false
@@ -2733,8 +2733,8 @@
     "item": "Heavy whipping cream",
     "amount": "Partial 16 oz container remaining",
     "storage": "Refrigerator",
-    "priority": "Use soon",
-    "notes": "Small amount used in mushroom soup/butterbeer workflow",
+    "priority": "Check/buy",
+    "notes": "Small amount used in mushroom soup/butterbeer workflow | Screenshot recipe uses 3 cups heavy cream. Add only if crème brûlée planned.",
     "category": "Fridge",
     "location": "Dairy area",
     "staple": true
@@ -3508,5 +3508,75 @@
     "storage": "Refrigerator",
     "notes": "Aldi receipt: 2 Brussels sprouts packages/units; amount/weight unspecified.",
     "priority": "Use soon"
+  },
+  {
+    "item": "Petite potatoes",
+    "amount": "Requested by Ami ('pretty potatoes'), one bag; not yet purchased",
+    "storage": "Shopping — Publix or Sam's",
+    "priority": "Buy",
+    "notes": "For Ami's steak dinner; interpreted as petite/baby potatoes."
+  },
+  {
+    "item": "Stove Top stuffing",
+    "amount": "1 box; not yet purchased",
+    "storage": "Shopping — Publix or Sam's",
+    "priority": "Buy",
+    "notes": "Ami's requested Stove Top stuffing for dinner."
+  },
+  {
+    "item": "Cinnamon sticks",
+    "amount": "1 jar or pack; not yet purchased",
+    "storage": "Shopping — Publix or Sam's",
+    "priority": "Buy",
+    "notes": "Ami requested whole sticks, distinct from ground cinnamon in inventory."
+  },
+  {
+    "item": "Apple cider",
+    "amount": "1 container; not yet purchased",
+    "storage": "Shopping — Publix or Sam's",
+    "priority": "Buy",
+    "notes": "Ami requests apple cider."
+  },
+  {
+    "item": "Apple juice",
+    "amount": "1 bottle or carton; not yet purchased",
+    "storage": "Shopping — Publix or Sam's",
+    "priority": "Buy",
+    "notes": "For Rhiannon, per Ami."
+  },
+  {
+    "item": "Fresh avocados",
+    "amount": "2–3; not yet purchased",
+    "storage": "Shopping — Publix or Sam's",
+    "priority": "Buy",
+    "notes": "For avocado toast and Ami's avocado salad."
+  },
+  {
+    "item": "Olive Garden Italian dressing",
+    "amount": "Reported on hand by Ami; exact bottle volume unknown",
+    "storage": "Shopping — Publix or Sam's",
+    "priority": "Confirmed on hand",
+    "notes": "For Ami's avocado salad; no need to buy."
+  },
+  {
+    "item": "Pine nuts",
+    "amount": "Reported on hand by Ami; quantity unknown",
+    "storage": "Shopping — Publix or Sam's",
+    "priority": "Confirmed on hand",
+    "notes": "For Ami's avocado salad; no need to buy."
+  },
+  {
+    "item": "Granulated sugar",
+    "amount": "Bag on hand, per Ami Nov 22; no need to buy",
+    "storage": "Shopping — Publix or Sam's",
+    "priority": "Confirmed on hand",
+    "notes": "For crème brûlée; also need finely processed superfine sugar per screenshot."
+  },
+  {
+    "item": "Vanilla bean",
+    "amount": "1 whole bean if making pictured crème brûlée; purchase not yet confirmed",
+    "storage": "Shopping — Publix or Sam's",
+    "priority": "Check/buy",
+    "notes": "Screenshot recipe uses one vanilla bean; not vanilla extract."
   }
 ]
