@@ -3357,10 +3357,10 @@
   },
   {
     "item": "Fish sauce",
-    "amount": "Check stock; buy if needed",
+    "amount": "Not stocked in confirmed inventory; do not purchase for this week's Tom Kha",
     "storage": "Shopping list — Asian market",
-    "priority": "Check/buy",
-    "notes": "For Tom Kha Gai; not confirmed on hand."
+    "priority": "Skip",
+    "notes": "Ami does not particularly like fish sauce. Omit from this week's Tom Kha Gai; use existing soy sauce sparingly to season instead if desired. Always check actual inventory before asking chef what is on hand."
   },
   {
     "item": "Thai chilies",
