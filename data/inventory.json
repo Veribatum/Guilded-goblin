@@ -411,10 +411,10 @@
   },
   {
     "item": "Avocados",
-    "amount": "Reduced; exact count verify",
-    "storage": "Refrigerator",
-    "priority": "Check stock",
-    "notes": "Nov 22 breakfast plan: avocado toast every morning for Ami. Fresh avocado count/ripeness unverified; guacamole cups also on hand as fallback.",
+    "amount": "3 fresh Hass avocados purchased Nov 22; old remaining stock unverified",
+    "storage": "Produce / refrigerate when ripe",
+    "priority": "Use soon",
+    "notes": "Alias of 'Fresh avocados' purchase, not three additional avocados.",
     "category": "Fridge",
     "location": "Right crisper",
     "staple": true
@@ -2481,10 +2481,10 @@
   },
   {
     "item": "Lemon pepper",
-    "amount": "On hand",
+    "amount": "1 jar Publix lemon pepper purchased Nov 22 ($2.79); prior seasoning on hand quantity unknown",
     "storage": "Spice cabinet",
-    "priority": "Check stock",
-    "notes": "Seasoning infrastructure | Ami requested lemon pepper Nov 22 but inventory already shows on hand; check current jar before purchasing.",
+    "priority": "Normal",
+    "notes": "Ami requested lemon pepper; Publix purchase confirmed.",
     "category": "Spices",
     "location": "Spice cabinet",
     "staple": false
@@ -3121,10 +3121,10 @@
   },
   {
     "item": "Fresh onions",
-    "amount": "Out (confirmed Nov 14)",
+    "amount": "1.65 lb sweet onions purchased Publix Nov 22 ($2.46)",
     "storage": "Produce",
-    "priority": "Buy",
-    "notes": "Needed for next homemade stock batch; onion powder is separate",
+    "priority": "Use soon",
+    "notes": "Fresh sweet onions; replaces previous 'out' status.",
     "category": "Produce",
     "location": "",
     "staple": true
@@ -3392,17 +3392,17 @@
   },
   {
     "item": "Walnuts",
-    "amount": "Buy one Sam's Club package; not yet purchased",
-    "storage": "Shopping — Sam's Club",
-    "priority": "Buy",
-    "notes": "Ami requested walnuts for nut mix; do not imply medical benefit without details."
+    "amount": "1 package Mariani shelled walnuts purchased Publix Nov 22 ($5.99)",
+    "storage": "Pantry",
+    "priority": "Normal",
+    "notes": "Ami's walnut-and-almond nut mix; no additional purchase needed."
   },
   {
     "item": "Almonds for Ami's nut mix",
-    "amount": "Buy one Sam's Club package; not yet purchased",
-    "storage": "Shopping — Sam's Club",
-    "priority": "Buy",
-    "notes": "Ami specifically requests almonds and walnuts for nut mix."
+    "amount": "1 package whole almonds purchased Publix Nov 22 ($3.34)",
+    "storage": "Pantry",
+    "priority": "Normal",
+    "notes": "For Ami's nut mix; no additional purchase needed."
   },
   {
     "item": "LaCroix or similar sparkling water",
@@ -3427,10 +3427,10 @@
   },
   {
     "item": "Matchstick carrots",
-    "amount": "Buy 1 bag at Aldi; not yet purchased",
-    "storage": "Shopping — Aldi",
-    "priority": "Buy",
-    "notes": "For Ami's meal-prep lunches and snacks; not yet purchased"
+    "amount": "1 package Publix matchstick carrots purchased Nov 22 ($2.49)",
+    "storage": "Refrigerator",
+    "priority": "Use soon",
+    "notes": "For Ami's cold lunches and veggie snacks."
   },
   {
     "item": "Garlic oil (Asian market)",
@@ -3511,24 +3511,24 @@
   },
   {
     "item": "Petite potatoes",
-    "amount": "Requested by Ami ('pretty potatoes'), one bag; not yet purchased",
-    "storage": "Shopping — Publix or Sam's",
-    "priority": "Buy",
-    "notes": "For Ami's steak dinner; interpreted as petite/baby potatoes."
+    "amount": "1 package petite red potatoes purchased Publix Nov 22 ($5.99)",
+    "storage": "Pantry / cool dark place",
+    "priority": "Use soon",
+    "notes": "For Ami's steak dinner. Additional baby gold potatoes purchased too."
   },
   {
     "item": "Stove Top stuffing",
-    "amount": "1 box; not yet purchased",
-    "storage": "Shopping — Publix or Sam's",
-    "priority": "Buy",
-    "notes": "Ami's requested Stove Top stuffing for dinner."
+    "amount": "1 box Stove Top Turkey stuffing purchased Publix Nov 22 ($2.00)",
+    "storage": "Pantry",
+    "priority": "Normal",
+    "notes": "Ami's requested steak/birthday side."
   },
   {
     "item": "Cinnamon sticks",
-    "amount": "1 jar or pack; not yet purchased",
-    "storage": "Shopping — Publix or Sam's",
-    "priority": "Buy",
-    "notes": "Ami requested whole sticks, distinct from ground cinnamon in inventory."
+    "amount": "1 container McCormick cinnamon sticks purchased Publix Nov 22 ($7.49)",
+    "storage": "Spice cabinet",
+    "priority": "Normal",
+    "notes": "For Ami's apple cider; whole sticks, distinct from existing ground cinnamon."
   },
   {
     "item": "Apple cider",
@@ -3546,10 +3546,10 @@
   },
   {
     "item": "Fresh avocados",
-    "amount": "2–3; not yet purchased",
-    "storage": "Shopping — Publix or Sam's",
-    "priority": "Buy",
-    "notes": "For avocado toast and Ami's avocado salad."
+    "amount": "3 Hass avocados purchased Publix Nov 22 ($2.97)",
+    "storage": "Produce / refrigerate when ripe",
+    "priority": "Use soon",
+    "notes": "For Ami's avocado toast and avocado salad."
   },
   {
     "item": "Olive Garden Italian dressing",
@@ -3574,10 +3574,10 @@
   },
   {
     "item": "Vanilla bean",
-    "amount": "1 whole bean if making pictured crème brûlée; purchase not yet confirmed",
-    "storage": "Shopping — Publix or Sam's",
-    "priority": "Check/buy",
-    "notes": "Screenshot recipe uses one vanilla bean; not vanilla extract."
+    "amount": "1 McCormick 2-count whole vanilla bean package purchased Publix Nov 22 ($10.59)",
+    "storage": "Pantry",
+    "priority": "Normal",
+    "notes": "For crème brûlée; two whole beans in package."
   },
   {
     "item": "Grape tomatoes",
@@ -3605,6 +3605,62 @@
     "amount": "1 pack purchased Sam's Club Nov 22 ($10.68)",
     "storage": "Kitchen supplies",
     "notes": "28 oz disposable/storage containers as shown; NOT small dressing condiment cups.",
+    "priority": "Normal"
+  },
+  {
+    "item": "Baby gold potatoes",
+    "amount": "1 package purchased Publix Nov 22 ($4.99)",
+    "storage": "Pantry / cool dark place",
+    "notes": "Ami's birthday steak dinner; separate from petite red potatoes.",
+    "priority": "Use soon"
+  },
+  {
+    "item": "Plain bagels",
+    "amount": "1 package Thomas plain bagels purchased Publix Nov 22 ($5.49); prior 3 bagels on hand possibly separate",
+    "storage": "Pantry",
+    "notes": "Check older bagels before using new package.",
+    "priority": "Normal"
+  },
+  {
+    "item": "Publix shredded 4-cheese Mexican blend",
+    "amount": "1 package purchased Publix Nov 22 ($11.69); package size not clear",
+    "storage": "Refrigerator",
+    "notes": "For Mexican pizzas; receipt confirmed.",
+    "priority": "Normal"
+  },
+  {
+    "item": "Refried beans",
+    "amount": "2 cans Old El Paso traditional refried beans purchased Publix Nov 22 ($2.29 each)",
+    "storage": "Pantry",
+    "notes": "For Mexican pizzas.",
+    "priority": "Normal"
+  },
+  {
+    "item": "Red enchilada sauce",
+    "amount": "1 can Old El Paso mild enchilada sauce, 19 oz, purchased Publix Nov 22 ($4.39)",
+    "storage": "Pantry",
+    "notes": "For Mexican pizzas.",
+    "priority": "Normal"
+  },
+  {
+    "item": "Fine Himalayan salt",
+    "amount": "1 container O.T. fine Himalayan salt purchased Publix Nov 22 ($3.99)",
+    "storage": "Spice cabinet",
+    "notes": "New salt purchase; distinct from existing salt.",
+    "priority": "Normal"
+  },
+  {
+    "item": "Thai red curry paste",
+    "amount": "1 Thai Kitchen red curry paste purchased Publix Nov 22 ($6.75)",
+    "storage": "Pantry",
+    "notes": "For optional Tom Kha Gai enhancement.",
+    "priority": "Normal"
+  },
+  {
+    "item": "Swanson chicken stock",
+    "amount": "2 cartons purchased Publix Nov 22 (buy-one-get-one; $3.29 total)",
+    "storage": "Pantry",
+    "notes": "Plain chicken stock for wonton soup; carton size not on receipt.",
     "priority": "Normal"
   }
 ]
