@@ -11,10 +11,10 @@
   },
   {
     "item": "Granny Smith apples",
-    "amount": "Remaining amount unknown; buy fresh Granny Smith or Cosmic Crisp this week",
+    "amount": "Fresh bag/purchase Aldi Nov 22 ($3.49), count unspecified",
     "storage": "Refrigerator",
-    "priority": "Restock",
-    "notes": "Chef requested restock Nov 22; Granny Smith preferred, Cosmic Crisp acceptable; existing refrigerator stock not verified.",
+    "priority": "Normal",
+    "notes": "Chef restocked preferred Granny Smith apples. Previous remainder uncertain.",
     "category": "Fridge",
     "location": "Top right shelf",
     "staple": false
@@ -2991,10 +2991,10 @@
   },
   {
     "item": "Chopped salad kits",
-    "amount": "0 kits remaining; both used Nov 15",
+    "amount": "2 kits bought Nov 22: Asian chopped salad and Southwest salad ($2.95 each)",
     "storage": "Refrigerator",
-    "priority": "Out",
-    "notes": "Both remaining salad kits assembled into four lunches Nov 15 (2 lunches per kit). Kit dressing divided; extra existing dressing used to supplement.",
+    "priority": "Use soon",
+    "notes": "Fresh lunch-prep kits; prior Nov 15 kits already used and are not included in these two.",
     "category": "Fridge",
     "location": "Produce area",
     "staple": false
@@ -3445,5 +3445,68 @@
     "storage": "Pantry — check label",
     "notes": "Ami's favorite rare find at Asian market; family joke 'mooncakes and vodka'. Packaging/quantity not shown; check shelf life and storage instructions.",
     "priority": "Normal"
+  },
+  {
+    "item": "Organic brown eggs",
+    "amount": "1 carton purchased Aldi Nov 22 ($3.75); count not shown",
+    "storage": "Refrigerator",
+    "notes": "Aldi receipt confirms organic brown eggs, pack size unspecified.",
+    "priority": "Normal"
+  },
+  {
+    "item": "Ham lunchmeat",
+    "amount": "1 lb purchased Aldi Nov 22 ($5.89)",
+    "storage": "Refrigerator",
+    "notes": "For Ami's Cuban-inspired pinwheels / charcuterie.",
+    "priority": "Normal"
+  },
+  {
+    "item": "Fajita flour tortillas (20 ct)",
+    "amount": "1 package of 20 purchased Aldi Nov 22 ($1.85)",
+    "storage": "Pantry / refrigerator per packaging",
+    "notes": "For Mexican pizzas, pan-fry lightly in shallow oil. Distinct from larger homestyle wrap tortillas.",
+    "priority": "Normal"
+  },
+  {
+    "item": "Salami collection",
+    "amount": "1 package purchased Aldi Nov 22 ($5.99)",
+    "storage": "Refrigerator",
+    "notes": "For Ami's charcuterie lunches; previous salami ~6 slices was separate older inventory.",
+    "priority": "Normal"
+  },
+  {
+    "item": "Smoked Gouda round",
+    "amount": "1 round purchased Aldi Nov 22 ($3.59)",
+    "storage": "Refrigerator",
+    "notes": "Charcuterie cheese for Ami's creative lunches.",
+    "priority": "Normal"
+  },
+  {
+    "item": "Prosciutto",
+    "amount": "1 package purchased Aldi Nov 22 ($3.59)",
+    "storage": "Refrigerator",
+    "notes": "For charcuterie lunches; keep cold.",
+    "priority": "Normal"
+  },
+  {
+    "item": "Baby Swiss slices",
+    "amount": "1 package purchased Aldi Nov 22 ($3.49)",
+    "storage": "Refrigerator",
+    "notes": "For Cuban-inspired pinwheels.",
+    "priority": "Normal"
+  },
+  {
+    "item": "Beefsteak tomatoes",
+    "amount": "1 purchase Aldi Nov 22 ($2.99), count unspecified",
+    "storage": "Refrigerator / produce",
+    "notes": "For Mexican pizza toppings or salads.",
+    "priority": "Normal"
+  },
+  {
+    "item": "Brussels sprouts",
+    "amount": "2 units purchased Aldi Nov 22 (2 × $1.99 = $3.98)",
+    "storage": "Refrigerator",
+    "notes": "Aldi receipt: 2 Brussels sprouts packages/units; amount/weight unspecified.",
+    "priority": "Use soon"
   }
 ]
