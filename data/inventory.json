@@ -413,8 +413,8 @@
     "item": "Avocados",
     "amount": "Reduced; exact count verify",
     "storage": "Refrigerator",
-    "priority": "Use soon",
-    "notes": "Used for California Heat tacos; check remaining ripeness/count",
+    "priority": "Check stock",
+    "notes": "Nov 22 breakfast plan: avocado toast every morning for Ami. Fresh avocado count/ripeness unverified; guacamole cups also on hand as fallback.",
     "category": "Fridge",
     "location": "Right crisper",
     "staple": true
@@ -2564,7 +2564,7 @@
     "amount": "On hand",
     "storage": "Spice cabinet",
     "priority": "Normal",
-    "notes": "Seasoning infrastructure",
+    "notes": "On hand (location not yet found). Chef plans to use everything bagel seasoning on Ami's daily avocado toast; check whether this spicy variation is the intended seasoning.",
     "category": "Spices",
     "location": "Spice cabinet",
     "staple": false
@@ -3305,5 +3305,19 @@
     "storage": "Freezer",
     "priority": "Reference",
     "notes": "Alias only; do not count extra chicken from the same photo."
+  },
+  {
+    "item": "Special artisan bread for Ami's avocado toast",
+    "amount": "1 loaf on hand (exact type unspecified)",
+    "storage": "Bread storage — verify",
+    "priority": "Use soon",
+    "notes": "Chef confirmed Nov 22 special bread on hand for Ami's daily morning avocado toast this week."
+  },
+  {
+    "item": "Fresh sprouts",
+    "amount": "On hand; quantity unconfirmed",
+    "storage": "Refrigerator",
+    "priority": "Use soon",
+    "notes": "Chef confirmed sprouts for Ami's avocado toast. Check freshness and package date; keep refrigerated."
   }
 ]
