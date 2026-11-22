@@ -3424,5 +3424,12 @@
     "storage": "Shopping — Produce",
     "priority": "Alternative",
     "notes": "Buy only if Granny Smith quality or availability is poor; avoid counting twice."
+  },
+  {
+    "item": "Matchstick carrots",
+    "amount": "Buy 1 bag at Aldi; not yet purchased",
+    "storage": "Shopping — Aldi",
+    "priority": "Buy",
+    "notes": "For Ami's meal-prep lunches and snacks; not yet purchased"
   }
 ]
