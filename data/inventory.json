@@ -3336,24 +3336,24 @@
   },
   {
     "item": "Baby bok choy",
-    "amount": "Need 3–4 small heads; not yet purchased",
-    "storage": "Shopping list — Asian market",
-    "priority": "Buy",
-    "notes": "For Chinese-style mini wonton soup. Add near end so stems cook but greens remain tender."
+    "amount": "1.08 lb purchased Nov 22 ($4.31)",
+    "storage": "Refrigerator",
+    "priority": "Use soon",
+    "notes": "Asian market receipt; for wonton soup. Do not buy again this trip."
   },
   {
     "item": "Fresh lemongrass",
-    "amount": "Check/buy 2 stalks at Asian market",
-    "storage": "Shopping list — Asian market",
-    "priority": "Check/buy",
-    "notes": "For Tom Kha Gai; not confirmed on hand."
+    "amount": "0.24 lb purchased Nov 22 ($0.95)",
+    "storage": "Refrigerator",
+    "priority": "Use soon",
+    "notes": "Asian-market fresh lemongrass stalks, seen in store photo; for Tom Kha."
   },
   {
     "item": "Fresh galangal",
-    "amount": "Check/buy a small piece at Asian market",
-    "storage": "Shopping list — Asian market",
-    "priority": "Check/buy",
-    "notes": "For authentic Tom Kha Gai; not confirmed on hand."
+    "amount": "8 oz bag frozen sliced purchased Nov 22 ($3.99)",
+    "storage": "Freezer",
+    "priority": "Normal",
+    "notes": "Asian Best galanga sliced, bag shown in photo; keep frozen and use ~8–10 slices for Tom Kha."
   },
   {
     "item": "Fish sauce",
@@ -3364,10 +3364,10 @@
   },
   {
     "item": "Thai chilies",
-    "amount": "Optional; check/buy",
-    "storage": "Shopping list — Asian market",
-    "priority": "Check/buy",
-    "notes": "For Ami's preferred Thai-hot soup; adjust per bowl."
+    "amount": "0.68 lb purchased Nov 22 ($6.79)",
+    "storage": "Refrigerator",
+    "priority": "Use soon",
+    "notes": "Asian-market Thai red chili; hot, use cautiously for Tom Kha and freeze surplus if desired."
   },
   {
     "item": "Fresh cilantro",
@@ -3378,10 +3378,10 @@
   },
   {
     "item": "Makrut lime leaves",
-    "amount": "Optional; buy if available",
+    "amount": "Not found at Asian market Nov 22; skip for this week's Tom Kha",
     "storage": "Shopping list — Asian market",
-    "priority": "Check/buy",
-    "notes": "Aromatic flavor for Tom Kha Gai; not essential."
+    "priority": "Skip",
+    "notes": "Use lime zest from limes already on hand instead. Do not buy elsewhere this trip."
   },
   {
     "item": "Coconut oil",
@@ -3431,5 +3431,19 @@
     "storage": "Shopping — Aldi",
     "priority": "Buy",
     "notes": "For Ami's meal-prep lunches and snacks; not yet purchased"
+  },
+  {
+    "item": "Garlic oil (Asian market)",
+    "amount": "1 bottle purchased Nov 22 ($4.49)",
+    "storage": "Pantry",
+    "notes": "Garlic oil listed on Asian-market receipt; don't confuse with existing garlic-infused olive oil.",
+    "priority": "Normal"
+  },
+  {
+    "item": "Mooncakes",
+    "amount": "1 purchase/pack, quantity unspecified ($23.00)",
+    "storage": "Pantry — check label",
+    "notes": "Ami's favorite rare find at Asian market; family joke 'mooncakes and vodka'. Packaging/quantity not shown; check shelf life and storage instructions.",
+    "priority": "Normal"
   }
 ]
