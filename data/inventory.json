@@ -3319,5 +3319,19 @@
     "storage": "Refrigerator",
     "priority": "Use soon",
     "notes": "Chef confirmed sprouts for Ami's avocado toast. Check freshness and package date; keep refrigerated."
+  },
+  {
+    "item": "Fresh shiitake mushrooms (farmers market)",
+    "amount": "Purchased Nov 21; quantity not specified",
+    "storage": "Refrigerator",
+    "priority": "Use soon",
+    "notes": "Fresh farmers-market shiitake for planned Tom Kha Gai soup week of Nov 22. Check freshness."
+  },
+  {
+    "item": "Tiny Asian mushrooms (farmers market, unidentified)",
+    "amount": "Purchased Nov 21; quantity not specified",
+    "storage": "Refrigerator",
+    "priority": "Use soon",
+    "notes": "Small Asian mushroom variety purchased for soups. Could be enoki, shimeji/beech mushrooms, or another species; do not identify without photo or seller label. Keep refrigerated; use only if identified as edible by a reliable source."
   }
 ]
