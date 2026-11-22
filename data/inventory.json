@@ -461,10 +461,10 @@
   },
   {
     "item": "Homestyle tortillas",
-    "amount": "Plenty of tortillas/wraps on hand after Nov 15 prep; specific package counts unconfirmed",
+    "amount": "0 regular large flour wraps remaining",
     "storage": "Refrigerator",
     "priority": "Use soon",
-    "notes": "Chef confirmed ample regular tortillas for wraps despite five used Nov 15. Usually assembles his regular meat-and-cheese wraps fresh in morning to prevent sogginess; don't automatically buy more.",
+    "notes": "Four assembled pinwheel rolls Nov 22; one tortilla ripped and another used to patch. Chef confirms out of regular flour wraps. Spinach and 20-count small fajita tortillas remain separate.",
     "category": "Fridge",
     "location": "Meat/cheese drawer",
     "staple": false
@@ -3455,9 +3455,9 @@
   },
   {
     "item": "Ham lunchmeat",
-    "amount": "1 lb purchased Aldi Nov 22 ($5.89)",
+    "amount": "About 0.5 lb remaining from original 1 lb Aldi package",
     "storage": "Refrigerator",
-    "notes": "For Ami's Cuban-inspired pinwheels / charcuterie.",
+    "notes": "Approximately half pound used in four Cuban-style pinwheel rolls Nov 22.",
     "priority": "Normal"
   },
   {
@@ -3490,9 +3490,9 @@
   },
   {
     "item": "Baby Swiss slices",
-    "amount": "1 package purchased Aldi Nov 22 ($3.49)",
+    "amount": "0 remaining — entire Aldi package used Nov 22",
     "storage": "Refrigerator",
-    "notes": "For Cuban-inspired pinwheels.",
+    "notes": "Four Cuban-style ham/Swiss/pickle/mustard pinwheel rolls consumed entire pack.",
     "priority": "Normal"
   },
   {
@@ -3662,5 +3662,12 @@
     "storage": "Pantry",
     "notes": "Plain chicken stock for wonton soup; carton size not on receipt.",
     "priority": "Normal"
+  },
+  {
+    "item": "Prepared Cuban-style pinwheel rolls",
+    "amount": "4 rolls, unsliced, chilling in refrigerator",
+    "storage": "Refrigerator",
+    "priority": "Use first",
+    "notes": "Assembled Nov 22: mustard, ham, all Aldi Baby Swiss, petite dill pickles; used all large regular flour wraps, including one to patch torn tortilla. Slice after chilling and use refrigerated promptly; quantity of pinwheel pieces pending."
   }
 ]
