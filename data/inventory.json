@@ -461,10 +461,10 @@
   },
   {
     "item": "Homestyle tortillas",
-    "amount": "0 regular large flour wraps remaining",
+    "amount": "0 remaining",
     "storage": "Refrigerator",
-    "priority": "Use soon",
-    "notes": "Four assembled pinwheel rolls Nov 22; one tortilla ripped and another used to patch. Chef confirms out of regular flour wraps. Spinach and 20-count small fajita tortillas remain separate.",
+    "priority": "Out",
+    "notes": "Nov 22 four ham-and-Swiss pinwheel rolls consumed last regular flour wraps; spinach wraps remain and 20-count fajita tortillas reserved for pizzas.",
     "category": "Fridge",
     "location": "Meat/cheese drawer",
     "staple": false
@@ -561,30 +561,30 @@
   },
   {
     "item": "Goat cheese",
-    "amount": "~1/2 log",
+    "amount": "Not currently on hand — older inventory entry incorrect",
     "storage": "Refrigerator",
-    "priority": "Use soon",
-    "notes": "Charcuterie/spreads",
+    "priority": "Out",
+    "notes": "Chef verified Nov 22 these prior charcuterie cheese entries are no longer in the kitchen; do not plan meals using them.",
     "category": "Fridge",
     "location": "Meat/cheese drawer",
     "staple": false
   },
   {
     "item": "Merlot cheese",
-    "amount": "~1/2 wedge",
+    "amount": "Not currently on hand — older inventory entry incorrect",
     "storage": "Refrigerator",
-    "priority": "Use soon",
-    "notes": "Charcuterie",
+    "priority": "Out",
+    "notes": "Chef verified Nov 22 these prior charcuterie cheese entries are no longer in the kitchen; do not plan meals using them.",
     "category": "Fridge",
     "location": "Meat/cheese drawer",
     "staple": false
   },
   {
     "item": "Soft white cheese wedge",
-    "amount": "~1/2 wedge",
+    "amount": "Not currently on hand — older inventory entry incorrect",
     "storage": "Refrigerator",
-    "priority": "Use soon",
-    "notes": "Charcuterie",
+    "priority": "Out",
+    "notes": "Chef verified Nov 22 these prior charcuterie cheese entries are no longer in the kitchen; do not plan meals using them.",
     "category": "Fridge",
     "location": "Meat/cheese drawer",
     "staple": false
@@ -2391,10 +2391,10 @@
   },
   {
     "item": "Taco seasoning",
-    "amount": "On hand",
+    "amount": "1 Old El Paso Original 1 oz packet found Nov 22; being used in Mexican pizza beef tonight; 0 remaining afterward",
     "storage": "Spice cabinet",
-    "priority": "Normal",
-    "notes": "Seasoning infrastructure",
+    "priority": "Restock next run",
+    "notes": "Chef found only one packet, confirmed from photo. Add taco seasoning to next shopping list after current meal.",
     "category": "Spices",
     "location": "Spice cabinet",
     "staple": false
@@ -3476,10 +3476,10 @@
   },
   {
     "item": "Smoked Gouda round",
-    "amount": "1 round purchased Aldi Nov 22 ($3.59)",
+    "amount": "1 Aldi round on hand, quantity remaining unverified",
     "storage": "Refrigerator",
-    "notes": "Charcuterie cheese for Ami's creative lunches.",
-    "priority": "Normal"
+    "notes": "Confirmed by Chef as the only current charcuterie-style cheese; use for lunch charcuterie.",
+    "priority": "Use soon"
   },
   {
     "item": "Prosciutto",
